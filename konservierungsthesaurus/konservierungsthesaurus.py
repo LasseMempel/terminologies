@@ -52,7 +52,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     ]
 
     extendedTuples = [
-        ("source", DC.source, Literal, False),
+        ("source", SKOS.note, Literal, False), # DC.source
         #("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
         ("translation", SKOS.altLabel, Literal, True)
