@@ -3089,4 +3089,3 @@
             prov:endedAtTime "2025-02-18T10:28:43.208159"^^xsd:dateTime ;
             prov:startedAtTime "2025-02-18T10:28:43.143740"^^xsd:dateTime ;
             prov:wasAssociatedWith <https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py> ] .
-
