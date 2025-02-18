@@ -9,7 +9,7 @@ df = pd.read_csv("items.csv")
 parentDf = pd.read_csv("parent.csv")
 #print(df)
 
-baseUri = "https://www.lassemempel.github.io/Terminologien/NAVISone"
+baseUri = "https://www.lassemempel.github.io/terminologies/NAVISone"
 
 parentDfColumns = ["id","navisid","de","en","dk","nl","fr","it","es","pl","gr","he"]
 
