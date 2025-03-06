@@ -105,9 +105,6 @@
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/NAVISone"
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/"
     }
   ],
   "inSchemeAll": [
@@ -121,9 +118,6 @@
   "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/NAVISone"
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/"
     }
   ],
   "@context": {
