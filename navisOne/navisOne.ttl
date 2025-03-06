@@ -3326,25 +3326,3 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/7>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/8>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/9> .
-
-<https://www.lassemempel.github.io/terminologies/NAVISone/> a skos:ConceptScheme ;
-    dc:creator "Florian Thiery" ;
-    dc:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
-    dc:title "NAVISone"@de ;
-    skos:hasTopConcept <https://www.lassemempel.github.io/terminologies/NAVISone/1>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/10>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/11>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/12>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/13>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/14>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/15>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/16>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/19>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/2>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/3>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/4>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/6>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/7>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/8>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/9> .
-
