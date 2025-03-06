@@ -4,8 +4,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0093DC> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schale"@de,
         "Skal"@dk,
         "Shell"@en,
@@ -19,16 +18,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0234D3> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Utrecht 3"@de,
         "Utrecht 3"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/02A954> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderverblendung"@de,
         "Rorvinge"@dk,
         "Rudder wing"@en,
@@ -42,8 +39,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/03297B> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Beschlag"@de,
         "Beslag"@dk,
         "Fitting"@en,
@@ -57,8 +53,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/06BE5F> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Spant"@de,
         "Spant"@dk,
         "Frame"@en,
@@ -72,8 +67,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/074F8A> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gut (Stehend)"@de,
         "Rig (Stående)"@dk,
         "Rigging (Standing)"@en,
@@ -87,8 +81,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/09BEBF> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kimmholz"@de,
         "kimingsplanke"@dk,
         "chine block"@en,
@@ -102,8 +95,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/09DF17> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bodenplanke"@de,
         "Bundplanke"@dk,
         "Bottom Plank"@en,
@@ -117,8 +109,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0A8516> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gestakt"@de,
         "Staget"@dk,
         "Punted"@en,
@@ -132,8 +123,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0B9A28> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Totgang"@de,
         "indskudt bord"@dk,
         "stealer"@en,
@@ -145,8 +135,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0BE8C2> a skos:Concept ;
     dc:source "tblDictionaryDECKS" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/8> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Decksbalken"@de,
         "Bjælke"@dk,
         "Joist"@en,
@@ -160,8 +149,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0D16A2> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kimmstringer"@de,
         "Kimingsvæger"@dk,
         "Bilge Stringer"@en,
@@ -175,8 +163,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/0E4547> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Segel (Sprit)"@de,
         "Sejl"@dk,
         "Sail (Sprit)"@en,
@@ -190,8 +177,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/10E2CF> a skos:Concept ;
     dc:source "tblDictionaryDECKS" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/8> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Laufplanke"@de,
         "Gangbro"@dk,
         "Gangway"@en,
@@ -204,8 +190,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1149D5> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Rah"@de,
         "Rå"@dk,
         "Yard"@en,
@@ -219,8 +204,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/130F84> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Seitensteven"@de,
         "Sidestævn"@dk,
         "Side Stempost"@en,
@@ -234,8 +218,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/15087C> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Artillerie"@de,
         "Artelleri"@dk,
         "Artillery"@en,
@@ -248,8 +231,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/178A10> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Jungfer-Block"@de,
         "Jomfru"@dk,
         "Deadeye"@en,
@@ -263,8 +245,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1975C4> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Rad"@de,
         "Hjul"@dk,
         "Wheel"@en,
@@ -278,8 +259,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1C41AC> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kraweel Beplankt"@de,
         "Kravel bygget"@dk,
         "Carvel Build"@en,
@@ -293,8 +273,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1C43CA> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastfisch"@de,
         "Mastfisk"@dk,
         "Mast Fish"@en,
@@ -308,8 +287,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1C9D25> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastspant"@de,
         "Mastespant"@dk,
         "Mast Frame"@en,
@@ -323,8 +301,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1D1955> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nagel"@de,
         "Spiger, Søm"@dk,
         "Nail"@en,
@@ -338,8 +315,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1E27F0> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gepaddelt und gesegelt"@de,
         "Padlet og sejlet"@dk,
         "Paddled and sailed"@en,
@@ -353,8 +329,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1EB740> a skos:Concept ;
     dc:source "tblDictionarySURFACETREATMENT" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/16> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Dekoration"@de,
         "Dekoration"@dk,
         "Decoration"@en,
@@ -368,8 +343,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1F4820> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Masttopp"@de,
         "Mastetop"@dk,
         "Masthead"@en,
@@ -382,8 +356,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/1F8C94> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Geklinkert"@de,
         "Klinkbygget"@dk,
         "Clinker Build"@en,
@@ -397,8 +370,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/20AB84> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kielschwein"@de,
         "Kølsvin"@dk,
         "Keelson"@en,
@@ -416,8 +388,7 @@
         "Main structural members running for and aft along the bottom of a ship or boat, to which the frame of the vessel is attached. (Getty AAT)"@en ;
     skos:exactMatch <http://vocab.getty.edu/aat/300263190>,
         <https://www.wikidata.org/wiki/Q582062> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kiel"@de,
         "Køl"@dk,
         "Keel"@en,
@@ -431,8 +402,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2143CF> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastbalken"@de,
         "Mastebjælke"@dk,
         "Mast Beam"@en,
@@ -446,8 +416,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2215C5> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bilgerinne"@de,
         "kølrende"@dk,
         "bilgerinne (ger)"@en,
@@ -460,24 +429,21 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/239F9C> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Brigg"@de,
         "Brigg"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/26941E> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Dover"@de,
         "Dover"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/29CBC9> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kielgang"@de,
         "Kølbord"@dk,
         "Garboard Strake"@en,
@@ -491,16 +457,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2A2031> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bolzen (Eisen)"@de,
         "Bolt (iron)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/2AC165> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Treidelpfosten"@de,
         "Mast (Slæbe)"@dk,
         "Mast (Towing)"@en,
@@ -514,8 +478,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2B8C74> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastspur"@de,
         "Mastespor"@dk,
         "Mast Step"@en,
@@ -529,16 +492,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2C6BDB> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kraweel (Beplankung)"@de,
         "Carvel build (planking)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/2D4862> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Steuerruder"@de,
         "Ror"@dk,
         "Rudder"@en,
@@ -552,8 +513,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2EA1AB> a skos:Concept ;
     dc:source "tblOperatingEnvironment" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/2> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "See"@de,
         "Hav"@dk,
         "Offshore"@en,
@@ -567,8 +527,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/2FF7C7> a skos:Concept ;
     dc:source "tblShipFunction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Funktion unbekannt"@de,
         "Ukendt skibsfunktion"@dk,
         "Unknown ship function"@en,
@@ -582,8 +541,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3323FF> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Navis caudicaria"@de,
         "Navis caudicaria"@dk,
         "Navis caudicaria"@en,
@@ -597,8 +555,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/346DF1> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gestakt und gesegelt"@de,
         "Staget og sejlet"@dk,
         "Punted and sailed"@en,
@@ -612,8 +569,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/379A2E> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ausleger"@de,
         "Udrigger"@dk,
         "Outrigger"@en,
@@ -626,8 +582,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3A3C90> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Boden"@de,
         "Bund"@dk,
         "Bottom"@en,
@@ -641,8 +596,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3A4334> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderfassung"@de,
         "Rorfæste"@dk,
         "Rudder Fitting"@en,
@@ -655,8 +609,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3C3311> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kanuausleger"@de,
         "Udrigger (Dugout)"@dk,
         "Outrigger dugout"@en,
@@ -669,8 +622,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3DE001> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Sponung"@de,
         "spunding"@dk,
         "rebate"@en,
@@ -683,8 +635,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/3FBE29> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Längsversteifung"@de,
         "Langsgående forstærkning"@dk,
         "Longitudinal Stiffener"@en,
@@ -698,8 +649,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/403A13> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Klampe"@de,
         "klamp"@dk,
         "cleat"@en,
@@ -713,16 +663,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/40D1A3> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mainz A"@de,
         "Mainz A"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/411EC9> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bug Sprit"@de,
         "Bovspryd"@dk,
         "Bowsprit"@en,
@@ -736,8 +684,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/4277CC> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Achterschiff"@de,
         "Agterskib"@dk,
         "Aft"@en,
@@ -751,16 +698,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/427FCF> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Einbaum (mit Gesamtdeck)"@de,
         "Dugout (with overall deck)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/431A1E> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nahtspant"@de,
         "liste"@dk,
         "lath"@en,
@@ -774,8 +719,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/434F04> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Knie"@de,
         "Knæ"@dk,
         "Knee"@en,
@@ -789,8 +733,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/441BAE> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Segel (Lateiner)"@de,
         "Sejl (Latiner)"@dk,
         "Sail (Lateen)"@en,
@@ -804,8 +747,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/45B061> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bugsporn"@de,
         "Krigen"@dk,
         "Cutwater"@en,
@@ -818,8 +760,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/47191C> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gang"@de,
         "Bordgang"@dk,
         "Strake"@en,
@@ -833,8 +774,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/4744EE> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bohrung"@de,
         "Syhul"@dk,
         "Stitch Hole"@en,
@@ -848,8 +788,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/49AA0C> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schäftung"@de,
         "Lask"@dk,
         "Scarf"@en,
@@ -863,8 +802,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/4B0A52> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Keipe"@de,
         "Kejpe"@dk,
         "Rowlock"@en,
@@ -878,16 +816,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/4EC602> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "North Ferriby"@de,
         "North Ferriby"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/4FF277> a skos:Concept ;
     dc:source "tblDictionaryPUNTINGANDTOWING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/13> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Stakstange"@de,
         "Stage"@dk,
         "Punting Pole"@en,
@@ -901,16 +837,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/51C929> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Zwammerdam 5"@de,
         "Zwammerdam 5"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/5472B2> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "hulkähnlich"@de,
         "Holktype"@dk,
         "Hulklike"@en,
@@ -924,8 +858,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/54D771> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bolzen"@de,
         "bolt"@dk,
         "bolt"@en,
@@ -939,8 +872,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/54E32C> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "wikingerschiffähnlich"@de,
         "Vikingeskibslignende"@dk,
         "Viking ship like"@en,
@@ -954,8 +886,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5601F3> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Aussparung"@de,
         "udsparing"@dk,
         "recess"@en,
@@ -969,8 +900,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5B0B41> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Anriss"@de,
         "opridsningsmærker"@dk,
         "setting out mark"@en,
@@ -984,8 +914,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5E0D28> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kimm (Rund)"@de,
         "Kiming"@dk,
         "Bilge"@en,
@@ -999,8 +928,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5ED27C> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Getreidelt und gepaddelt"@de,
         "Trukket og padlet"@dk,
         "Towed and paddled"@en,
@@ -1014,8 +942,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5EEC61> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Wrange"@de,
         "Bundstok"@dk,
         "Floor Timber"@en,
@@ -1029,8 +956,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5EF232> a skos:Concept ;
     dc:source "tblDictionarySUPERSTRUCTURE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/19> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Reling"@de,
         "Gelænder"@dk,
         "Rail"@en,
@@ -1043,8 +969,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5F47CB> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruder (Heck)"@de,
         "Hækror"@dk,
         "Rudder (Stern)"@en,
@@ -1057,8 +982,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/5F88DE> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Seitenspant"@de,
         "Sidespant"@dk,
         "Side Frame"@en,
@@ -1072,16 +996,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/610FD3> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Boden zuerst"@de,
         "Bottom first"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/619AD3> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Unbekannte Konstruktion"@de,
         "Ukendt konstruktion"@dk,
         "Unknown constructional feature"@en,
@@ -1094,8 +1016,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/61AB9E> a skos:Concept ;
     dc:source "tblDictionaryDECKS" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/8> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Deck"@de,
         "Dæk"@dk,
         "Deck"@en,
@@ -1109,8 +1030,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/63A6E4> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "koggenähnlich"@de,
         "Koggetype"@dk,
         "Coglike"@en,
@@ -1124,8 +1044,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/644D77> a skos:Concept ;
     dc:source "tblDictionarySUPERSTRUCTURE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/19> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Achterkastell"@de,
         "Agerkastel"@dk,
         "Aftcastle"@en,
@@ -1138,8 +1057,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/6471C5> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Naht"@de,
         "Nåd"@dk,
         "Seam"@en,
@@ -1153,8 +1071,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/648E0B> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Toppsegel"@de,
         "Sejl (Top)"@dk,
         "Sail (Top)"@en,
@@ -1167,16 +1084,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/6491C3> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kraweel (Seite)"@de,
         "Carvel build (side)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/655F73> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mast (Besanmast)"@de,
         "Mast (Mesan)"@dk,
         "Mast (Mizzen)"@en,
@@ -1190,16 +1105,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/679A09> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Woerden 1"@de,
         "Woerden 1"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/67C5EA> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Typ Igel"@de,
         "Igel"@dk,
         "Igel"@en,
@@ -1213,8 +1126,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/690B73> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schalenbauweise"@de,
         "Skalbygget"@dk,
         "Shell first"@en,
@@ -1226,8 +1138,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/69600C> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mast (Vormast)"@de,
         "Mast (Fokke)"@dk,
         "Mast (Fore)"@en,
@@ -1241,24 +1152,21 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/6A2A87> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Utrecht 1"@de,
         "Utrecht 1"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/6C1C1D> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Klinker (Seite)"@de,
         "Clinker build (side)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/705DB7> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Getreidelt"@de,
         "Trukket"@dk,
         "Towed"@en,
@@ -1272,8 +1180,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/71CB9C> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Vorsegel"@de,
         "Sejl (For)"@dk,
         "Sail (Fore)"@en,
@@ -1286,8 +1193,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/737BE7> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderbalken Stütze"@de,
         "Rorbjælke støtte"@dk,
         "Rudder Beam Stiffener"@en,
@@ -1301,16 +1207,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/7393C9> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nagel (Baum)"@de,
         "Nail (tree)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/75D305> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Paddel"@de,
         "Padle"@dk,
         "Paddle"@en,
@@ -1324,8 +1228,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/7B12A2> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gerudert"@de,
         "Roet"@dk,
         "Oared"@en,
@@ -1339,16 +1242,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/7D2D8B> a skos:Concept ;
     dc:source "n1.oe" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/2> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Küste"@de,
         "Coastal"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/7EA68E> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Anker"@de,
         "Anker"@dk,
         "Anchor"@en,
@@ -1362,8 +1263,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/7ED321> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Balken"@de,
         "Bjælke"@dk,
         "Beam"@en,
@@ -1377,8 +1277,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/7F16E0> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kaffe"@de,
         "Kaff"@dk,
         "Swim-Head"@en,
@@ -1392,8 +1291,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/807A0F> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderbalken"@de,
         "Rorbjælke"@dk,
         "Rudder Beam"@en,
@@ -1407,8 +1305,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/80B562> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Vorschiff"@de,
         "Forskib"@dk,
         "Fore"@en,
@@ -1422,8 +1319,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/817F57> a skos:Concept ;
     dc:source "tblDictionaryDECKS" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/8> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Decksplanke"@de,
         "Dæksplanke"@dk,
         "Deckplank"@en,
@@ -1437,8 +1333,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/85C3C2> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Rute"@de,
         "vidje"@dk,
         "withy"@en,
@@ -1451,8 +1346,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/87FFFB> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bug"@de,
         "Bov"@dk,
         "Bow"@en,
@@ -1466,8 +1360,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/883E8D> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Unbekannter Schiffstyp"@de,
         "Udefineret skibstype"@dk,
         "Undefined ship type"@en,
@@ -1481,8 +1374,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/88C1CD> a skos:Concept ;
     dc:source "tblDictionarySURFACETREATMENT" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/16> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kalfat"@de,
         "Kalfatring"@dk,
         "Caulking"@en,
@@ -1496,8 +1388,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8AFF10> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Dollbaum"@de,
         "Essingstringer"@dk,
         "Inwale"@en,
@@ -1511,8 +1402,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8B55C4> a skos:Concept ;
     dc:source "tblShipFunction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Militärfahrzeug"@de,
         "Militærfartøj"@dk,
         "Military vessel"@en,
@@ -1526,8 +1416,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8C0C1B> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gut (Laufend)"@de,
         "Rig (Løbende)"@dk,
         "Rigging (Running)"@en,
@@ -1541,8 +1430,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8CA594> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mittelsteven"@de,
         "Midterstævn"@dk,
         "Middle Stempost"@en,
@@ -1556,8 +1444,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8D23B1> a skos:Concept ;
     dc:source "tblShipFunction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Fischereifahrzeug"@de,
         "Fiskefartøj"@dk,
         "Fishing vessel"@en,
@@ -1571,8 +1458,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8E26B8> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "prahmähnlich"@de,
         "Pramtype"@dk,
         "Pramlike"@en,
@@ -1586,16 +1472,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/8FCA50> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nagel (Kupfer)"@de,
         "Nail (copper)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/938B4F> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Achtersteven"@de,
         "Agterstævn"@dk,
         "Sternpost"@en,
@@ -1609,8 +1493,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/9416B4> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Waffen"@de,
         "Bevæbning"@dk,
         "Weapons on board"@en,
@@ -1622,8 +1505,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/947F7A> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gerudert und gesegelt"@de,
         "Roet og sejlet"@dk,
         "Oared and sailed"@en,
@@ -1637,16 +1519,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/96911B> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Zwammerdam 3"@de,
         "Zwammerdam 3"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/977C4D> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kimm (Eckig)"@de,
         "Kiming Skarp"@dk,
         "Chine"@en,
@@ -1660,8 +1540,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/98614C> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Poller"@de,
         "Pullert"@dk,
         "Bollard"@en,
@@ -1675,8 +1554,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/9A4CAE> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Duchtstütze"@de,
         "Toftestander"@dk,
         "Thwart Stanchion"@en,
@@ -1690,8 +1568,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/9DF75C> a skos:Concept ;
     dc:source "tblDictionarySUPERSTRUCTURE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/19> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kabine"@de,
         "Kahyt"@dk,
         "Cabin"@en,
@@ -1705,8 +1582,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A00109> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Futterholz"@de,
         "fyldtræ"@dk,
         "filler"@en,
@@ -1719,8 +1595,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A14DDA> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Unbekannter Antrieb"@de,
         "Ukendt fremdrivningsmiddel"@dk,
         "Propulsion unknown"@en,
@@ -1734,8 +1609,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A1A0DE> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderducht (Sitz)"@de,
         "Tofte"@dk,
         "Thwart"@en,
@@ -1749,8 +1623,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A1B3F9> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schott"@de,
         "Skot"@dk,
         "Bulkhead"@en,
@@ -1764,16 +1637,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A21BCC> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Blackfriars"@de,
         "Blackfriars"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/A29AEA> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "gebunden"@de,
         "surret / Bundet sammen"@dk,
         "lashed / bound"@en,
@@ -1787,8 +1658,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A3C7CB> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Riemenpforte"@de,
         "årehul"@dk,
         "Oar Port"@en,
@@ -1802,8 +1672,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A3EBFA> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Rammsporn"@de,
         "Ramstævn"@dk,
         "Ram"@en,
@@ -1817,8 +1686,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A46547> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schnur"@de,
         "Sting"@dk,
         "Stitch"@en,
@@ -1832,8 +1700,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A6A046> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Flickung"@de,
         "reparation"@dk,
         "repair"@en,
@@ -1847,8 +1714,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A7A73E> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Aussensteven (hinten)"@de,
         "falsk agterstævn"@dk,
         "false stern"@en,
@@ -1860,8 +1726,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/A9FE4D> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Scheuerleiste"@de,
         "Fenderliste"@dk,
         "Fender"@en,
@@ -1875,8 +1740,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AB357C> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Zimmermannszeichen"@de,
         "tømrermærke"@dk,
         "carpenters mark"@en,
@@ -1889,8 +1753,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AB5CBB> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "galeerenähnlich"@de,
         "Galej"@dk,
         "Galley"@en,
@@ -1904,16 +1767,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/ABFB76> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mainz B"@de,
         "Mainz B"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/AC3D96> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Stevenschuh/Anlauf"@de,
         "stævnknæ"@dk,
         "gripe"@en,
@@ -1926,8 +1787,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AC906A> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Typ Neumagen"@de,
         "Neumagen"@dk,
         "Neumagen"@en,
@@ -1941,8 +1801,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AF5C8D> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastbereich"@de,
         "Masteområdet"@dk,
         "Mast Area"@en,
@@ -1956,8 +1815,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AF72E8> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Stütze"@de,
         "Stander"@dk,
         "Stanchion"@en,
@@ -1971,8 +1829,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/AFF00C> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Werkzeugspur"@de,
         "værktøjsspor"@dk,
         "tool mark"@en,
@@ -1986,8 +1843,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B00683> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "falscher Kiel"@de,
         "stråkøl"@dk,
         "false keel"@en,
@@ -2001,16 +1857,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B02E91> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Woerden 2"@de,
         "Woerden 2"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/B0535D> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Vordersteven"@de,
         "Forstævn"@dk,
         "Stempost"@en,
@@ -2024,8 +1878,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B0565D> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bargholz"@de,
         "Bergholt"@dk,
         "Wale"@en,
@@ -2039,8 +1892,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B0D70E> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Maststütze"@de,
         "Mastestøtte"@dk,
         "Mast Support"@en,
@@ -2053,8 +1905,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B0F013> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Typ Portus"@de,
         "Portus"@dk,
         "Portus"@en,
@@ -2068,8 +1919,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B2CF95> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Papyrusboot"@de,
         "Papyrus boot"@dk,
         "Papyrus boat"@en,
@@ -2083,8 +1933,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B3B8F9> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gesegelt"@de,
         "Sejlet"@dk,
         "Sailed"@en,
@@ -2098,8 +1947,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B5BA3D> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bünte"@de,
         "Dam"@dk,
         "Fish well"@en,
@@ -2113,8 +1961,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B61EB9> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schanzkleid"@de,
         "Skanseklædning"@dk,
         "Bulwark"@en,
@@ -2127,8 +1974,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B6D026> a skos:Concept ;
     dc:source "tblDictionarySUPERSTRUCTURE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/19> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Vorderkastell"@de,
         "Forkastel"@dk,
         "Forecastle"@en,
@@ -2141,8 +1987,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/B8ECB5> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Holznagel"@de,
         "trænagle"@dk,
         "treenail"@en,
@@ -2156,24 +2001,21 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/BAED73> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Einbaum (erweitert)"@de,
         "Dugout (extended)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/BC332F> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nagel (Bronze)"@de,
         "Nail (bronze)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/BC75BB> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gepaddelt"@de,
         "Padlet"@dk,
         "Paddled"@en,
@@ -2187,8 +2029,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/BCE269> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Sprung"@de,
         "Spring"@dk,
         "Sheer"@en,
@@ -2202,8 +2043,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/BD12D8> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Skelettbauweise"@de,
         "Skeletbygget"@dk,
         "Skeleton first"@en,
@@ -2215,8 +2055,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/BE91AE> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Obersporn"@de,
         "øvre Ramstævn"@dk,
         "Upper Ram"@en,
@@ -2229,16 +2068,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C0B0E1> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Einbaum (Boden)"@de,
         "Dugout (bottom)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/C11F67> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Niet"@de,
         "Klinknagle"@dk,
         "Rivet"@en,
@@ -2252,8 +2089,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C399D6> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Winde"@de,
         "Vinde"@dk,
         "Winch"@en,
@@ -2267,8 +2103,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C42DC4> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Navis oneraria"@de,
         "Navis oneraria"@dk,
         "Navis oneraria"@en,
@@ -2282,16 +2117,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C4AA6D> a skos:Concept ;
     dc:source "n1.function" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Blockade"@de,
         "blockage"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/C4B24F> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Halbspant"@de,
         "Halvspant"@dk,
         "Half Frame"@en,
@@ -2305,8 +2138,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C5A0B6> a skos:Concept ;
     dc:source "tblShipFunction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Frachter"@de,
         "Transportfartøj"@dk,
         "Transport vessel"@en,
@@ -2320,8 +2152,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C71032> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Planke"@de,
         "Planke"@dk,
         "Plank"@en,
@@ -2335,8 +2166,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C7A87C> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Gerudert, gestakt und gesegelt"@de,
         "Roet, staget og sejlet"@dk,
         "Oared, punted and sailed"@en,
@@ -2350,16 +2180,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/C8BE01> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Pommeroeul 1"@de,
         "Pommeroeul 1"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/CDC760> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Spiegel"@de,
         "Spejl."@dk,
         "Mirror"@en,
@@ -2373,16 +2201,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/CEA053> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bolzen (Bronze)"@de,
         "Bolt (bronze)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/CFCC18> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Genäht"@de,
         "Syet"@dk,
         "Sewn"@en,
@@ -2396,8 +2222,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D03311> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Wegerung"@de,
         "Garnering"@dk,
         "Ceiling"@en,
@@ -2411,8 +2236,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D060C4> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schildhalterung"@de,
         "Skjoldliste"@dk,
         "Shield Holder"@en,
@@ -2426,8 +2250,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D10A1D> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Stevendekoration"@de,
         "Stævnfigur"@dk,
         "Figurehead"@en,
@@ -2441,8 +2264,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D12C93> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mastducht"@de,
         "Mastetofte"@dk,
         "Mast Thwart"@en,
@@ -2456,8 +2278,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D1CB84> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Dollbord"@de,
         "Essing"@dk,
         "Gunwale"@en,
@@ -2471,8 +2292,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D3FF82> a skos:Concept ;
     dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nut und Feder"@de,
         "Tap-i-hul-samling"@dk,
         "Mortice and Tenon"@en,
@@ -2486,8 +2306,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D59DA1> a skos:Concept ;
     dc:source "tblDictionarySURFACETREATMENT" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/16> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Plankenbeschlag"@de,
         "Forhudning"@dk,
         "Sheathing"@en,
@@ -2501,16 +2320,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D6F501> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Zwammerdam"@de,
         "Zwammerdam"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/D7F183> a skos:Concept ;
     dc:source "tblShipFunction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/1> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Arbeitsboot"@de,
         "Arbejdsbåd"@dk,
         "Working boat"@en,
@@ -2524,8 +2341,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D800BA> a skos:Concept ;
     dc:source "tblOperatingEnvironment" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/2> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Unbekannt"@de,
         "Ukendt anvendelsesområde"@dk,
         "Unknown operating environment"@en,
@@ -2539,8 +2355,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D81709> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "nüstergatt"@de,
         "lænsehul"@dk,
         "limber hole"@en,
@@ -2553,8 +2368,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D88694> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Einbaum"@de,
         "Stammebåd"@dk,
         "Dugout"@en,
@@ -2566,8 +2380,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/D8EF0C> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Dolle"@de,
         "Tolle"@dk,
         "Thole"@en,
@@ -2581,8 +2394,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/DB6446> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Heck"@de,
         "Hæk"@dk,
         "Stern"@en,
@@ -2596,8 +2408,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/DB88D4> a skos:Concept ;
     dc:source "tblDictionaryWARFARE" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/15> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schild"@de,
         "Skjold"@dk,
         "Shield"@en,
@@ -2610,8 +2421,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/DC8396> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Schandeckel"@de,
         "skandæk"@dk,
         "covering board"@en,
@@ -2623,8 +2433,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/DC89EB> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Langschiff"@de,
         "Langskib"@dk,
         "Longship"@en,
@@ -2638,8 +2447,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/DCA950> a skos:Concept ;
     dc:source "tblDictionaryROWINGANDPADDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/12> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Riemen"@de,
         "åre"@dk,
         "Oar"@en,
@@ -2653,8 +2461,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/E0984E> a skos:Concept ;
     dc:source "tblOperatingEnvironment" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/2> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Binnenland"@de,
         "Indland"@dk,
         "Inland"@en,
@@ -2668,16 +2475,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/E0BC8C> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Einbaum (mit Vorunter)"@de,
         "Dugout (with foredeck)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/E5EF06> a skos:Concept ;
     dc:source "tblPropulsion" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/3> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Getreidelt und gesegelt"@de,
         "Trukket og sejlet"@dk,
         "Towed and sailed"@en,
@@ -2691,8 +2496,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/E9E384> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Bugholz"@de,
         "stævnblok"@dk,
         "prow block"@en,
@@ -2705,16 +2509,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/EAC98D> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kraweel (Boden)"@de,
         "Carvel build (bottom)"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/EAD7A9> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Erweiterter Einbaum"@de,
         "Udspændt stammebåd"@dk,
         "Extended Dugout"@en,
@@ -2728,8 +2530,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/EB04DC> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Stringer"@de,
         "Stringer"@dk,
         "Stringer"@en,
@@ -2743,8 +2544,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/EB6A4F> a skos:Concept ;
     dc:source "tblWoordenboek" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Holzstift"@de,
         "pind"@dk,
         "peg"@en,
@@ -2758,16 +2558,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/ED5180> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Oberstimm"@de,
         "Oberstimm"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/EDB704> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Rack"@de,
         "Rakke"@dk,
         "Parrel"@en,
@@ -2781,8 +2579,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/EF0C63> a skos:Concept ;
     dc:source "tblDictionaryDECKS" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/8> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Lukendeckel"@de,
         "Luge"@dk,
         "Hatch"@en,
@@ -2796,8 +2593,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F0F917> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Auflanger"@de,
         "Oplænger"@dk,
         "Futtock"@en,
@@ -2811,8 +2607,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F426DE> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Kielplanke"@de,
         "Kølplanke"@dk,
         "Keel-Plank"@en,
@@ -2826,8 +2621,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F4405C> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Segel (Rah)"@de,
         "Sejl (Råsejl)"@dk,
         "Sail (Square)"@en,
@@ -2841,8 +2635,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F48592> a skos:Concept ;
     dc:source "tblShipType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Typ Blussus"@de,
         "Blussus"@dk,
         "Blussus"@en,
@@ -2856,8 +2649,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F71E8E> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/6> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Beplankung"@de,
         "Bordlægning"@dk,
         "Planking"@en,
@@ -2871,8 +2663,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/F9BB92> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Tau"@de,
         "Tov, Reb"@dk,
         "Rope"@en,
@@ -2886,8 +2677,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/FB341B> a skos:Concept ;
     dc:source "tblDictionaryHANDLING" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/14> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Block"@de,
         "Blok"@dk,
         "Pulley"@en,
@@ -2901,8 +2691,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/FBE946> a skos:Concept ;
     dc:source "tblDictionarySTEERINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/11> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Ruderpinne"@de,
         "Rorpind"@dk,
         "Rudder Pin"@en,
@@ -2915,16 +2704,14 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/FD7D75> a skos:Concept ;
     dc:source "n1.tblLookupType" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/4> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Nordic"@de,
         "Nordic"@en .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/FE0706> a skos:Concept ;
     dc:source "tblDictionarySAILINGGEAR" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/10> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mast (Hauptmast)"@de,
         "Mast"@dk,
         "Mast (Main)"@en,
@@ -2938,8 +2725,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/FE767B> a skos:Concept ;
     dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/7> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Querriegel"@de,
         "Tvårtømmer"@dk,
         "Transverse Timber"@en,
@@ -2953,8 +2739,7 @@
 <https://www.lassemempel.github.io/terminologies/NAVISone/FF8A47> a skos:Concept ;
     dc:source "tblLookupConstruction" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/NAVISone/9> ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:prefLabel "Mallenbauweise"@de,
         "Bygget på maller"@dk,
         "Mould construction"@en,
@@ -2964,52 +2749,43 @@
         "Mallenbouw"@nl .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/13> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/4FF277> ;
     skos:prefLabel "[Staken und treideln]"@de,
         "[punting and towing]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/16> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/1EB740>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/88C1CD>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/D59DA1> ;
     skos:prefLabel "[Oberflächenbehandlung]"@de,
         "[surface treatment]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/19> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/5EF232>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/644D77>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/9DF75C>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/B6D026> ;
     skos:prefLabel "[Aufbauten]"@de,
         "[superstructure]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/2> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/2EA1AB>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/7D2D8B>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/D800BA>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/E0984E> ;
     skos:prefLabel "[Arbeitsumgebung]"@de,
         "[operating environment]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/8> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/0BE8C2>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/10E2CF>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/61AB9E>,
@@ -3017,12 +2793,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/EF0C63> ;
     skos:prefLabel "[Decks und Weger]"@de,
         "[decks and ceilings]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/1> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/2FF7C7>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/8B55C4>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/8D23B1>,
@@ -3031,12 +2805,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/D7F183> ;
     skos:prefLabel "[Schiffsfunktion]"@de,
         "[ship function]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/14> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/1975C4>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/7EA68E>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/98614C>,
@@ -3045,12 +2817,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FB341B> ;
     skos:prefLabel "[Handhabung]"@de,
         "[handling]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/15> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/15087C>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/9416B4>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/A3EBFA>,
@@ -3059,12 +2829,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/DB88D4> ;
     skos:prefLabel "[Kriegsführung]"@de,
         "[warfare]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/11> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/02A954>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/2D4862>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/3A4334>,
@@ -3074,12 +2842,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FBE946> ;
     skos:prefLabel "[Ruderanlage]"@de,
         "[steering gear]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/12> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/379A2E>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/3C3311>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/4B0A52>,
@@ -3091,12 +2857,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/DCA950> ;
     skos:prefLabel "[Rudern und paddeln]"@de,
         "[rowing and paddling]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/3> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/0A8516>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/1E27F0>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/346DF1>,
@@ -3111,12 +2875,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/E5EF06> ;
     skos:prefLabel "[Antrieb]"@de,
         "[propulsion]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/7> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/06BE5F>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/0D16A2>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/130F84>,
@@ -3139,12 +2901,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FE767B> ;
     skos:prefLabel "[Innenkonstruktion]"@de,
         "[internal construction]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/10> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/074F8A>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/0E4547>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/1149D5>,
@@ -3170,12 +2930,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FE0706> ;
     skos:prefLabel "[Besegelung]"@de,
         "[sailing gear]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/4> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/0234D3>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/239F9C>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/26941E>,
@@ -3209,12 +2967,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FD7D75> ;
     skos:prefLabel "[Schiffstyp]"@de,
         "[ship type]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/6> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/0093DC>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/09BEBF>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/09DF17>,
@@ -3252,12 +3008,10 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/F71E8E> ;
     skos:prefLabel "[Rumpf]"@de,
         "[hull]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/9> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/NAVISone/03297B>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/1C41AC>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/1D1955>,
@@ -3303,8 +3057,7 @@
         <https://www.lassemempel.github.io/terminologies/NAVISone/FF8A47> ;
     skos:prefLabel "[Konstruktionsmerkmale]"@de,
         "[constructional features]"@en ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone>,
-        <https://www.lassemempel.github.io/terminologies/NAVISone/> .
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/NAVISone> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone> a skos:ConceptScheme ;
     dc:creator "Florian Thiery" ;

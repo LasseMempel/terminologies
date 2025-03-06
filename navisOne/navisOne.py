@@ -53,7 +53,7 @@ g.add((thesaurus, DC.creator, Literal("Florian Thiery")))
 for index, row in parentDf.iterrows():
 
 
-    concept = URIRef(baseUri + str(row["id"]))
+    #concept = URIRef(baseUri + str(row["id"]))
 
 
     concept = URIRef(thesaurusAddendum + str(row["id"]))
@@ -82,7 +82,7 @@ for index, row in parentDf.iterrows():
     for index2, row2 in df[df["fk_id_parent"] == row["id"]].iterrows():
 
 
-        concept2 = URIRef(baseUri + str(row2["id"]))
+        #concept2 = URIRef(baseUri + str(row2["id"]))
 
 
         concept2 = URIRef(thesaurusAddendum + str(row2["id"]))
