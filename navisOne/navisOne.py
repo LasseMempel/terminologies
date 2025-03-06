@@ -38,9 +38,6 @@ dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","f
 g = Graph()
 
 
-g.add((thesaurusAddendum, RDF.type, SKOS.ConceptScheme))
-
-
 g.add((thesaurusAddendum, DC.title, Literal("NAVISone", lang="de")))
 
 
