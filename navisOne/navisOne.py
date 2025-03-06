@@ -26,7 +26,6 @@ thesaurus = URIRef(baseUri)
 thesaurusAddendum = URIRef(baseUri + "/")
 
 
-
 parentDfColumns = ["id","navisid","de","en","dk","nl","fr","it","es","pl","gr","he"]
 
 
@@ -36,15 +35,6 @@ dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","f
 
 
 g = Graph()
-
-
-g.add((thesaurusAddendum, DC.title, Literal("NAVISone", lang="de")))
-
-
-g.add((thesaurusAddendum, DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
-
-
-g.add((thesaurusAddendum, DC.creator, Literal("Florian Thiery")))
 
 
 g.add((thesaurus, RDF.type, SKOS.ConceptScheme))
@@ -77,18 +67,9 @@ for index, row in parentDf.iterrows():
             g.add((concept, SKOS.prefLabel, Literal(row[language], lang=language)))
 
 
-    g.add((concept, SKOS.inScheme, thesaurusAddendum))
-
-
     g.add((concept, SKOS.inScheme, thesaurus))
 
     # top concept
-
-
-    g.add((concept, SKOS.topConceptOf, thesaurusAddendum))
-
-
-    g.add((thesaurusAddendum, SKOS.hasTopConcept, concept))
 
 
     g.add((concept, SKOS.topConceptOf, thesaurus))
@@ -113,9 +94,6 @@ for index, row in parentDf.iterrows():
             if not pd.isnull(row2[language]):
 
                 g.add((concept2, SKOS.prefLabel, Literal(row2[language], lang=language)))
-
-
-        g.add((concept2, SKOS.inScheme, thesaurusAddendum))
 
 
         g.add((concept2, SKOS.inScheme, thesaurus))
