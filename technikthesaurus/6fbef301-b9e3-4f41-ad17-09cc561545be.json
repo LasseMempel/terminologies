@@ -1,0 +1,174 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/6fbef301-b9e3-4f41-ad17-09cc561545be",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Briefecke"
+  },
+  "definition": {
+    "de": "Briefecken nennt man die schrägen Nähte an Saumecken, zum Beispiel bei einer Bluse mit Seitenschlitzen. So werden sie genäht:\r\n 1) Die Kante der Saum- und Schlitzzugabe wird ca. 5 mm breit zur linken Stoffseite umgebügelt.\r\n 2) Die Saumzugabe wird nach oben gelegt und die umgebügelte Kante der Saumzugabe mit Schneiderkreide auf der Schlitzzugabe (linke Stoffseite) markiert. Die Saumzugabe wird nach unten gelegt.\r\n 3) Nun wird auch die Schlitzzugabe nach innen gefaltet und die umgebügelte Kante auf der Saumzugabe markiert, die Schlitzzugabe wird dabei zurückgelegt.\r\n 4) Die beiden Markierungspunkte und die Saumecke werden durch eine gerade Linie verbunden.\r\n 5) Die Ecke wird so gefaltet, dass die Saumzugabe auf der Schlitzzugabe liegt. Zugaben werden entlang der Kreidelinie aufeinander gesteckt, gesteppt.\r\n 6) Der überstehende Stoff wird bis auf ca. 5 mm Nahtzugabe abgeschnitten, das untere Ende schräg abgeschnitten. Die Nahtzugaben werden auseinander gebügelt.\r\n 7) Schlitzzugabe und Saumzugabe werden nach innen gewendet, die Ecke vorsichtig mit einer Stecknadel herausgezupft. Schlitz- und Saumzugabe werden festgeheftet, die Kanten gebügelt. Von der rechten Stoffseite aus wird die Schlitz- und Saumzugabe festgesteppt."
+  },
+  "notation": [
+    "6fbef301-b9e3-4f41-ad17-09cc561545be"
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b4b3d4a5-69cf-4417-b47c-2382a90b2b5f",
+    "prefLabel": {
+      "de": "Ecksaum"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

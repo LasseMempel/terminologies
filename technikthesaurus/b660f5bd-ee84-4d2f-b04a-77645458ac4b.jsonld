@@ -1,0 +1,208 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b660f5bd-ee84-4d2f-b04a-77645458ac4b",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Anlegetechnik"
+  },
+  "altLabel": {
+    "de": [
+      "Anlegearbeit"
+    ]
+  },
+  "notation": [
+    "b660f5bd-ee84-4d2f-b04a-77645458ac4b"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/31ed27bf-b5d1-4737-a93b-b0ddc3765a40",
+      "prefLabel": {
+        "de": "Bogenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/54cf70aa-8d22-4840-b35d-c3eab6d36bda",
+      "prefLabel": {
+        "de": "arabische Technik"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/91dcc00c-b504-490f-9c39-3b70aec2fa96",
+      "prefLabel": {
+        "de": "Lasurstickerei"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/bf65d8b1-501c-4055-b289-a33af2c90091",
+      "prefLabel": {
+        "de": "orientalischer Flechtstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b3b04ada-afa0-4008-b843-3ae62e267879",
+      "prefLabel": {
+        "de": "versenkte Anlegetechnik"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a52df8e9-9b9d-4a25-b3c5-a0e600286b2e",
+    "prefLabel": {
+      "de": "Zwei- oder Mehrfadennäherei/-stickerei"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

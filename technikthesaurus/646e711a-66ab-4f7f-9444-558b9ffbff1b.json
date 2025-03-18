@@ -1,0 +1,323 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/646e711a-66ab-4f7f-9444-558b9ffbff1b",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Kettenstich"
+  },
+  "notation": [
+    "646e711a-66ab-4f7f-9444-558b9ffbff1b"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/0a142204-ed13-4288-a138-e1938ef95168",
+      "prefLabel": {
+        "de": "verlängerter Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/ea69e74c-e93f-4905-b426-28a17f1f7eef",
+      "prefLabel": {
+        "de": "Festonstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/15bebd87-0b6d-4489-a1c1-e2eb3cdc9602",
+      "prefLabel": {
+        "de": "Korallenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/3fb7b7cc-d429-4e5a-b339-60b39ceee777",
+      "prefLabel": {
+        "de": "Verschlingstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1b254cf2-f683-4450-b876-5a5ac60b05d6",
+      "prefLabel": {
+        "de": "verdoppelter einhängender Halbschlaufenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/dc4ba0eb-b87b-4643-9592-c932804e9b5b",
+      "prefLabel": {
+        "de": "Knötchenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/2cb66414-c3db-44db-908a-bf1a6f29ac2f",
+      "prefLabel": {
+        "de": "Federstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/3a780158-b218-4979-a6f0-1878ba6377a8",
+      "prefLabel": {
+        "de": "Viereckschlaufenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/4524ce59-eff7-44ad-b80e-6d3e2539cdb1",
+      "prefLabel": {
+        "de": "Kabelstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/45517c97-7452-467e-b7ca-8471f3d68403",
+      "prefLabel": {
+        "de": "verdoppelter umfassender Halbschlaufenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/529654fa-df63-4179-b26f-215e09ce7ed8",
+      "prefLabel": {
+        "de": "gekreuzter Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/5917acf4-da03-4fc1-9110-a0d2954959f9",
+      "prefLabel": {
+        "de": "Zackenschlaufenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/6d7c43c9-a719-430f-8444-ef934c98373f",
+      "prefLabel": {
+        "de": "slawischer doppelter Schlingknotenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/97a99095-961e-40dd-94f3-2548d291206c",
+      "prefLabel": {
+        "de": "Kettenknötchenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/8e1cf4ce-572f-483d-a43e-fac96754a052",
+      "prefLabel": {
+        "de": "Leiterstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/8e2d1e0b-9315-4ded-ad96-2fea7eaf4462",
+      "prefLabel": {
+        "de": "verdoppelter versetzter Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/98c335e1-d87f-40d3-a83b-ef8c98609253",
+      "prefLabel": {
+        "de": "stehender Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/9c925cff-68ce-4237-bcc2-e1cb434b2296",
+      "prefLabel": {
+        "de": "gekrönter Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a3fb044e-0bc3-4780-829e-d549a8308a99",
+      "prefLabel": {
+        "de": "geknoteter Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/9b39ad25-055a-4637-a9ad-d38a2b4fe7f7",
+      "prefLabel": {
+        "de": "überlanger Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/ae37c4d8-00b6-4c35-9734-0c5295412254",
+      "prefLabel": {
+        "de": "gestochener Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b492f168-662a-4127-887f-4264866545d9",
+      "prefLabel": {
+        "de": "offener Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b63b4866-725c-4815-9a45-0296f1d8e386",
+      "prefLabel": {
+        "de": "gegenständiger Kettenstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/d912e8f6-69b5-4aab-b622-b26e9b8335ac",
+      "prefLabel": {
+        "de": "Tambourierstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/e9330032-8b0d-4f8f-bae3-edfcf0c4e7fb",
+      "prefLabel": {
+        "de": "doppelter Kettenstich"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1e40ee3e-25d5-405b-818d-fd6605a2554f",
+    "prefLabel": {
+      "de": "Vorstich"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

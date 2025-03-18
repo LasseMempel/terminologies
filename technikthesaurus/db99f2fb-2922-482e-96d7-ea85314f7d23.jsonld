@@ -1,0 +1,203 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/db99f2fb-2922-482e-96d7-ea85314f7d23",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Florstoff auf der Grundlage von Geflechten"
+  },
+  "notation": [
+    "db99f2fb-2922-482e-96d7-ea85314f7d23"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1587d9ed-f95a-4ac1-bba1-3033438fdbe5",
+      "prefLabel": {
+        "de": "Flor durch Zwirnbinden gebildet"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/521adb34-190e-4f35-be63-aca285cbd48d",
+      "prefLabel": {
+        "de": "Flor durch Zweirichtungsflechten gebildet"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/7dc11610-4011-4f6d-a70e-588cfd71bbb9",
+      "prefLabel": {
+        "de": "Flor durch Mehrrichtungsflechten gebildet"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/9ea32e16-6941-486d-a015-a433ad0b13b9",
+      "prefLabel": {
+        "de": "Flor durch Umwickeln gebildet"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/c5104cd8-4be0-47e7-90f7-b711a98ccaa8",
+      "prefLabel": {
+        "de": "Flor durch Wulsthalbflechten gebildet"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/190aa9a7-1331-427a-9886-cbdae964a4d2",
+    "prefLabel": {
+      "de": "Florstoff"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

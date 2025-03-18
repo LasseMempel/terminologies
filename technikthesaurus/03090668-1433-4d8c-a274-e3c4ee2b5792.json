@@ -1,0 +1,221 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/03090668-1433-4d8c-a274-e3c4ee2b5792",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "kombinierter Kreuzstich"
+  },
+  "notation": [
+    "03090668-1433-4d8c-a274-e3c4ee2b5792"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/14200925-c2c0-4d37-aa27-5168846bfdd5",
+      "prefLabel": {
+        "de": "seitlich gerahmter diagonaler Kreuzstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/5e17f3d7-fa79-4530-bec8-61d5bc28df61",
+      "prefLabel": {
+        "de": "Smyrna-Kreuzstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/6900acfa-3c7d-4f72-b9b2-3a1b89550185",
+      "prefLabel": {
+        "de": "slavischer Zopfstich mit Einrandung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b8a7f019-d428-4810-bc92-1cc693bcb977",
+      "prefLabel": {
+        "de": "kombinierter Kreuzstich mit wertloser Kehrseite"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/c0ee810f-aa3a-46cd-9434-4a65893b66ce",
+      "prefLabel": {
+        "de": "doppelseitiger italienischer Kreuzstich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/cca2cdc7-c851-4c50-9b86-be6e28b00edb",
+      "prefLabel": {
+        "de": "Alphastich"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/cec05dee-475d-4b26-9e27-005e22f5419b",
+      "prefLabel": {
+        "de": "kombinierter Kreuzstich mit Kehrseite in Kästchen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/f7fe4b23-32ac-45eb-a6a4-80e297fd4bf6",
+      "prefLabel": {
+        "de": "doppelseitiger montenegrinischer Kreuzstich"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/31ee1189-cd6c-4683-bd24-040a6c9c9c42",
+    "prefLabel": {
+      "de": "Kreuzstich"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

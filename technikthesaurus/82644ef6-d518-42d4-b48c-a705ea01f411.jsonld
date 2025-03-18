@@ -1,0 +1,203 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/82644ef6-d518-42d4-b48c-a705ea01f411",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Verzierungstechnik <Holz>"
+  },
+  "notation": [
+    "82644ef6-d518-42d4-b48c-a705ea01f411"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/092f42b2-14f4-4adb-b528-71014d19fede",
+      "prefLabel": {
+        "de": "Auskleidung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/eeca0b4e-97ae-4305-91b3-7f857b4dae29",
+      "prefLabel": {
+        "de": "Belag"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/bc82d0bb-21d4-47d3-90b8-50370171658f",
+      "prefLabel": {
+        "de": "farbgebende Technik"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/9345954f-6aa8-432c-809f-269b3fc1103a",
+      "prefLabel": {
+        "de": "strukturierende Technik"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a1dbf572-a35a-4ddc-9252-4008520b7c84",
+      "prefLabel": {
+        "de": "Auf- und Einlage"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/658f6e2f-e8be-488f-b8cc-5872c63c7064",
+    "prefLabel": {
+      "de": "Holzverarbeitende Technik"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

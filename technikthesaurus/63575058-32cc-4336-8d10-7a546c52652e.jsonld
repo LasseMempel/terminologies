@@ -1,0 +1,181 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/63575058-32cc-4336-8d10-7a546c52652e",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Farblithographie"
+  },
+  "altLabel": {
+    "de": [
+      "Chromolithografie",
+      "Chromolithographie",
+      "Farbenlithografie"
+    ]
+  },
+  "definition": {
+    "de": "steindruck von mehreren Farbplatten (griech.: chroma >Farbe<; griech.: lithos >Stein<). Das aufwändige manuelle Verfahren erfreute sich im 19. Jh. vor allem im Hinblick auf Gemäldeersatz (\"Öldruck\") großer Beliebtheit. Um die gemäldehafte Buntfülle seiner Vorlageb zu erreichen, musste der Chomlithograf die Vorlage durch Transparentpausen in ihre Farbschichten zerlegen. Er ritzte in die Folien die Umrisse der Farbanteile ein und druckte diese Flächenränderungen auf eineeigene lithografische Platte- die Konturplatte- ab. Dann wurden von dieser Konturplatte so viele Farbanteile auf einzelne Lithoplatten \"abgeklatscht\" (Klatschdruck), wie die zu reproduzierensde Vorlage farbtöne aufwies. ... Die fertiigen Klatschdrucke wurden danach auf die endgültigen Lithoplatten umgedruckt (Umdruck) und schließloch nach bestimmter Reihenfolge übereinander zum einzelnen, alle Farbanteile auf sich versammelnden, Chromolitho zusammengedruckt- ein Vorgang der größte Präzision, erforderte. Erkennungsmerkmal der F. ist ihr glänzender, fetter Druck - deshalb auch \"Öldruck\"-, der an den dunklen Bildstellen, also den am häufigsten überdruckten Partien, meistens etwas verklebt und verharzt ist.... Die F. wurde zwar als Reproduktionsverfahren durch rationellere die Methode der Autotypie nach 1890 abgelöst...."
+  },
+  "notation": [
+    "63575058-32cc-4336-8d10-7a546c52652e"
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/62f21ef3-1be1-4736-8209-f9ab644e01c1",
+    "prefLabel": {
+      "de": "Lithographie"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

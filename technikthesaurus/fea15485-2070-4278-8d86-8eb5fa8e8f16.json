@@ -1,0 +1,359 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/fea15485-2070-4278-8d86-8eb5fa8e8f16",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Gewebebindung"
+  },
+  "notation": [
+    "fea15485-2070-4278-8d86-8eb5fa8e8f16"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/05082c84-105f-4480-8a15-53e2ae7b23f3",
+      "prefLabel": {
+        "de": "Soielainegewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/e661e61e-8de5-420e-9fc1-52d3b14f9be0",
+      "prefLabel": {
+        "de": "leinwandgewebt"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/25de6d26-74b7-4da1-98a7-da0a768288b1",
+      "prefLabel": {
+        "de": "köpergewebt"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/14434dcc-fd21-429d-93df-2bf7b876c447",
+      "prefLabel": {
+        "de": "Nadelstreifen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/ad1c4c19-59ce-4ba9-bbea-a48cdd339af1",
+      "prefLabel": {
+        "de": "mit drei und mehr Fadensystemen gewebt"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1c5f97be-76cb-46d2-b8be-57580c1861d3",
+      "prefLabel": {
+        "de": "Crêpe Georgette"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1ccca1e2-0d6c-4dfb-b7c8-da258e84cf0c",
+      "prefLabel": {
+        "de": "Nessel"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/75f04c6b-5d59-4d51-8ec7-ac63fa3c159b",
+      "prefLabel": {
+        "de": "atlasgewebt"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/f8adfad1-c137-4158-a26a-aea1ab4967b0",
+      "prefLabel": {
+        "de": "Drehergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/2ea87f5f-d1f4-4654-bfa4-577701a7727c",
+      "prefLabel": {
+        "de": "Renforcé"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/3fefb100-56d6-4753-aa06-8b157816f337",
+      "prefLabel": {
+        "de": "Kreidestreifen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/4227ac3a-9c7c-4d00-848d-7311f9a0c586",
+      "prefLabel": {
+        "de": "Bibergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/533bb865-de49-4bdd-b490-553b520fc74b",
+      "prefLabel": {
+        "de": "Seersucker"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/54f45862-bed3-4365-96d0-04dbf7ef8831",
+      "prefLabel": {
+        "de": "Plaidgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/56d617f3-d52f-4622-b800-7455979e383c",
+      "prefLabel": {
+        "de": "Tuch"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a874f313-09b7-4ec0-b10c-5173bdd65209",
+      "prefLabel": {
+        "de": "Kreppgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/63064d31-6403-4cff-a857-ffeb6c134951",
+      "prefLabel": {
+        "de": "Cheviotgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/67be130b-c501-404c-890f-4def8e5c3a5d",
+      "prefLabel": {
+        "de": "Bouclégewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/6deda585-74fc-475c-9d3f-4a0431516778",
+      "prefLabel": {
+        "de": "Ajourgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/756aa387-9dbe-4bac-b5ad-238e9fda2847",
+      "prefLabel": {
+        "de": "Changeantgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/79b1a0a8-b257-43b4-87f8-aef367f89361",
+      "prefLabel": {
+        "de": "Friségewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/82936ce1-c8e7-4acf-8100-8fd8f561aec7",
+      "prefLabel": {
+        "de": "Reversible"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/8ea51dbc-0c4c-488f-8499-b2c85090f631",
+      "prefLabel": {
+        "de": "Crashgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/93b1631e-2113-4cbf-be01-7ce61353f115",
+      "prefLabel": {
+        "de": "Flanell"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/9f4c93c4-37f9-4bca-a689-f3ee1788e3aa",
+      "prefLabel": {
+        "de": "Bourettegewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a5372b15-613b-4fe8-a120-849238ccf33d",
+      "prefLabel": {
+        "de": "Chinégewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a80fdb80-7888-4329-975e-cd24466fbd7d",
+      "prefLabel": {
+        "de": "Chintzgewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b5daf3a8-e7ac-4303-915e-7e39dc2fe999",
+      "prefLabel": {
+        "de": "Ausbrenner"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/e5a8b063-ca87-4ec5-8c8d-2e9c0023fbab",
+      "prefLabel": {
+        "de": "Glencheck"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/ee2b301b-dd2c-4164-a6a0-edf32b2b1f71",
+      "prefLabel": {
+        "de": "Lodengewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/f5c2f869-436d-476d-b63c-9faa4c69a50a",
+      "prefLabel": {
+        "de": "Borkenkreppgewebe"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/bb106cc0-4110-4d14-a975-4788926a5829",
+    "prefLabel": {
+      "de": "gewebt"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

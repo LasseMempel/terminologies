@@ -1,0 +1,293 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/d633d2f9-d445-4392-a5a7-bd4549a00a22",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "appretiert <Textile Technik>"
+  },
+  "notation": [
+    "d633d2f9-d445-4392-a5a7-bd4549a00a22"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/0c421da6-a966-4985-b3f0-31c235044f5c",
+      "prefLabel": {
+        "de": "gerauht <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/12331af6-62c5-4078-9296-246c1cc8375c",
+      "prefLabel": {
+        "de": "gechinzt <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/21028f7d-af87-4b64-8b0b-cc3e26612b04",
+      "prefLabel": {
+        "de": "gespannt <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/25a4ba3f-6007-4536-bbd6-54cdd682de8c",
+      "prefLabel": {
+        "de": "plissiert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/2c1ec42a-3440-47f6-87da-f50e4c5f331f",
+      "prefLabel": {
+        "de": "ausgerüstet <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/4273de48-1086-4807-b67c-a9d0197ecc99",
+      "prefLabel": {
+        "de": "gestärkt <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/474bcfa2-908f-4baa-aa3d-f83c8cd0e39b",
+      "prefLabel": {
+        "de": "gekrumpft <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/477c3014-80c8-4200-90e8-d980c851d572",
+      "prefLabel": {
+        "de": "gewalkt <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/491260fa-5943-4ba5-a9a1-7a12fa2adc20",
+      "prefLabel": {
+        "de": "glanzgestoßen <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/4a740a6d-c8b4-4f58-b885-cadf8ef99676",
+      "prefLabel": {
+        "de": "transparentiert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/4b63c7c9-9450-4bdc-b445-d8e4724a45cd",
+      "prefLabel": {
+        "de": "opalisiert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/64d79373-046b-4df2-8211-0dda9ec28f7a",
+      "prefLabel": {
+        "de": "geschliffen <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/8cfadf24-7d6e-471e-8d68-7e360a3aab47",
+      "prefLabel": {
+        "de": "gaufriert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/987b430e-1a2e-4664-9522-712ba775faab",
+      "prefLabel": {
+        "de": "imprägniert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/99ad236c-9f01-4686-b44b-e8e86f002fb6",
+      "prefLabel": {
+        "de": "kalandert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a3c5016a-67df-410c-839c-2458dacfb394",
+      "prefLabel": {
+        "de": "moiriert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/ac97bcd8-ab68-4800-8a02-d58db3156b49",
+      "prefLabel": {
+        "de": "geschert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/c0da64cf-6a71-4a6c-9282-7a4ecd1f4870",
+      "prefLabel": {
+        "de": "ratiniert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/cf020d48-9ecb-4826-9da0-ec9afc3e8f23",
+      "prefLabel": {
+        "de": "dekatiert <Textile Technik>"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/f96b52eb-6127-45eb-8a20-b73d09ba48a8",
+      "prefLabel": {
+        "de": "geprägt <Textile Technik>"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a41f7f36-016f-4775-9582-49dd00b0039d",
+    "prefLabel": {
+      "de": "Veredelungstechnik <Textile Technik>"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

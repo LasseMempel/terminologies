@@ -1,0 +1,287 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/25de6d26-74b7-4da1-98a7-da0a768288b1",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "köpergewebt"
+  },
+  "notation": [
+    "25de6d26-74b7-4da1-98a7-da0a768288b1"
+  ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/09d181e2-9093-4dde-a319-1f62a1a1b5cf",
+      "prefLabel": {
+        "de": "Drell"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/216eca62-a78a-49c2-8480-50d543dd6934",
+      "prefLabel": {
+        "de": "Twill"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/28a57e12-5562-411e-9890-71a82df007b4",
+      "prefLabel": {
+        "de": "Fischgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/3b568650-4d00-4f6b-b190-2e4f8bc7747d",
+      "prefLabel": {
+        "de": "Fil-à-fil"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/1cc23f45-3864-4e50-a9a9-08c1e953f135",
+      "prefLabel": {
+        "de": "Gleichgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/bf35a251-c328-4da9-b5be-64afcc63124c",
+      "prefLabel": {
+        "de": "Steilgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/72da32d6-c23a-41b2-ae49-d2775a247da6",
+      "prefLabel": {
+        "de": "Kreuzköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/7aaab732-fd1a-4c76-a587-4b5fa560e37a",
+      "prefLabel": {
+        "de": "Kettköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/7b50450e-0487-4ad5-b8d8-bd9ce3a084c5",
+      "prefLabel": {
+        "de": "Schußköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/31e0fcd3-5a20-4be3-ade5-5193f55ceb00",
+      "prefLabel": {
+        "de": "Mehrgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/a5247a3f-903f-44f9-88fc-71396142f0a8",
+      "prefLabel": {
+        "de": "Inlett"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/afa09873-acd8-4fcb-a996-9abbc347e377",
+      "prefLabel": {
+        "de": "Diamantkarogewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b4938d79-b637-4daf-9fd0-50f174e21d58",
+      "prefLabel": {
+        "de": "Pepita"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b52aa97f-797b-4ad6-ab1d-29d2adb5dc2e",
+      "prefLabel": {
+        "de": "Breitgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/b5341647-8800-4d22-8ebc-fcaadb17069a",
+      "prefLabel": {
+        "de": "Croisé"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/c5bba1fd-90fb-4633-bc05-0e0439bdafbf",
+      "prefLabel": {
+        "de": "Flachgratköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/d39da04a-6e29-413f-b202-7151a29cfe01",
+      "prefLabel": {
+        "de": "Spitzköpergewebe"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/de6a8005-6f89-4e49-846a-a06d3f5da4d4",
+      "prefLabel": {
+        "de": "Marengo"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/e9ea34e2-2fe9-4102-9b9d-050a79046452",
+      "prefLabel": {
+        "de": "Finette"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/fea15485-2070-4278-8d86-8eb5fa8e8f16",
+    "prefLabel": {
+      "de": "Gewebebindung"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

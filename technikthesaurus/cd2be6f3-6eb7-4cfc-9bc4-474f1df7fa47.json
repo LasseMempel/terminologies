@@ -1,0 +1,174 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/cd2be6f3-6eb7-4cfc-9bc4-474f1df7fa47",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Wäscheknopfloch"
+  },
+  "definition": {
+    "de": "Es wird in doppelten Stoff, der mit Einlage verstärkt ist oder in 3fache Stofflage eingearbeitet. Die Knopflochlänge wird auf der rechten Stoffseite markiert. Genäht wird mit normalem Nähgarn oder bei feinen Stoffen mit dem etwas dünneren Maschinenstick- und stopfgarn. Um eine gleichmäßig breite Stichreihe zu erhalten und um ein Ausreißen des Knopfloches zu vermeiden, wird die Knopflochmarkierung schmal umsteppt. Das Knopfloch wird in der Mitte eingeschnitten, dabei die Stiche an den Knopflochenden auf keinen Fall durchgeschnitten. Die Schnittkanten werden mit Überwendlingsstichen vor dem Ausfransen gesichert. Dann wird das Knopfloch mit Knopflochstichen gestickt. Genäht wird üblicherweise von links nach rechts, das geht am besten. Die Nadel wird von hinten in die Kante eingestochen und der Faden bis auf eine kleine Schlinge durchgezogen, die Nadel von hinten durch die Schlinge geführt. Der Faden wird angezogen. Das Knötchen muss genau an der Kante des Einschnitts liegen. Nachdem die erste Seite des Knopflochs gestickt ist, wird am Knopflochende ein Riegel genäht. Dazu wird der Faden mehrmals über die volle Knopflochbreite gespannt und dieser Fadensteg dicht umwickelt, dabei immer etwas Stoff mitgefasst. Dann wird die zweite Knopflochhälfte gestickt und am Knopflochende wieder einen Riegel genäht. Das Fadenende wird auf der Rückseite vernäht."
+  },
+  "notation": [
+    "cd2be6f3-6eb7-4cfc-9bc4-474f1df7fa47"
+  ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus/52ca6b91-3a35-4c7f-80fd-68fc0e3ef084",
+    "prefLabel": {
+      "de": "geknöpft <Textile Technik>"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/technikthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
