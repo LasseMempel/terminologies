@@ -41,12 +41,6 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/ADA625",
-      "prefLabel": {
-        "de": "weinendes Glas"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BG987D",
       "prefLabel": {
         "de": "weeping"
@@ -66,10 +60,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010797"
-    },
-    {
-      "id": "https%3A//cameo.mfa.org/wiki/Glass"
+      "id": "http%3A//vocab.getty.edu/page/aat/300010797%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Glass"
     }
   ],
   "inScheme": [

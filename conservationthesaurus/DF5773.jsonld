@@ -79,10 +79,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300014507"
-    },
-    {
-      "id": "https%3A//cameo.mfa.org/wiki/Polyvinyl_acetate"
+      "id": "https%3A//cameo.mfa.org/wiki/Polyvinyl_acetate%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300014507"
     }
   ],
   "inScheme": [

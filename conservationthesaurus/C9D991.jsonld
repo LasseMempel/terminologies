@@ -28,12 +28,6 @@
       "prefLabel": {
         "de": "korrodiert"
       }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/ADA625",
-      "prefLabel": {
-        "de": "weinendes Glas"
-      }
     }
   ],
   "broader": {

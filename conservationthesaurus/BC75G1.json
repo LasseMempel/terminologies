@@ -37,10 +37,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4014081-7"
-    },
-    {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010904"
+      "id": "http%3A//vocab.getty.edu/page/aat/30001090%0D%0D%0Ahttp%3A//d-nb.info/gnd/4014081-7"
     }
   ],
   "inScheme": [

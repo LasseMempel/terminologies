@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Verzierungstechnik"
   },
+  "altLabel": {
+    "de": [
+      "Dekor"
+    ]
+  },
   "definition": {
     "de": "angenommene Methode(n), die zur Ausarbeitung der an dem Objekt festgestellten Verzierungselemente verwendet wurden"
   },
@@ -228,12 +233,6 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G4G1DA",
-      "prefLabel": {
-        "de": "geglättet"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G5D8C5",
       "prefLabel": {
         "de": "broschiert"
@@ -260,7 +259,7 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD11CD",
       "prefLabel": {
-        "de": "geschnitzt"
+        "de": "geschnitzt (Verzierungstechnik)"
       }
     },
     {

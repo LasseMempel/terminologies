@@ -4,11 +4,6 @@
   "prefLabel": {
     "de": "Buntmetalllegierung"
   },
-  "altLabel": {
-    "de": [
-      "Buntmetall"
-    ]
-  },
   "definition": {
     "de": "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde."
   },
@@ -57,10 +52,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011014"
-    },
-    {
-      "id": "https%3A//www.wikidata.org/wiki/Q355809"
+      "id": "https%3A//www.wikidata.org/wiki/Q355809%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011014"
     }
   ],
   "inScheme": [
