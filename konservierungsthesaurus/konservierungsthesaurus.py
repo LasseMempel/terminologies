@@ -117,12 +117,10 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     return g
 
 def main(link, baseLanguageLabel, propertyMatchDict, seperator):
-    """
     df = csv2Df(link, propertyMatchDict)
     text = df.to_csv(index=False)
     with open('polishedData.csv', 'w', encoding="utf-8") as f:
         f.write(text)
-    """
     df = pd.read_csv('polishedData.csv', encoding="utf-8")
     graph = df2Skos(df, baseLanguageLabel, baseUri, seperator)
     graph.serialize(destination='thesaurus.ttl', format='turtle')   
