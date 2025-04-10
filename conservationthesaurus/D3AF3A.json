@@ -49,13 +49,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//terminology.lido-schema.org/lido00268"
+      "id": "http://terminology.lido-schema.org/lido00268"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300266009"
+      "id": "http://vocab.getty.edu/page/aat/300266009"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300435425"
+      "id": "http://vocab.getty.edu/page/aat/300435425"
     }
   ],
   "inScheme": [

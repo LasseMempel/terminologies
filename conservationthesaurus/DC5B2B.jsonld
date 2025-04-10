@@ -34,13 +34,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4157867-3"
+      "id": "http://d-nb.info/gnd/4157867-3"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010963"
+      "id": "http://vocab.getty.edu/page/aat/300010963"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q37136268"
+      "id": "https://www.wikidata.org/wiki/Q37136268"
     }
   ],
   "inScheme": [

@@ -43,18 +43,18 @@
   },
   "relatedMatch": [
     {
-      "id": "http%3A//www.wikidata.org/entity/Q11426"
+      "id": "http://www.wikidata.org/entity/Q11426"
     }
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010900"
+      "id": "http://vocab.getty.edu/page/aat/300010900"
     },
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Metal"
+      "id": "https://cameo.mfa.org/wiki/Metal"
     },
     {
-      "id": "https%3A//d-nb.info/gnd/4038860-8"
+      "id": "https://d-nb.info/gnd/4038860-8"
     }
   ],
   "inScheme": [

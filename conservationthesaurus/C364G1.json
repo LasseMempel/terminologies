@@ -110,10 +110,10 @@
   },
   "closeMatch": [
     {
-      "id": "http%3A//terminology.lido-schema.org/lido00132"
+      "id": "http://terminology.lido-schema.org/lido00132"
     },
     {
-      "id": "http%3A//www.wikidata.org/entity/Q214609"
+      "id": "http://www.wikidata.org/entity/Q214609"
     }
   ],
   "inScheme": [

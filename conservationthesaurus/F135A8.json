@@ -37,13 +37,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4133759-1"
+      "id": "http://d-nb.info/gnd/4133759-1"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011029"
+      "id": "http://vocab.getty.edu/page/aat/300011029"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q1090"
+      "id": "https://www.wikidata.org/wiki/Q1090"
     }
   ],
   "inScheme": [

@@ -43,16 +43,16 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010965"
+      "id": "http://vocab.getty.edu/page/aat/300010965"
     },
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Electrum"
+      "id": "https://cameo.mfa.org/wiki/Electrum"
     },
     {
-      "id": "https%3A//d-nb.info/gnd/4841049-4"
+      "id": "https://d-nb.info/gnd/4841049-4"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q239481"
+      "id": "https://www.wikidata.org/wiki/Q239481"
     }
   ],
   "inScheme": [

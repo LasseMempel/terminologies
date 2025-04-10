@@ -46,18 +46,18 @@
   },
   "relatedMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011176"
+      "id": "http://vocab.getty.edu/page/aat/300011176"
     }
   ],
   "closeMatch": [
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Rock"
+      "id": "https://cameo.mfa.org/wiki/Rock"
     },
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Stone"
+      "id": "https://cameo.mfa.org/wiki/Stone"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q8063"
+      "id": "https://www.wikidata.org/wiki/Q8063"
     }
   ],
   "inScheme": [

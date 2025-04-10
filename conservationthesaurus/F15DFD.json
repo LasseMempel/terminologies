@@ -31,16 +31,16 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4190861-2"
+      "id": "http://d-nb.info/gnd/4190861-2"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011000"
+      "id": "http://vocab.getty.edu/page/aat/300011000"
     },
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Zinc_alloys"
+      "id": "https://cameo.mfa.org/wiki/Zinc_alloys"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q204835"
+      "id": "https://www.wikidata.org/wiki/Q204835"
     }
   ],
   "inScheme": [

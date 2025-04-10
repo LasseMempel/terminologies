@@ -37,13 +37,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4014002-7"
+      "id": "http://d-nb.info/gnd/4014002-7"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011002"
+      "id": "http://vocab.getty.edu/page/aat/300011002"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q677"
+      "id": "https://www.wikidata.org/wiki/Q677"
     }
   ],
   "inScheme": [

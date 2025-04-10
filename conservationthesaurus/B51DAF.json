@@ -37,15 +37,15 @@
   ],
   "relatedMatch": [
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q16829513"
+      "id": "https://www.wikidata.org/wiki/Q16829513"
     }
   ],
   "closeMatch": [
     {
-      "id": "http%3A//terminology.lido-schema.org/lido00132"
+      "id": "http://terminology.lido-schema.org/lido00132"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300010358"
+      "id": "http://vocab.getty.edu/page/aat/300010358"
     }
   ],
   "inScheme": [

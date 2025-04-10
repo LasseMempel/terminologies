@@ -48,13 +48,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//d-nb.info/gnd/4013531-7"
+      "id": "http://d-nb.info/gnd/4013531-7"
     },
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300241621"
+      "id": "http://vocab.getty.edu/page/aat/300241621"
     },
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q585302"
+      "id": "https://www.wikidata.org/wiki/Q585302"
     }
   ],
   "inScheme": [
