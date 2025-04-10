@@ -88,7 +88,10 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011752%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Acid"
+      "id": "http%3A//vocab.getty.edu/page/aat/300011752"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Acid"
     }
   ],
   "inScheme": [

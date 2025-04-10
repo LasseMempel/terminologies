@@ -51,7 +51,13 @@
   ],
   "closeMatch": [
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Stone%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q8063%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Rock"
+      "id": "https%3A//cameo.mfa.org/wiki/Rock"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Stone"
+    },
+    {
+      "id": "https%3A//www.wikidata.org/wiki/Q8063"
     }
   ],
   "inScheme": [

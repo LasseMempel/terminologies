@@ -60,7 +60,10 @@
   ],
   "closeMatch": [
     {
-      "id": "https%3A//www.wikidata.org/wiki/Q518350%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010942"
+      "id": "http%3A//vocab.getty.edu/page/aat/300010942"
+    },
+    {
+      "id": "https%3A//www.wikidata.org/wiki/Q518350"
     }
   ],
   "inScheme": [

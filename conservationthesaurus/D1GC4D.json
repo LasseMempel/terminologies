@@ -18,7 +18,10 @@
   },
   "closeMatch": [
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Alabaster%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Egyptian_alabaster"
+      "id": "https%3A//cameo.mfa.org/wiki/Alabaster"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Egyptian_alabaster"
     }
   ],
   "inScheme": [

@@ -38,7 +38,10 @@
   },
   "closeMatch": [
     {
-      "id": "https%3A//cameo.mfa.org/wiki/Animal_fibers%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300386673"
+      "id": "http%3A//vocab.getty.edu/page/aat/300386673"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Animal_fibers"
     }
   ],
   "inScheme": [

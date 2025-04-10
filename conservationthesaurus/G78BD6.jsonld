@@ -37,7 +37,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300133748%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q1096%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Tin"
+      "id": "http%3A//vocab.getty.edu/page/aat/300133748"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Tin"
+    },
+    {
+      "id": "https%3A//www.wikidata.org/wiki/Q1096"
     }
   ],
   "inScheme": [

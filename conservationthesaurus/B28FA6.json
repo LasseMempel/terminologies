@@ -41,7 +41,13 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011020%20%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q753%0D%0D%0Ahttp%3A//d-nb.info/gnd/4033734-0"
+      "id": "http%3A//d-nb.info/gnd/4033734-0"
+    },
+    {
+      "id": "http%3A//vocab.getty.edu/page/aat/300011020"
+    },
+    {
+      "id": "https%3A//www.wikidata.org/wiki/Q753"
     }
   ],
   "inScheme": [

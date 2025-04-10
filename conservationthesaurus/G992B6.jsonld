@@ -31,7 +31,10 @@
   ],
   "closeMatch": [
     {
-      "id": "http%3A//vocab.getty.edu/page/aat/300011022%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Lead"
+      "id": "http%3A//vocab.getty.edu/page/aat/300011022"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Lead"
     }
   ],
   "inScheme": [
