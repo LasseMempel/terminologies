@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <https://www.lassemempel.github.io/terminologies/NAVISone/0093DC> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
@@ -3063,6 +3064,7 @@
     dc:creator "Florian Thiery" ;
     dc:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
     dc:title "NAVISone"@de ;
+    vann:preferredNamespaceUri "https://www.lassemempel.github.io/terminologies/NAVISone/" ;
     skos:hasTopConcept <https://www.lassemempel.github.io/terminologies/NAVISone/1>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/10>,
         <https://www.lassemempel.github.io/terminologies/NAVISone/11>,

@@ -6,7 +6,7 @@ import urllib.parse
 
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
 
-from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
+from rdflib.namespace import SKOS, RDF, DC, VANN
 
 
 
@@ -48,6 +48,7 @@ g.add((thesaurus, DC.description, Literal("NAVISone ist ein Thesaurus über Schi
 
 g.add((thesaurus, DC.creator, Literal("Florian Thiery")))
 
+g.add((thesaurus, VANN.preferredNamespaceUri, Literal(thesaurusAddendum)))
 
 
 for index, row in parentDf.iterrows():

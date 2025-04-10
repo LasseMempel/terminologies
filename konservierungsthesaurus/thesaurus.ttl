@@ -2,6 +2,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A14228> a skos:Concept ;
     dc:source "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung." ;
@@ -364,7 +365,8 @@
     skos:altLabel "Baumwollfaser"@de,
         "cotton"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300183670%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Cotton> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300183670>,
+        <https%3A//cameo.mfa.org/wiki/Cotton> ;
     skos:definition "natürliche, einzellige Fasern aus den Samen der Baumwollpflanze (Gossypium)"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "A5G856" ;
@@ -537,7 +539,9 @@
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 88/89." ;
     skos:altLabel "brass"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGB415> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q39782%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010946%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Brass> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010946>,
+        <https%3A//cameo.mfa.org/wiki/Brass>,
+        <https%3A//www.wikidata.org/wiki/Q39782> ;
     skos:definition "Kupferlegierung mit mindestens 50% Kupfer und Zink als zweiten Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile (z.B. Blei) können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen. Aus diesem Grund wird es unter anderem für Goldimitationen verwendet. Messing lässt sich sehr gut gießen, ebenso gut kalt verformen sowie spanlos und spanabhebend bearbeiten, wodurch es entsprechend für die Herstellung von gegossenen Gegenständen als auch getriebenen Gefäßen verwendet wird. Messing zeigt, ebenso wie Bronze, hauptsächlich Korrosionserscheinungen entsprechend des Hauptbestandteiles Kupfer."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "A8B271" ;
@@ -1451,7 +1455,9 @@
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 88/89." ;
     skos:altLabel "tombac"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGB415> ;
-    skos:closeMatch <http%3A//d-nb.info/gnd/4745413-1%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300196199%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Tombac> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4745413-1>,
+        <http%3A//vocab.getty.edu/page/aat/300196199>,
+        <https%3A//cameo.mfa.org/wiki/Tombac> ;
     skos:definition "Kupfer-Zink Legierung, mit hohem Kupferanteil (> 67%) . Ähnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "B93G16" ;
@@ -1900,7 +1906,8 @@ Technologie. München 2000, S. 86.""" ;
     skos:altLabel "Betula species"@de,
         "birch"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAA3F9> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Birch%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011973> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011973>,
+        <https%3A//cameo.mfa.org/wiki/Birch> ;
     skos:definition "Holz aus der Birke. Birkenholz ist ein gelblichweißes, rötlichweißes bis hellbräunliches, mittelschweres Holz mit einer feinen Maserung. Es zeigt eine gute Elatizität und Zähigkeit und lässt sich gut manuell und maschinell mit verschiedenen Werkzeugen bearbeiten."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "BGG879" ;
@@ -2449,7 +2456,8 @@ Diese Kügelchen werden entweder durch Löten bzw. Schweißen auf der Metallober
     skos:altLabel "Acer campestre"@de,
         "maple"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAA3F9> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Maple%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300012236> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300012236>,
+        <https%3A//cameo.mfa.org/wiki/Maple> ;
     skos:definition "Holz des Ahornbaumes. Ahornholz ist ein schweres, hartes Holz, das eine helle, weiß bis gelbliche, im frisch geschlagenen Zustand auch rötliche Färbung sowie eine feine, gleichmäßige Maserung aufweist. Es zeigt eine glatte und feinporige Textur, hohe Elastizität und Biegefestigkeit sowie gute Bearbeitbarkeit mit verschiedenen Werkzeugen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "CAD229" ;
@@ -2796,7 +2804,8 @@ Diese Kügelchen werden entweder durch Löten bzw. Schweißen auf der Metallober
         "https://www.mindat.org/min-90.html",
         "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Alabaster" ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D8B5C3> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Alabaster%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Egyptian_alabaster> ;
+    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Alabaster>,
+        <https%3A//cameo.mfa.org/wiki/Egyptian_alabaster> ;
     skos:definition "Varietät des Gipses mit fester und feinkörniger Struktur und in der Regel heller bis weißer Farbe. Im allgemeinen Sprachgebrauch wird auch eine sehr ähnlich aussehende Varietät des Calcit (Kalksinter) als Alabaster (\"antiker od. ägyptischer Alabaster\") bezeichnet. Echter Alabaster aus Calciumsulfat ist sehr weich und anfällig gegenüber Wasser, während Calcit-Alabaster wasserunlöslich und härter ist."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D1GC4D" ;
@@ -3159,7 +3168,8 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     dc:source "DIN EN 16484" ;
     skos:altLabel "leather"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Leather%20%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011845> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011845>,
+        <https%3A//cameo.mfa.org/wiki/Leather> ;
     skos:definition "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D73F9B" ;
@@ -3591,7 +3601,8 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
         "DIN EN ISO 6938" ;
     skos:altLabel "wool"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F8DFCG> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Wool%0D%0D%0A%20http%3A//vocab.getty.edu/page/aat/300014074> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300014074>,
+        <https%3A//cameo.mfa.org/wiki/Wool> ;
     skos:definition "tierische Faser (Stapelfaser) aus dem charakteristischen Haarkleid des Schafes. Die Bezeichnung Wolle wird im allgemeinem Sprachgebrauch auch für die Haare anderer Tierarten verwendet, allerdings sollte zur Differenzierung deren Namen hinzugefügt werden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "DF96G1" ;
@@ -3681,7 +3692,8 @@ Technologie. München 2000, S. 93.""" ;
     skos:altLabel "Alnus glutinosa"@de,
         "alder"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAA3F9> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Alder%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011918> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011918>,
+        <https%3A//cameo.mfa.org/wiki/Alder> ;
     skos:definition "Holz der Erlen. Das leichte bis mittelschwere Holz zeigt direkt nach dem Fällen eine rötlich- orange Färbung, die durch die Oxidation mit Luftsauerstoff allmählich rötlichweiß bis rötlichbraun nachdunkelt. Die Maserung ist fein und schlicht und das Holz von geringer Härte, wodurch es mit allen Werkzeugen gut bearbeitbar ist."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F1BD88" ;
@@ -4130,7 +4142,10 @@ Technologie. München 2000, S. 93.""" ;
         "electrum"@en,
         "électrum"@fr ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G4AG5C> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Electrum%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q239481%0D%0D%0Ahttps%3A//d-nb.info/gnd/4841049-4%20%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010965> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010965>,
+        <https%3A//cameo.mfa.org/wiki/Electrum>,
+        <https%3A//d-nb.info/gnd/4841049-4>,
+        <https%3A//www.wikidata.org/wiki/Q239481> ;
     skos:definition "natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F9F6DG" ;
@@ -4452,7 +4467,8 @@ Technologie. München 2000, S. 93.""" ;
     skos:altLabel "Quercus species"@de,
         "oak"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D39191> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Oak%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300012264> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300012264>,
+        <https%3A//cameo.mfa.org/wiki/Oak> ;
     skos:definition "Holz aus Eichenbäumen. Das Holz der verschiedenen Eichenbäumen ist im allgemeinen als starkes und strapazierfähiges Holz zu beschreiben, welches eine üblicherweise hellbraune bis gelblich-braun/rötliche Färbung aufweist. Die Maserung verläuft häufig in markanten, wellenförmigen/gespiegelten Formen. Die mechanische Bearbeitbarkeit hängt im Detail von der jeweiligen Eichenart ab, ist insgesamt jedoch als gut zu beschreiben."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "FG3BCD" ;
@@ -4660,7 +4676,8 @@ Technologie. München 2000, S. 93.""" ;
     skos:altLabel "Taxus baccata"@de,
         "yew"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FC3FD6> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Yew%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300012774> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300012774>,
+        <https%3A//cameo.mfa.org/wiki/Yew> ;
     skos:definition "Holz der Eibe. Eibenholz zeigte eine gelb bis gold-braune Färbung, oft mit rötlich- violettem Schimmer und eine feine, gleichmäßige Maserung. Charakteristisch sind seine hohe Elastizität, Härte sowie Dichte, wobei es noch gut drechsel- und schnitzbare ist."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G356D5" ;
@@ -4708,7 +4725,8 @@ Technologie. München 2000, S. 86.""" ;
     dc:source "DIN EN ISO 6938" ;
     skos:altLabel "Rosshaar"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F8DFCG> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Horsehair%0D%0D%0A%20http%3A//vocab.getty.edu/page/aat/300011819> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011819>,
+        <https%3A//cameo.mfa.org/wiki/Horsehair> ;
     skos:definition "tierische Fasern aus dem Fell, der Mähne oder dem Schweif des Pferdes"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G43GG2" ;
@@ -5383,7 +5401,9 @@ Technologie. München 2000, S. 95.""" ;
     skos:altLabel "Silberlegierungen"@de,
         "silver alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G4AG5C> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q52895784%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010975%0D%0D%0Ahttp%3A//d-nb.info/gnd/4181330-3> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4181330-3>,
+        <http%3A//vocab.getty.edu/page/aat/300010975>,
+        <https%3A//www.wikidata.org/wiki/Q52895784> ;
     skos:definition "Legierung mit Silber als Hauptbestandteil. Reines Silber ist für viele Anwendungsbereiche zu weich, sodass es häufig mit anderen Metallen (vor allem Kupfer) legiert wird. Neben den Korrosionserscheinungen des reinen Silbers treten in Legierungssystemen weitere Korrosionen auf. So kann sich z.B. bei kupferhaltigen Silberlegierungen Kupfer-I-oxid und Kupfersulfid bilden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "AD789F" ;
@@ -5429,7 +5449,9 @@ Technologie. München 2000, S. 95.""" ;
         "reines Kupfer"@de,
         "copper"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB5BGF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011020%20%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q753%0D%0D%0Ahttp%3A//d-nb.info/gnd/4033734-0> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4033734-0>,
+        <http%3A//vocab.getty.edu/page/aat/300011020>,
+        <https%3A//www.wikidata.org/wiki/Q753> ;
     skos:definition "rot-bräunliches Metall mit dem chemischen Symbol Cu und der Ordnungszahl 29. Kupfer war wohl das erstes Metall, dass von den Menschen gezielt hergestellt und verarbeitet wurde. Kupfer ist in feuchter, verunreinigter Luft, sowie in chloridbelasteten Böden recht korrossionsanfällig. Mit den Bestandteilen der Luft (u.a. Schwefel- oder Carbonatverbindungen) bildet es eine Patina, die als Schutzschicht für das darunterliegende Metall gegenüber weiterem Korrosionsangriff dient. Diese Patina kann dem Objekt unter umständen ein recht ästhetisches Erscheinungsbild verleihen (sog. \"Edelpatina\")."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "B28FA6" ;
@@ -5523,7 +5545,8 @@ Technologie. München 2000, S. 95.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)." ;
     skos:altLabel "iron alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FAG415> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/30001090%0D%0D%0Ahttp%3A//d-nb.info/gnd/4014081-7> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4014081-7>,
+        <http%3A//vocab.getty.edu/page/aat/30001090> ;
     skos:definition "Legierung mit Eisen als Hauptbestandteil, die aufgrund ihrer Härte und Verfügbarkeit seit der Antike weit verbreitet für die Herstellung von Werkzeugen, Waffen und landwirtschaftlichen Geräten genutzt wurde. Die Entdeckung der Eisenherstellung (Verhüttung) stellt einen wichtigen Fortschritt in der technologischen Metallverarbeitung der Menschheitsgeschichte dar und beeinflusste maßgeblich die Entwicklung und Expansion antiker Kulturen. Eisenlegierungen sind äußerst korrosionsanfällig, wobei das Korrosionsgeschehen stark von der Legierungszusammensetzung und der Gefügestruktur abhängig ist."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "BC75G1" ;
@@ -5725,7 +5748,9 @@ Technologie. München 2000, S. 95.""" ;
     skos:altLabel "Goldlegierungen"@de,
         "gold alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G4AG5C> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q37136268%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010963%0D%0D%0Ahttp%3A//d-nb.info/gnd/4157867-3> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4157867-3>,
+        <http%3A//vocab.getty.edu/page/aat/300010963>,
+        <https%3A//www.wikidata.org/wiki/Q37136268> ;
     skos:definition "Legierung mit Gold als Hauptbestandteil. Da reines Gold relativ weich ist, wird es zur Verbesserung der Härte und Beständigkeit mit anderen Metallen (hauptsächlich Kupfer und Silber) legiert. Kongruent zu reinen Goldobjekten sind auch an Objekten aus Goldlegierungen kaum materialbedingte konservatorische Maßnahmen notwendig. Je nach Höhe des Anteils an unedleren Bestandteilen kann es jedoch zu oberflächlicher Verfärbung kommen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "DC5B2B" ;
@@ -5787,7 +5812,9 @@ Technologie. München 2000, S. 95.""" ;
     dc:source "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.202." ;
     skos:altLabel "lead alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82D86> ;
-    skos:closeMatch <http%3A//d-nb.info/gnd/4145917-9%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010932%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Lead_alloys> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4145917-9>,
+        <http%3A//vocab.getty.edu/page/aat/300010932>,
+        <https%3A//cameo.mfa.org/wiki/Lead_alloys> ;
     skos:definition "Legierung mit Blei als Hauptbestandteil."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F387GB" ;
@@ -5816,7 +5843,9 @@ Technologie. München 2000, S. 95.""" ;
         "iron"@en,
         "fer"@fr ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF566> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q677%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011002%0D%0D%0Ahttp%3A//d-nb.info/gnd/4014002-7> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4014002-7>,
+        <http%3A//vocab.getty.edu/page/aat/300011002>,
+        <https%3A//www.wikidata.org/wiki/Q677> ;
     skos:definition "bläulich-gräuliches Metall mit dem chemischen Symbol Fe und der Ordnungszahl 26. Im archäologischen Kontext kommen in der Regel ausschließlich Eisen-Kohlenstoff-Legierungen vor, sodass reines Eisen kaum eine Rolle in der Restaurierung spielt. Eisen ist sehr unedel und neigt sowohl an der Luft, als auch bei der Bodenlagerung zu starken Korrosionsreaktionen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F71C6B" ;
@@ -5880,7 +5909,10 @@ Technologie. München 2000, S. 95.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81." ;
     skos:altLabel "tin alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82D86> ;
-    skos:closeMatch <http%3A//d-nb.info/gnd/4190903-3%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q9346089%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010978%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Tin_alloys> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4190903-3>,
+        <http%3A//vocab.getty.edu/page/aat/300010978>,
+        <https%3A//cameo.mfa.org/wiki/Tin_alloys>,
+        <https%3A//www.wikidata.org/wiki/Q9346089> ;
     skos:definition "Legierung mit Zinn als Hauptbestandteil."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G6A358" ;
@@ -5893,7 +5925,9 @@ Technologie. München 2000, S. 95.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81." ;
     skos:altLabel "tin"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB5BGF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300133748%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q1096%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Tin> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300133748>,
+        <https%3A//cameo.mfa.org/wiki/Tin>,
+        <https%3A//www.wikidata.org/wiki/Q1096> ;
     skos:definition "silberweißes, sehr weiches Metall mit dem chemischen Symbol Sn und der Ordnungszahl 50. Zinn wird hauptsächlich als Legierungsbestandteil (z.B. für (Zinn-)Bronze oder in Weichloten) verwendet, aber auch als reines Metall für die Herstellung von Geschirr und kleinen Kulturobjekten. Gegenüber Luftsauerstoff ist es weitgehend beständig, wird jedoch von Säuren (v.a. Salpetersäure) stark angegriffen. Bei der Lagerung von Zinnobjekten unterhalb 13°C tritt das Phänomen der sog. \"Zinnpest\" auf, bei der sich das stabile Zinn in α-Zinn umwandelt, was sich in Form von Flecken und Pusteln bemerktbar macht und schleichend zur vollständigen Verstörung des Zinnobjektes führt."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G78BD6" ;
@@ -5906,7 +5940,8 @@ Technologie. München 2000, S. 95.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 92/93." ;
     skos:altLabel "zinc"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB5BGF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011037%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Zinc> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011037>,
+        <https%3A//cameo.mfa.org/wiki/Zinc> ;
     skos:definition "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G8AG1C" ;
@@ -5940,7 +5975,8 @@ Technologie. München 2000, S. 95.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 81/82." ;
     skos:altLabel "lead"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB5BGF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011022%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Lead> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011022>,
+        <https%3A//cameo.mfa.org/wiki/Lead> ;
     skos:definition "sehr weiches Metall, von bläulich-gräulicher Farbe mit dem chemischen Symbol Pb und der Ordnungszahl 82. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glasuren sowie Legierungen mit anderen Metallen verwendet. Blei läuft an der Luft unter Bildung einer passivierenden Oxidschicht an und ist auch bei Kontak mit Wasser oder Säuren stark korrosionsanfällig."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "G992B6" ;
@@ -5953,7 +5989,9 @@ Technologie. München 2000, S. 95.""" ;
         "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 8/9." ;
     skos:altLabel "ceramic"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB6DF3> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300235507%0D%0D%0Ahttp%3A//www.wikidata.org/entity/Q45621%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Ceramic> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300235507>,
+        <http%3A//www.wikidata.org/entity/Q45621>,
+        <https%3A//cameo.mfa.org/wiki/Ceramic> ;
     skos:definition "anorganischer, nicht-metallischer, durch das Brennen von Ton hergestelltes Material. Ton stellt einen weit verbreiteten Werkstoff da, der im feuchten Zustand gut plastisch formbar ist und sich beim Brennen zur mehr oder weniger festen Keramik umwandelt. Ton besteht aus verschiedenen Tonmineralen (z.B. Kaolinit, Montmorillonit und Illit), Zuschlagstoffen - sog. Magerungsmitteln - wie Sand, Kalk, Ziegelmehl, Stroh, Häcksel, Tierhaare, Knochenasche oder Muscheln und Wasser. Objekte aus Keramik wurden bereits vor tausenden von Jahren von vielen Kulturen für verschiedenste Verwendungszwecke angefertigt."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DG279C>,
@@ -6035,7 +6073,8 @@ Technologie. München 2000, S. 95.""" ;
     skos:altLabel "Tierfaser"@de,
         "tierische Faser"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Animal_fibers%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300386673> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300386673>,
+        <https%3A//cameo.mfa.org/wiki/Animal_fibers> ;
     skos:definition "Natürliche Fasern, die aus den Haarfollikeln oder den Sekreten von Tieren gewonnen werden und basierend auf ihren jeweiligen Eigenschaften im kulturellen Kontext für verschiedene Anwendungen wie z.B. Kleidung, Fäden oder Dekor verarbeitet wurden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6F797>,
@@ -6093,7 +6132,9 @@ Technologie. München 2000, S. 95.""" ;
         "metal"@en,
         "métal"@fr ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B51DAF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010900%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Metal%0D%0D%0Ahttps%3A//d-nb.info/gnd/4038860-8> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010900>,
+        <https%3A//cameo.mfa.org/wiki/Metal>,
+        <https%3A//d-nb.info/gnd/4038860-8> ;
     skos:definition "chemisches Element, das durch eine gute elektrische und thermische Leitfähigkeit, einen typischen Glanz sowie gute Formbarkeit mit spanlosen oder spangebenden Methoden gekennzeichnet ist. Die typischen metallischen Eigenschaften ergeben sich aus der charakteristischen Gitterstruktur des Atomaufbaus. Metalle werden bereits seit Jahrhunderten von Menschen systematisch gewonnen, bearbeitet und für Werkzeuge, Schmuck, Waffen und andere Zwecke verwendet. Sie spielen eine zentrale Rolle in der technologischen und kulturellen Entwicklung der Menschheit."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F7D3DB>,
@@ -6343,7 +6384,9 @@ Technologie. München 2000, S. 63.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 53, 55 - 59." ;
     skos:altLabel "silver"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGA46A> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q1090%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011029%0D%0D%0Ahttp%3A//d-nb.info/gnd/4133759-1> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4133759-1>,
+        <http%3A//vocab.getty.edu/page/aat/300011029>,
+        <https%3A//www.wikidata.org/wiki/Q1090> ;
     skos:definition "weißlich-graues Metall mit dem chemischen Symbol Ag und der Ordnungszahl 47. Gehört, ebenso wie Gold und Kupfer, zu den ersten Metallen die von den Menschen verarbeitet wurde. Silber wurde als edler metallischer Werkstoff aufgrund seiner guten Verarbeitbarkeit, hohen Korrosionsbeständigkeit im Vergleich zu anderen Metallen und seiner reinen warm-glänzenden Erscheinung seit der Antike für Münzen, Schmuck und zeremonielle Gegenstände genutzt. Im Vergleich zu Gold war Silber überdies häufiger verfügbar. Als Edelmetall ist es relativ beständig gegen Korrosion, wird jedoch von Luftsauerstoff, Schwefel und chloridhaltigen Lösungen (z.B. in stark chloridhaltigen Böden) unter Bildung von Silberoxid, Silbersulfid und/oder Silberchlorid angegriffen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F135A8" ;
@@ -6525,7 +6568,10 @@ Technologie. München 2000, S. 63.""" ;
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 30, 33 - 38." ;
     skos:altLabel "gold"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGA46A> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q897%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Gold%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011021%0D%0D%0Ahttp%3A//d-nb.info/gnd/4157819-3> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4157819-3>,
+        <http%3A//vocab.getty.edu/page/aat/300011021>,
+        <https%3A//cameo.mfa.org/wiki/Gold>,
+        <https%3A//www.wikidata.org/wiki/Q897> ;
     skos:definition "gelbes Metall mit dem chemischen Symbol Au und der Ordnungszahl 79. Gehört zu den ersten Metallen, die in der frühen Menschheitsgeschichte verarbeitet wurden. Aufgrund seiner Seltenheit, der guten Bearbeitbarkeit sowie der schönen Farbe und dem auffälligen Glanz wird Gold seit Jahrtausenden für Schmuck und Prestigeobjekte verwendet. Durch die hohe Korrosionsbeständigkeit sind an Goldobjekten kaum materialbezogene, konservatorische Maßnahmen notwendig."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "FD5149" ;
@@ -6675,7 +6721,8 @@ Technologie. München 2000, S. 63.""" ;
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B51DAF> a skos:Concept ;
     skos:altLabel "Objektmaterial"@de ;
-    skos:closeMatch <http%3A//terminology.lido-schema.org/lido00132%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010358> ;
+    skos:closeMatch <http%3A//terminology.lido-schema.org/lido00132>,
+        <http%3A//vocab.getty.edu/page/aat/300010358> ;
     skos:definition "Material aus dem das Objekt besteht."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B5DD1A>,
@@ -6719,7 +6766,9 @@ Technologie. München 2000, S. 63.""" ;
         "unedles Metall"@de,
         "base metal"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F7D3DB> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q428855%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300241615%0D%0D%0Ahttp%3A//d-nb.info/gnd/4583082-4> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4583082-4>,
+        <http%3A//vocab.getty.edu/page/aat/300241615>,
+        <https%3A//www.wikidata.org/wiki/Q428855> ;
     skos:definition "Sammelbegriff für Metalle, mit negativem Normalpotenzial. Sie neigen, aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur chemischen Reaktion mit ihrer Umgebung. Objekte aus unedlen Metallen zeigen im archäologischen Kontext daher in der Regel mehr oder weniger starke Korrosionserscheinungen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F71C6B>,
@@ -6733,7 +6782,8 @@ Technologie. München 2000, S. 63.""" ;
     skos:altLabel "Bronzen"@de,
         "bronze"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGB415> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010957%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Bronze> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010957>,
+        <https%3A//cameo.mfa.org/wiki/Bronze> ;
     skos:definition "Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen. Ebenso hängt die Verarbeitbarkeit maßgeblich von den Legierungszusammensetzten ab. Die Korrosionsanfälligkeit von Bronze entspricht im Wesentlichen der des Kupfers, wobei entsprechend der anderen Bestandteile weitere Korrosionserscheinungen auftreten können."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A6D8BF>,
@@ -6901,7 +6951,9 @@ Technologie. München 2000, S. 63.""" ;
     skos:altLabel "Stein"@de,
         "stone"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB6DF3> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Stone%0D%0D%0Ahttps%3A//www.wikidata.org/wiki/Q8063%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Rock> ;
+    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Rock>,
+        <https%3A//cameo.mfa.org/wiki/Stone>,
+        <https%3A//www.wikidata.org/wiki/Q8063> ;
     skos:definition "mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemengen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.). Stein findet im Bereich historischer Kulturgüter in der Verwendung als Statuen, Schmuck, Gefäßen, und Bauteilen. Je nach Zusammensetzung sind Gesteine mehr oder weniger anfällig für umgebungsbedingten Zerfall, so können z.B. Schadstoffe aus der Luft ebenso wie Salze und andere Bodenbestandteile Zerfallsprozesse an der Oberfläche von Steinobjekten hervorrufen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/ABB166>,
@@ -6916,7 +6968,8 @@ Technologie. München 2000, S. 63.""" ;
         "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S.1 - 5." ;
     skos:altLabel "glas"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB6DF3> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010797%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Glass> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010797>,
+        <https%3A//cameo.mfa.org/wiki/Glass> ;
     skos:definition "anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze ohne Kristallisation erzeugt wird. Gläser bestehen in der Regel aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "DA2D73" ;
@@ -7013,7 +7066,9 @@ Technologie. München 2000, S. 63.""" ;
     skos:altLabel "Edelmetalle"@de,
         "nobel metal"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F7D3DB> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q585302%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300241621%0D%0D%0Ahttp%3A//d-nb.info/gnd/4013531-7> ;
+    skos:closeMatch <http%3A//d-nb.info/gnd/4013531-7>,
+        <http%3A//vocab.getty.edu/page/aat/300241621>,
+        <https%3A//www.wikidata.org/wiki/Q585302> ;
     skos:definition "korrosionsbeständiges Metall, das aufgrund seiner chemischen und physikalischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F135A8>,
@@ -7116,7 +7171,8 @@ Technologie. München 2000, S. 93.""" ;
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82D86> a skos:Concept ;
     dc:source "Der Brockhaus von A-Z: In drei Bänden (Mannheim 2002)." ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FAG415> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q355809%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300011014> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011014>,
+        <https%3A//www.wikidata.org/wiki/Q355809> ;
     skos:definition "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F15DFD>,
@@ -7275,7 +7331,8 @@ Technologie. München 2000, S. 93.""" ;
     skos:altLabel "Organik"@de,
         "organic"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B51DAF> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011792%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Organic> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011792>,
+        <https%3A//cameo.mfa.org/wiki/Organic> ;
     skos:definition "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A9A858>,
@@ -7403,7 +7460,8 @@ Technologie. München 2000, S. 93.""" ;
     skos:altLabel "Kupferlegierungen"@de,
         "copper alloy"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82D86> ;
-    skos:closeMatch <https%3A//www.wikidata.org/wiki/Q518350%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300010942> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300010942>,
+        <https%3A//www.wikidata.org/wiki/Q518350> ;
     skos:definition "Legierung mit Kupfer als Hauptbestandteil. Parallel zur Verwendung von reinem Kupfer, steht auch die Herstellung von Kupferlegierung am Beginn der historischen Metallverarbeitung der Menschheitsgeschichte. Aufgrund der reichen Verfügbarkeit, guten Verarbeitbarkeit und Verständigkeit wurde Kupfer für vielerlei Gegenstände (z.B. Schmuck, Waffen, Gefäße, etc.) verwendet."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8B271>,
@@ -8105,7 +8163,8 @@ Technologie. München 2000, S. 92 - 97.""" ;
     skos:altLabel "alkaline solution"@en,
         "base"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C364G1> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300237910%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Alkali> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300237910>,
+        <https%3A//cameo.mfa.org/wiki/Alkali> ;
     skos:definition "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann. In der Restaurierung wird sie zur Reinigung, Stabilisierung und Konservierung von Objekten verwendet."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5D92A>,
@@ -8141,7 +8200,8 @@ Technologie. München 2000, S. 92 - 97.""" ;
         "PVAC"@de,
         "polyvinyl acetate"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A1D125> ;
-    skos:closeMatch <https%3A//cameo.mfa.org/wiki/Polyvinyl_acetate%0D%0D%0Ahttp%3A//vocab.getty.edu/page/aat/300014507> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300014507>,
+        <https%3A//cameo.mfa.org/wiki/Polyvinyl_acetate> ;
     skos:definition "Durch radikalische Polymerisation von Vinylacetat-Monomeren hergestelltes thermoplastisches Polymer, das in fester oder flüssiger Form (als wässrige Dispersion oder Emulsion) bezogen werden kann. Verschiedene PVAC-Produkte werden in der Restaurierung häuptsächlich für Klebungen, Festigungen und als Schutzüberzug verwendet. Die Glasübergangstemperatur von PVAC liegt in etwa bei Raumtemperatur, was zu einem weichen und klebrigen Zustand führt und unerwünschte Adhäsion von Staub und Schmutz sowie das Verformen bzw. Versagen von Klebunge verursacht."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A42BD6>,
@@ -8291,7 +8351,8 @@ Technologie. München 2000, S. 92 - 97.""" ;
     skos:altLabel "acid"@en,
         "acidic detergent"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C364G1> ;
-    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011752%0D%0D%0Ahttps%3A//cameo.mfa.org/wiki/Acid> ;
+    skos:closeMatch <http%3A//vocab.getty.edu/page/aat/300011752>,
+        <https%3A//cameo.mfa.org/wiki/Acid> ;
     skos:definition "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann. In der Restaurierung werden Säuren zur Reinigung, Entfernung von Korrosionsprodukten und Verkrustungen, sowie zur Stabilisierung und Konservierung verwendet."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA69FB>,
@@ -8767,6 +8828,7 @@ Technologie. München 2000, S. 92 - 97.""" ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.lassemempel.github.io/terminologies/conservationthesaurus/" ;
     skos:hasTopConcept <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A18D95>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B51DAF>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8>,

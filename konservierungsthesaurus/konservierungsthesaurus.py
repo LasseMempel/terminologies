@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import urllib.parse
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
-from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
+from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS, VANN
 
 def csv2Df(link, propertyMatchDict):
     with open("data.csv", "w", encoding="utf-8") as f:
@@ -10,6 +10,10 @@ def csv2Df(link, propertyMatchDict):
     df = pd.read_csv('data.csv', encoding="utf-8")
     df.rename(columns=propertyMatchDict, inplace=True) # rename columns according to propertyMatchDict
     df = df.map(lambda x: x.strip() if isinstance(x, str) else x) # remove leading and trailing whitespaces from all cells
+    # fix to replace linebreaks with pipeseperators for mapping properties, which don't follow the seperator rules
+    for col in ["closeMatch", "relatedMatch", "exactMatch"]:
+        if col in df.columns:
+            df[col] = df[col].map(lambda x: "|".join(x.split("\n")) if isinstance(x, str) else x)
     return df
 
 def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus):
@@ -69,6 +73,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     g.add ((thesaurus, DCTERMS.publisher, Literal("Leibniz-Zentrum für Archäologie (LEIZA)")))
     g.add ((thesaurus, DCTERMS.license, URIRef("https://creativecommons.org/licenses/by/4.0/")))
     g.add ((thesaurus, DCTERMS.rights, Literal("CC BY 4.0")))
+    g.add((thesaurus, VANN.preferredNamespaceUri, Literal(thesaurusAddendum)))
 
     contributors = ["Kristina Fella", 
                     "Lasse Mempel-Länger", 
