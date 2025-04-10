@@ -31,7 +31,7 @@ def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAdd
             else:
                 g.add ((concept, SKOS.topConceptOf, thesaurus))
         else:
-            g.add ((concept, pred, URIRef(urllib.parse.quote(i))))
+            g.add ((concept, pred, URIRef(i))) #urllib.parse.quote(i)
     else:
         if isLang:
             if len(i) > 2 and i[-3] == "@":
