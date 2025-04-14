@@ -14,6 +14,14 @@ def csv2Df(link, propertyMatchDict):
     for col in ["closeMatch", "relatedMatch", "exactMatch"]:
         if col in df.columns:
             df[col] = df[col].map(lambda x: "|".join(x.split("\n")) if isinstance(x, str) else x)
+    
+    """
+    # generate special csv for mapping purposes
+    # create new df from all rows where # remove all rows where "http://vocab.getty.edu/page/aat/" is part of value either in closeMatch or relatedMatch
+    specialDf = df[df["closeMatch"].str.contains("http://vocab.getty.edu/page/aat/") | df["relatedMatch"].str.contains("http://vocab.getty.edu/page/aat/")]
+    # create csv from specialDf
+    specialDf.to_csv('specialData.csv', index=False, encoding="utf-8")
+    """
     return df
 
 def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus):
