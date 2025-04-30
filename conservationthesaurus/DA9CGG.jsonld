@@ -17,6 +17,12 @@
   "definition": {
     "de": "Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials"
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.",
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 100/101."
+    ]
+  },
   "notation": [
     "DA9CGG"
   ],
@@ -85,6 +91,9 @@
     }
   ],
   "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300053768"
+    },
     {
       "id": "http://vocab.getty.edu/page/aat/300219960"
     }

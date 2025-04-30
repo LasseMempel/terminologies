@@ -12,6 +12,11 @@
   "definition": {
     "de": "farbloses, flüchtiges Lösungsmittel aus der Gruppe der Ester mit einem fruchtigen Geruch und der chemischen Formel C5H10O2. Es wird in der Konservierung und Restaurierung als Lösungsmittel für verschiedene organische Verbindungen eingesetzt, z.B. zur Herstellung von Kleb- oder Festigungsmitteln. Von dem Stoff gehen akute und chronische Gesundheitsgefahren aus, sodass bei dessen Verwendung die üblichen Sicherheitsvorkehrungen einzuhalten sind."
   },
+  "note": {
+    "de": [
+      "https://gestis.dguv.de/data?name=033670"
+    ]
+  },
   "notation": [
     "G46243"
   ],

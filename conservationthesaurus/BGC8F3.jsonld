@@ -7,6 +7,12 @@
   "definition": {
     "de": "Oberbegriff für Gusstechniken, bei denen die Gussform zerstört werden muss, um das Werkstück entnehmen zu können, bzw. die Form nur einem einzigen Ausguss standhält."
   },
+  "note": {
+    "de": [
+      "DIN ISO 1382",
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 155."
+    ]
+  },
   "notation": [
     "BGC8F3"
   ],

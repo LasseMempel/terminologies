@@ -7,6 +7,11 @@
   "definition": {
     "de": "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer Spannung"
   },
+  "note": {
+    "de": [
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 98."
+    ]
+  },
   "notation": [
     "D66263"
   ],
@@ -16,6 +21,11 @@
       "de": "Entsalzung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300443551"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus"

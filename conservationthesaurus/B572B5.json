@@ -12,6 +12,13 @@
   "definition": {
     "de": "synthetisches, thermoplastisches Polymere aus der Gruppe der Vinylharze, welches durch Reaktion von Polyvinylalkohol mit Butyraldehyd hergestellt wird. In der Konservierung und Restaurierung wird es als Klebstoff, Bindemittel und Festigungsmittel eingesetzt. Polyvinylbutyral weist allgemein einige gute Eigenschaften für diese Verwendungen auf, wie hohe Transparenz, Reversibilität,  gute Haftung auf verschiedenen Materialien sowie gut Löslichkeit in einer Reihe von polaren Lösungsmittelns wie Ethanol oder Aceton, die jedoch je nach verwendetem Produkt variieren können."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 191.",
+      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010), S 145- 147."
+    ]
+  },
   "notation": [
     "B572B5"
   ],

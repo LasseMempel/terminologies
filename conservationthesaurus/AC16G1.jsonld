@@ -12,6 +12,11 @@
   "definition": {
     "de": "Maßnahme zur schützenden/sichernden Umhüllung des Objektes während eines Transportes und/oder der Depotlagerung"
   },
+  "note": {
+    "de": [
+      "DIN EN 16141:2013-01, Erhaltung des kulturellen Erbes - Richtlinien für den Umgang mit Umwelt- und Umgebungsbedingungen - Schaudepots: Definitionen und Merkmale von Sammlungszentren bestimmt für die Bewahrung und Pflege des kulturellen Erbes; Deutsche Fassung EN 16141:2012, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "AC16G1"
   ],

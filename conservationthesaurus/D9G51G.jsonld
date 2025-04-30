@@ -13,6 +13,11 @@
   "definition": {
     "de": "Zustand eines Objektes zu einem bestimmten Zeitpunkt. Wird durch verschiedene zur Verfügung stehende Objektuntersuchungen ermittelt und durch die dabei festgestellten Ergebnisse/Beobachtungen beschrieben. Auch die bisherige Lagerung eines Objektes gibt erste Hinweise auf den zu erwartenden Erhaltungszustund"
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D9G51G"
   ],

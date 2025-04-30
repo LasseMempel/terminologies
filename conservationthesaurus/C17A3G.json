@@ -7,6 +7,13 @@
   "definition": {
     "de": "Festigungsmethode, bei der das Objekt durch Eintauchen in eine Badlösung gefestigt wird. Der gesamte Porenraum des Objektwerkstoffes wird dabei mit einem sich in Lösung befindlichen Polymers ausgefüllt. Theoretisch sind bei der Badtränkung auch Teiltränung gezielter Bereiche möglich, in dem nur diese Bereiche in das Bad eingetaucht werden. Durch den Kapillareffekt im Inneren eines porösen Materials, kann die Verteilung des gelösten Polymers jedoch nicht genau kontrolliert werden. Aus diesem Grund wird unter einer Badtränkung in der Regel eine Volltränkung des gesamten Objektes verstanden."
   },
+  "note": {
+    "de": [
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 104.",
+      "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 109-111.",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 264."
+    ]
+  },
   "notation": [
     "C17A3G"
   ],

@@ -12,6 +12,11 @@
   "definition": {
     "de": "tierische Fasern aus dem Fell, der Mähne oder dem Schweif des Pferdes"
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 6938"
+    ]
+  },
   "notation": [
     "G43GG2"
   ],

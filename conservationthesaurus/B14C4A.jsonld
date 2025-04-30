@@ -13,6 +13,12 @@
   "definition": {
     "de": "Verzierungsmethode, bei der Glas bzw. eine glasartige Matrix auf eine Metalloberfläche oder in vorbereitete Zellen auf- bzw. eingeschmolzen wird."
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 2080:2022-06, Metallische und andere anorganische Überzüge - Oberflächenbehandlung, metallische und andere anorganische Überzüge - Wörterbuch (ISO 2080:2022); Deutsche und Englische Fassung EN ISO 2080:2022, Deutsches Institut für Normung.",
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 407 - 413."
+    ]
+  },
   "notation": [
     "B14C4A"
   ],

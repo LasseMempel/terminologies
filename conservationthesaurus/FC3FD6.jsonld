@@ -7,6 +7,13 @@
   "definition": {
     "de": "Von Bäumen der botanischen Gruppe der Gymnospermen (Nadelbäume) gewonnenes Holz. Eine einzige Art von Zellen, die Tracheiden, übernimmt sowohl die Stabilitäts- als auch die Wassertransportfunktion, was dem Nadelholz einen relativ einfachen und regelmäßigen Zellaufbau verleiht. Dank ihrer Anpassung an kurze Vegetationsperioden können Nadelbäume auch in Regionen mit langen, kalten Wintern oder in großen Höhen überleben, wo Laubbäume nicht mehr wachsen."
   },
+  "note": {
+    "de": [
+      "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung.",
+      "Rudi Wagenführ, HOLZatlas (München 2000), S.8.",
+      "https://www.duden.de/rechtschreibung/Nadelholz"
+    ]
+  },
   "notation": [
     "FC3FD6"
   ],

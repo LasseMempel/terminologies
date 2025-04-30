@@ -17,6 +17,12 @@
   "definition": {
     "de": "Korrosionsangriff, der durch die Berührung zweier Metalle mit unterschiedlicher Elektronegativität auftritt. An den Berührungspunkten entsteht, unter Anwesenheit eines Elektrolyten (z.B. Wasser/Luftfeuchtigkeit), eine galvanische Zelle bei der das unedlere Metall als Anode fungiert und entsprechend korrodiert wird, während das edlere Metall als Kathode relativ unbeschädigt bleibt. Typische Beobachtungen bei Kontaktkorrosion sind eine verstärkte Korrosion an den Berührungsstellen der beiden Metalle sowie Verfärbungen, Materialverlust und Ablagerungen von Korrosionsprodukten."
   },
+  "note": {
+    "de": [
+      "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\"",
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "BCDC47"
   ],

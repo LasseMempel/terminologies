@@ -12,6 +12,13 @@
   "definition": {
     "de": "zerstörungsfreies, bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm oder Detektor abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. Mit Hilfe dieses Verfahrens lassen sich z.B. korrodierte Metalle untersuchen, da das Metall in seiner metallischen Form dichter ist als seine Korrosionsprodukte. Auf dem Röntgenfilm ist es daher heller abgebildet und lässt sich von den weniger deutlich sichtbaren Korrosionsprodukten unterscheiden."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "Franz Mairinger, UV-, IR- and X-ray imaging. In: S Jannsens, R. van Grieken (Hrsg.), Non-Destructive Microanalysis of Cultural Heritage Materials, Amsterdam 2004, 15-75.",
+      "Frédérique-Sophie Tissier, Sabine Brechbühl Trijasse, Röntgenaufnahmen, Computertomografie und Neutronenuntersuchung.Bildgebende Verfahren im Dienst der Archäologie und der Konservierung-Restaurierung. Archäologie Bern 2014, 236 - 246."
+    ]
+  },
   "notation": [
     "A2B5A3"
   ],

@@ -12,6 +12,14 @@
   "definition": {
     "de": "zerstörungsfreie Untersuchungsmethode, bei der das Objekt mit UV-Licht bestrahlt wird. Befinden sich in dem Objektmaterial fluoreszierende Stoffe werden diese durch die kurzwelligen UV-Strahlen zum Leuchten angeregt und gegenüber den nicht fluoreszierenden Stoffen sichtbar. Auf diese Weise lassen sich z.B. Klebstoffe, Überzüge, Retuschen und Übermalungen auf bereits restaurierten Objekten sichtbar machen, die mit dem bloßen Auge im Tageslicht nicht zu erkennen sind. Als Methode zur Identifizierung eines Stoffes ist die UV-Fluoreszenz nur bedingt geeignet. Viele Stoffe zeigen zwar eine charakteristische Färbung in ihrer Fluoreszenz, die mit Hilfe von Referenztabellen bestimmt werden kann, allerdings können Verunreinigungen (wie z.B. Staub) die Fluoreszenz stark beeinträchtigen, indem sie entweder die natürliche Fluorezenz des Materials auslöschen oder selbst fluoreszieren."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "Franz Mairinger, UV-, IR- and X-ray imaging. In: S Jannsens, R. van Grieken (Hrsg.), Non-Destructive Microanalysis of Cultural Heritage Materials, Amsterdam 2004, 15-75.",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 230.",
+      "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 36/37."
+    ]
+  },
   "notation": [
     "B53C8F"
   ],

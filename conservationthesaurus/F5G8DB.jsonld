@@ -12,6 +12,11 @@
   "definition": {
     "de": "Produktname eines ungefüllten, dünnflüssigen Epoxidharzes der Firma Ebalta, basierend auf dem Reaktionsprodukt Bisphenol-A-Epichlorhydrin. AH steht für Allzweckharz und ist somit für Laminier-, Gieß- oder Klebe-Anwendungen geeignet."
   },
+  "note": {
+    "de": [
+      "https://ebalta.com/downloads/de/datenblatt/ah-100-tg.pdf"
+    ]
+  },
   "notation": [
     "F5G8DB"
   ],

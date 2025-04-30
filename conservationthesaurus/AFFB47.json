@@ -15,6 +15,11 @@
   "definition": {
     "de": "umformendes Fertigungsverfahren, bei dem der Rand eines Blechs durch plastische Verformung um eine Schlagunterlage gebogen wird. Es dient zur Verstärkung von Kanten, zur Verbindung von Bauteilen oder zur Herstellung einer glatten und sicheren Abschlusskante."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 249"
+    ]
+  },
   "notation": [
     "AFFB47"
   ],

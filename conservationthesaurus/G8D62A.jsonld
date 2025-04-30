@@ -12,6 +12,11 @@
   "definition": {
     "de": "technisches Gerät, mit dem zweidimensionale Röntgenaufnahmen erzeugt werden können. Das Gerät besteht dabei aus einer Röntgenröhre, die Röntgenstrahlen erzeugt und einem Detektor oder Film, der die Strahlen erfasst. Das zu untersuchende Objekt wird zwischen Röntgenröhre und Detektor positioniert und somit von den Strahlen aus der Strahlenquelle durchleuchtet. Im Gegensatz zum Aufbau eines CT-Scanners handelt es sich beim konventionellen Röntgengerät um einen starren Aufbau, bei dem keine Bewegung während des Aufnahmevorgangs stattfindet."
   },
+  "note": {
+    "de": [
+      "Frédérique-Sophie Tissier, Sabine Brechbühl Trijasse, Röntgenaufnahmen, Computertomografie und Neutronenuntersuchung.Bildgebende Verfahren im Dienst der Archäologie und der Konservierung-Restaurierung. Archäologie Bern 2014, 236 - 246."
+    ]
+  },
   "notation": [
     "G8D62A"
   ],

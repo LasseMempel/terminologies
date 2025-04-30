@@ -12,6 +12,11 @@
   "definition": {
     "de": "Umformverfahren, bei dem ein Werkstoff, meist Metall, durch die formgebende Öffnung eines Zieheisens gezogen wird. Dabei wird der Querschnitt des Materials verringert und seine Länge erhöht, ohne das Material zu trennen. Dieses Verfahren wird häufig zur Herstellung von Drähten, Rohren oder Profilen verwendet."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 181 - 184."
+    ]
+  },
   "notation": [
     "G45985"
   ],

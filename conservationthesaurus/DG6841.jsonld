@@ -15,6 +15,11 @@
   "definition": {
     "de": "technisches Gerät, mit dem dreidimensionale Röntgenaufnahmen und Schichtbilder erzeugt werden können. Das Gerät besteht prinzipiell, ebenso wie das konventionelle Röntgengerät, aus einer Röntgenröhre, die Röntgenstrahlen erzeugt, und einem Detektor, der die Strahlen erfasst. Der Unterschied liegt jedoch in der rotierenden Bewegung des zu untersuchenden Objektes, welches sich auf einem Drehteller zwischen Strahlenquelle und Detektor langsam und gleichmäßig um die eigene Achse dreht. Auf diese Weise wird das Objekt aus verschiedenen Winklen von den Röntgenstrahlen durchleuchtet."
   },
+  "note": {
+    "de": [
+      "Frédérique-Sophie Tissier, Sabine Brechbühl Trijasse, Röntgenaufnahmen, Computertomografie und Neutronenuntersuchung.Bildgebende Verfahren im Dienst der Archäologie und der Konservierung-Restaurierung. Archäologie Bern 2014, 236 - 246."
+    ]
+  },
   "notation": [
     "DG6841"
   ],

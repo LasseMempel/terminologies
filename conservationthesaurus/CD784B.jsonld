@@ -7,13 +7,18 @@
   "definition": {
     "de": "Hochreiner, weißer Gips, speziell für die Herstellung detaillierter Modelle und Formen. Er zeichnet sich durch seine feine Körnung, schnelle Abbindezeit und hohe Härte bei gleichzeitig guter Bearbeitbarkeit nach Aushärtung aus."
   },
+  "note": {
+    "de": [
+      "https://www.kremer-pigmente.com/de/shop/fuellstoffe-baustoffe/58343-alabaster-modellgips.html"
+    ]
+  },
   "notation": [
     "CD784B"
   ],
   "broader": {
     "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5FG6",
     "prefLabel": {
-      "de": "Gips <Restaurierungsmaterial>"
+      "de": "Gips (Restaurierungsmaterial)"
     }
   },
   "inScheme": [

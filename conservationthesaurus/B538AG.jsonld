@@ -12,6 +12,12 @@
   "definition": {
     "de": "Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden."
   },
+  "note": {
+    "de": [
+      "Marcel Locquin, Maurice Langeron, Handbook of Microscopy (London 1983).",
+      "William D. Callister, David G. Rethwisch, Materials Science and Engineering. An Introduction (New Jersey 2018)10."
+    ]
+  },
   "notation": [
     "B538AG"
   ],

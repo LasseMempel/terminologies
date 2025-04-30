@@ -12,6 +12,11 @@
   "definition": {
     "de": "Beschaffung und Sammlung von Informationen über den Zustand eines Objektes, anhand derer das Restaurierungs-/Konservierungskonzept und/oder die weiteren Lagerungs- und Handhabungsempefehlungen formuliert werden"
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "CA1BC5"
   ],

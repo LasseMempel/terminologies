@@ -7,6 +7,11 @@
   "definition": {
     "de": "Produktname für ein PVB-Polymer der Firma Kuraray, wobei die Bezeichnung \"B30H\" hinter dem Markennamen \"Mowital\" eine Reihe von Eigenschaften dieses speziellen Produkttypens angibt. Für die Anwendung in der Restaurierung ist dabei vor allem die Zahl wichtig, da diese den Polymerisationsgrad angibt. Je höher die Zahl, desto höher ist der Polymerisationsgrad und desto höher ist die Viskosität des Polymers. Bei Mowital B30H handelt es sich demnach um ein Polymer mit mittlerer Viskosität."
   },
+  "note": {
+    "de": [
+      "https://www.kuraray.com/uploads/5c4fa65dbe70f/160812_TDS_Mowital_B_EN.pdf"
+    ]
+  },
   "notation": [
     "A974A4"
   ],

@@ -12,6 +12,12 @@
   "definition": {
     "de": "körniges Tiefengestein mit Quarzanteil von mehr als 20% und weiteren Bestandteilen aus Feldspat, Biotit und Hornblende. Die Farbigkeit wird allgemein als Hell beschrieben, wobei je nach mineralogischer Zusammensetzungen Abstufungen zwischen weißlich-grau, über rose-rot bis dunkelgrau-schwarz sowie gesprenkelte oder geflecke Texturen zu beobachten sind."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995) S. 145 - 150."
+    ]
+  },
   "notation": [
     "F646B4"
   ],

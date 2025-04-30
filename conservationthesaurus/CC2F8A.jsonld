@@ -7,6 +7,11 @@
   "definition": {
     "de": "Handelsname der Firma Merck für das Dinatriumsalz von EDTA (Na2EDTA)."
   },
+  "note": {
+    "de": [
+      "https://www.sigmaaldrich.com/DE/de/product/mm/108421"
+    ]
+  },
   "notation": [
     "CC2F8A"
   ],

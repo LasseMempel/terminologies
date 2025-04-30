@@ -2,10 +2,16 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D1788D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dolomit <Mineral>"
+    "de": "Dolomit (Mineral)"
   },
   "definition": {
     "de": "karbonatisches Mineral, das hauptsächlich aus Kalzium-Magnesium-Carbonat besteht. Es zeigt in der Regel eine weiß bis gräuliche Farbe, durch Verunreinigungen treten auch Färbungen von rötlich, braun, grau oder schwarz auf. Darüber hinaus zeigt das Mineral einen glas- bis perlmuttartigen Glanz und tritt sowohl durchscheinend als auch opak auf."
+  },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 99."
+    ]
   },
   "notation": [
     "D1788D"

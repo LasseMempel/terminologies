@@ -15,6 +15,11 @@
   "definition": {
     "de": "strukturierender Sammelbegriff für die Benennung der bei der Objektuntersuchung festgestellten Beobachtungen und Auswertungen hinsichtlich der Gesamtbeschaffenheit des Objektes und dessen Ursache"
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "BC5B57"
   ],

@@ -17,6 +17,11 @@
   "definition": {
     "de": "flüchtiges, farbloses Lösungsmittel aus der Gruppe der Carbonsäureester, welches in der Lage ist verschiedene organische Stoffe, wie Polymere, zu lösen bzw. Lösungen einzugehen. Es verdunstet relativ langsam, hinterlässt kaum Rückstände und ist im Verhältnis zu anderen Lösungsmitteln weniger toxisch, wobei dennoch akute Gesundheitsgefahren von diesem Stoff ausgehen! In der Konservierung und Restaurierung wird Ethylacetat häufig als Ersatz für das hochgiftige Toluol verwendet, da es sich ähnlich langsam verflüchtigt und somit bei der Festigung instabiler Materialien zu einer ähnlich guten Eindringtiefe gelöster Polymere führt."
   },
+  "note": {
+    "de": [
+      "https://gestis.dguv.de/data?name=012040"
+    ]
+  },
   "notation": [
     "B77A8F"
   ],

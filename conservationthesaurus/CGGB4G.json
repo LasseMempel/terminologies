@@ -7,6 +7,12 @@
   "definition": {
     "de": "eine der häufigsten gesteinsbildenden Mineralgruppe der Erdkruste, bestehend aus Alumosilikaten und unterschiedlichen Anteilen von Kalium, Natrium, Calcium und Barium. Die Farbigkeit reicht von weiß, grau bis rötlich, gelblich oder grünlich, je nach Zusammensetzung und Einschlüssen. Feldspatvertreter zeigen einen Glas- bis Perlmuttglanz auf den Spaltflächen, eine Mohshärte von 6 und rot bis violett-blaue Lumineszenz unter UV-Licht."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Feldspat"
+    ]
+  },
   "notation": [
     "CGGB4G"
   ],

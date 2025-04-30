@@ -12,6 +12,14 @@
   "definition": {
     "de": "synthetisch hergestelltes duroplastisches Harzsystem, dass aus zwei Komponenten besteht. Die eine Komponente trägt dabei eine Epoxidgruppe und die Andere fungiert als Härter, indem sie mit der Epoxidgruppe eine vernetzende Reaktion eingeht. Durch die Variation einer oder beider Komponenten lässt sich eine große Bandbreite unterschiedlicher Polymere herstellen, wobei die Zugabe von Beschleunigern, Verdünnungsmitteln, Weichmachern und weiteren Additiven die Komplexität der Grundrezeptur zusätzlich erhöht. Die meisten in der Konservierung und Restaurierung verwendeten Epoxidharze bestehen aus Diglycidylether des Bisphenol A, da diese eine starke Klebekraft, ein gutes Penetrationsvermögen und weitere für die Anwendungen in der Konservierung/Restaurierung nützliche Eigenschaften aufweisen. Aufgrund der quervernetzten Struktur nach der Aushärtung sind epoxidharze jedoch nur noch schwer chemisch lösbar und somit nicht/kaum reversibel."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
+      "DIN EN 12670",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 212.",
+      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 289 - 297."
+    ]
+  },
   "notation": [
     "AF31AG"
   ],

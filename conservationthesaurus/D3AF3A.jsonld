@@ -16,6 +16,11 @@
   "definition": {
     "de": "Aufzeichnungen zur Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck"
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D3AF3A"
   ],

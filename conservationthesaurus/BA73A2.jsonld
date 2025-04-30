@@ -12,6 +12,12 @@
   "definition": {
     "de": "Technik, bei der flüssiges Material in eine vorgefertigte Form eingefüllt oder auf eine Oberfläche aufgetragen wird. Das flüssige Material erstarrt dabei in der entsprechend vorgegebenen Form."
   },
+  "note": {
+    "de": [
+      "DIN ISO 1382",
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 148."
+    ]
+  },
   "notation": [
     "BA73A2"
   ],

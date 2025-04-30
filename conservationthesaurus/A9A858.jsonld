@@ -7,6 +7,12 @@
   "definition": {
     "de": "natürliches Material, nachwachsender Rohstoff; die Hauptbestandteile von Holz sind Cellulose, Hemicellulose und Lignin, während des Wachstums werden Extraktstoffe und Mineralien in den Zellen eingelagert. Holz ist aufgrund seiner Festigkeit, Vielseitigkeit und Verfügbarkeit ein wichtiger Rohstoff für Bau-, Möbel- und Kunsthandwerksanwendungen."
   },
+  "note": {
+    "de": [
+      "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung.",
+      "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)., S. 103/104"
+    ]
+  },
   "notation": [
     "A9A858"
   ],

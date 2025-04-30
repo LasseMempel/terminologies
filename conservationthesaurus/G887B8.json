@@ -14,6 +14,12 @@
   "definition": {
     "de": "Fügetechnik, bei der zwei Werkteile durch ein oder mehrere Nietstifte fest miteinander fixiert werden. Der Niet wird dafür in ein entsprechend vorbereites Loch durch beide Werkteile geführt und seine Enden aufgeweitet, wobei die Nietköpfe in unterschiedlichen Arten ausgeformt sein können (Senkniet, Halbrundniet, Flachniet, etc.). Häufig wurde der Setzkopf (Nietkopf) auf einer Seite des Nietes bereits bei der Herstellung des Nietes angelegt, im Goldschmiedehandwerk z.B. durch Anschmelzen eines Kügelchens. Bei Vernietungen mit einem Niet, sind die Werkteile unlösbar mit einander verbunden, jedoch weiterhin um den Niet herum beweglich. Bei mehreren Nieten werden die beiden Werketeile starr miteinander verbunden, sodass keine Bewegung mehr möglich ist."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 357",
+      "DIN 8593-5"
+    ]
+  },
   "notation": [
     "G887B8"
   ],

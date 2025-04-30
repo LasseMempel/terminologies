@@ -7,6 +7,12 @@
   "definition": {
     "de": "Gruppe von Mineralen, die hauptsächlich aus Aluminium-Silikaten, mit vereinzelten weiteren Bestandteilen, wie Eisen, Magnesium oder Kalium, bestehen. Sie bilden dichte, bröckelige oder mehlige Massen und fühlen sich zwischen den Fingern zerrieben seifig, fettig an. Typische Merkmale der Tonminerale sind die plättchenartige Struktur mit blättriger Kristallform, sowie ein charakteristisch erdiger Geruch im feuchten Zustand. Wie der Name bereits vermuten lässten, bilden diese Mineral die Hauptbestandteil von Tonen."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 62."
+    ]
+  },
   "notation": [
     "F9GC9A"
   ],

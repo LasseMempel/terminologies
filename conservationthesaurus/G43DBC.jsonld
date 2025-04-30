@@ -13,6 +13,11 @@
   "definition": {
     "de": "Das Objekt weist eine ungewollte, negative Veränderung im Vergleich zu seinem ursprünglichen Aussehen auf, die die wissenschaftliche Aussagekraft des Objektes mindert."
   },
+  "note": {
+    "de": [
+      "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "G43DBC"
   ],

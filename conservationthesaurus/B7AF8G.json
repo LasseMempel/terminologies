@@ -7,6 +7,12 @@
   "definition": {
     "de": "Spezielle Art des Lichtmikroskops, bei dem nur einzelne Bereiche der zu untersuchenden Probe mit einer punkförmigen Lichquelle beleuchtet werde. Diese Beleuchtung wird Schritt für Schritt über die gesamte Probe gerastert, sodass nacheinander an allen Bereichen der Probe die Lichtintensitäten des reflektierten oder fluoreszierten Lichtes gemessen und zu einem gesamt Bild konstruiert wird."
   },
+  "note": {
+    "de": [
+      "ISO 25178-607 : 2019-03",
+      "https://de.wikipedia.org/wiki/Konfokalmikroskop"
+    ]
+  },
   "notation": [
     "B7AF8G"
   ],

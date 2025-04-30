@@ -13,6 +13,11 @@
   "definition": {
     "de": "Das innere Materialgefüges eines Objektes ist vollkommen destabilisiert, was zu einem kompletten Zerfall der Struktur geführt hat."
   },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "BGA41C"
   ],

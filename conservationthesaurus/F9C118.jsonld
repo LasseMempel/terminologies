@@ -15,6 +15,11 @@
   "definition": {
     "de": "Bildung von lokalen, punktuellen Vertiefungen oder Löchern auf der Oberfläche eines Objektes, die durch chemische Reaktionen in einem korrosiven Umfeld entstehen. Diese Korrosionserscheinung schwächt das Material lokalisiert und kann zu strukturellen Schäden führen, insbesondere wenn sie unbehandelt bleibt."
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "F9C118"
   ],

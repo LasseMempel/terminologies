@@ -13,6 +13,12 @@
   "definition": {
     "de": "Lichquelle, die ultraviolettes Licht emittieren kann. In der Regel handelt es sich dabei um Lampen mit UV-A Filter, Gasentladungslampen oder spezielle LEDs."
   },
+  "note": {
+    "de": [
+      "Franz Mairinger, UV-, IR- and X-ray imaging. In: S Jannsens, R. van Grieken (Hrsg.), Non-Destructive Microanalysis of Cultural Heritage Materials, Amsterdam 2004, 15-75.",
+      "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 51."
+    ]
+  },
   "notation": [
     "G8C987"
   ],

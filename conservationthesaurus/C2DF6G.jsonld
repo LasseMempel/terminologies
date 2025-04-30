@@ -15,6 +15,12 @@
   "definition": {
     "de": "analytische Methode, die zur Identifizierung und Charakterisierung von organischen und anorganischen Verbindungen verwendet wird. Das Prinzip beruht auf der Interferenz von Strahlung zwischen zwei Lichtstrahlen, bei der die Änderung der Weglänge zwischen den beiden Strahlen in Form eines Signals (Interferogram) gemessen und als Infrarotspektrum am Computer ausgewertet werden kann. Dieses gibt Auskunft über die molekulare Struktur und chemische Zusammensetzung einer Probe."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "Barbara Stuart, Infrared Spectroscopy: Fundamentals and Applications (Chichester 2004)."
+    ]
+  },
   "notation": [
     "C2DF6G"
   ],

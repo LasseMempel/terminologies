@@ -7,6 +7,11 @@
   "definition": {
     "de": "natürliches Polymer aus linearen Glycosemonomeren, dessen Fasern häufig zur Verstärkung von Klebstoffen zugesetzt werden."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "C4AG61"
   ],

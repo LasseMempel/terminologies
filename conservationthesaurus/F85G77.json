@@ -12,6 +12,12 @@
   "definition": {
     "de": "metamorphes Gestein, welches hauptsächlich aus Amphibolen und Feldspat besteht. Aufgrund des besonders hohen Vorkommens von Hornblende als Hauptbestandteil, wird der Amphibolit im deutschsprachigen Raum auch als Hornblendegestein bezeichnet. Je nach Zusammensetzung sind grau, graugrüne oder schwarzgrüne Farbigkeiten möglich, wobei durch einen hohen Anteil von Plagioklasen-Feldspäten auch ein weiß gepunktetes Aussehen zu finden ist. Die Textur ist als kristallin bis schiefrig zu bezeichnen mit mittel- bis grobkörnigen Korngrößen."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 309- 311."
+    ]
+  },
   "notation": [
     "F85G77"
   ],

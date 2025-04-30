@@ -7,6 +7,11 @@
   "definition": {
     "de": "Das Objekt weist eine in sich (gegeneinander) verschobene, unebene Fläche bzw. Form auf. Verwerfungen gehen häufig mit Brüchen einher."
   },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "FC4DGB"
   ],

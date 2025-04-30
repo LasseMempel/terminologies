@@ -12,6 +12,11 @@
   "definition": {
     "de": "Fügetechnik, bei der metallische Werkstücke durch geschmolzene metallische Bindemittel (Lote) stoffschlüssig verbunden werden. Dabei wird die zu lötende Stelle erhitzt, bis das Lot schmilzt und die Fuge der Verbindungsstelle ausfüllt. Die zu verbindenden Metalle bleiben während der Lötung im festen Zustand und werden durch die Diffusion des geschmolzenen Lotes verbunden."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S.319."
+    ]
+  },
   "notation": [
     "G6GG4C"
   ],

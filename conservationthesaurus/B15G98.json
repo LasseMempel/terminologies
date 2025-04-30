@@ -7,6 +7,11 @@
   "definition": {
     "de": "Produktname eines synthetischen Acrylharzes der Firma SPEIKO - Spezialitäten GmbH, auf Basis von Polymethylmethacrylat (PMMA).  Es zeigt ähnliche Eigenschaften wie Paraloid B72, ist jedoch etwas härter und besitzt eine höhere Glasübergangstemperatur (ca. 50-60°C). Kallocryl wurde ursprünglich für den Dentalbereich, für die Erstellung von Prothesen entiwckelt und ist daher für Anwendungen im Bereich der Konservierung/Restaurierung noch nicht soweit erforscht wie andere PMMA basierte Polymere."
   },
+  "note": {
+    "de": [
+      "https://www.dension-dental.de/Anleitungen/Kallocryl_20210520_INT.pdf"
+    ]
+  },
   "notation": [
     "B15G98"
   ],

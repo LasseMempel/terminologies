@@ -15,6 +15,12 @@
   "definition": {
     "de": "Gemenge aus mindestens zwei verschiedenen chemischen Elementen, wobei eines davon ein Metall ist. Durch das gezielte Zusammenschmelzen von Metallen werden Legierungen mit spezifischen Eigenschaften wie verbesserte Festigkeit, Korrosionsbeständigkeit oder Verarbeitbarkeit hergestellt. Im festen/abgekühlten Zustand können diese Legierungsbestandteile nicht ohne weiteres mit physikalischen Methoden getrennt werden. Benannt werden Legierungen nach dem mengenmäßig überwiegend enthaltenen Metall."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 42.",
+      "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 28."
+    ]
+  },
   "notation": [
     "F9GB13"
   ],

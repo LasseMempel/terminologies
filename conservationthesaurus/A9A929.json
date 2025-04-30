@@ -12,6 +12,11 @@
   "definition": {
     "de": "synthetisches Polymer, das duch die chemische Modifikation (Veresterung) von natürlicher Cellulose mit organischen Säuren oder Mineralsäuren hergestellt wird."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "A9A929"
   ],

@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D8B5C3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gips <Mineral>"
+    "de": "Gips (Mineral)"
   },
   "altLabel": {
     "de": [
@@ -11,6 +11,13 @@
   },
   "definition": {
     "de": "weiches Mineral aus wasserhaltigem Kalziumsulfat. Es ist in der Regel farblos bis weiß, durch enthaltene Verunreinigungen können jedoch auch grau, gelb, rötliche bis braun, schwarze Färbungen auftreten. Gips zeigt eine äußerst geringe Härte, sodass er bereits mit dem Fingernagel geritzt werden kann. Gips kommt als Mineral häufig in Sedimentgesteinen oder auch in Seeablagerungen oder Tonen vor, darüber hinaus tritt er als Eindampfungsprodukt auch in reiner Form (Gips-Gestein) auf."
+  },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 102.",
+      "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Gips"
+    ]
   },
   "notation": [
     "D8B5C3"

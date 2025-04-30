@@ -12,6 +12,12 @@
   "definition": {
     "de": "tierische Faser (Stapelfaser) aus dem charakteristischen Haarkleid des Schafes. Die Bezeichnung Wolle wird im allgemeinem Sprachgebrauch auch für die Haare anderer Tierarten verwendet, allerdings sollte zur Differenzierung deren Namen hinzugefügt werden."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken",
+      "DIN EN ISO 6938"
+    ]
+  },
   "notation": [
     "DF96G1"
   ],

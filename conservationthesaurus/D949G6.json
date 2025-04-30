@@ -12,6 +12,11 @@
   "definition": {
     "de": "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Trägersystems, zur Minimierung des Risikos einer ungewollten Beschädigung oder Zerstörung"
   },
+  "note": {
+    "de": [
+      "DIN EN 16141:2013-01, Erhaltung des kulturellen Erbes - Richtlinien für den Umgang mit Umwelt- und Umgebungsbedingungen - Schaudepots: Definitionen und Merkmale von Sammlungszentren bestimmt für die Bewahrung und Pflege des kulturellen Erbes; Deutsche Fassung EN 16141:2012, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D949G6"
   ],

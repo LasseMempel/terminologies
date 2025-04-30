@@ -23,19 +23,19 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A255FD",
       "prefLabel": {
-        "de": "Nass <Objektzustand>"
+        "de": "Nass (Objektzustand)"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/FDB9F5",
       "prefLabel": {
-        "de": "Feucht <Objektzustand>"
+        "de": "Feucht (Objektzustand)"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G41GC6",
       "prefLabel": {
-        "de": "Trocken <Objektzustand>"
+        "de": "Trocken (Objektzustand)"
       }
     }
   ],

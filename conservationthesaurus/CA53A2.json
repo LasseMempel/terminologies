@@ -7,6 +7,12 @@
   "definition": {
     "de": "häufig in der Natur vorkommendes Tonmineral mit der chemischen Zusammensetzung Al₂Si₂O₅(OH)₄. Es entsteht hauptsächlich durch die Verwitterung feldspathaltiger Gesteine und kristallisiert in dünnen Blättchen oder Schuppen als Schichtsilikat. Die Farbigkeit ist meist weiß, aber auch braune, gelbe oder graue Färbungen sind möglich. Es besitzt eine feinkörnige Struktur, ist Hauptbestandteil von Kaolin und wurde typischerweise für die Herstellung von Keramik oder als Füllstoff für verschiedene technologische Prozesse verwendet."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 62/63."
+    ]
+  },
   "notation": [
     "CA53A2"
   ],

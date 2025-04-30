@@ -13,6 +13,12 @@
   "definition": {
     "de": "Überbegriff für Gesteine, die aus Erstarrung einer Gesteinsschmelze entstehen."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 124."
+    ]
+  },
   "notation": [
     "DF7826"
   ],

@@ -7,6 +7,11 @@
   "definition": {
     "de": "Materialbezeichnung für Garn- und Stoffprodukte bestehend aus Flachsfasern."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken"
+    ]
+  },
   "notation": [
     "GB5A92"
   ],

@@ -7,6 +7,11 @@
   "definition": {
     "de": "Überbegriff für mineralisches Material, das von lebenden Organismen gebildet wird.  Aus chemischer Sicht handelt es sich dabei um anorganische Substanzen und Kristallstrukturen wir Kalziumkarbonat, Kalziumphosphat oder Siliziumdioxid. Diese werden von lebenden Organismen in biologischen Prozessen synthetisiert und in ihr Gewebe eingebaut. Dabei erfüllen die Biominerale spezifische Funktionen, wie den Schutz oder die Stabilität der Gewebestrukturen. Obwohl sie biologischen Ursprungs sind, werden Biominerale aufgrund ihrer chemischen Zusammensetzung und ihrer Eigenschaften den silikatischen bzw. mineralischen Materialien zugeorndet."
   },
+  "note": {
+    "de": [
+      "Matthias Epple, Biomaterialien und Biomineralisation (Wiesbaden 2003), S. 106/107."
+    ]
+  },
   "notation": [
     "F1BA31"
   ],

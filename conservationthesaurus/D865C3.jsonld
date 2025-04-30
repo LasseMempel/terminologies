@@ -12,6 +12,11 @@
   "definition": {
     "de": "Sammelbegriff für Methoden, bereits durchgeführte Maßnahmen (Altrestaurierungen/-Konservierungen) aber auch temporäre Stabilisierungen z.B. für die Bergung im Feld oder den Transport in die Werkstatt, zu überarbeiten bzw. zu entfernen. Dies kann der Fall sein, wenn z.B. verwendete Materialien im Laufe der Zeit selbst von Abbauprozessen negativ beeinflusst wurden oder ehemals angewandte Methoden/Materialien nicht mehr dem aktuellen Zeitgeist der Restaurierungsethik entsprechend."
   },
+  "note": {
+    "de": [
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 74."
+    ]
+  },
   "notation": [
     "D865C3"
   ],
@@ -38,7 +43,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierungsmethode"
+      "de": "Restaurierung"
     }
   },
   "inScheme": [

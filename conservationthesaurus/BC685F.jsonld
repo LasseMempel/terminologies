@@ -7,6 +7,12 @@
   "definition": {
     "de": "natürliche Stengelfaser, die aus der Leinpflanze (Linum usitatissimum) durch verschiedene Bearbeitungsschritte gewonnen wird."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken",
+      "DIN EN ISO 6938"
+    ]
+  },
   "notation": [
     "BC685F"
   ],

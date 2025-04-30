@@ -16,6 +16,12 @@
   "definition": {
     "de": "Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "William D. Callister, David G. Rethwisch, Materials Science and Engineering. An Introduction (New Jersey 2018)10."
+    ]
+  },
   "notation": [
     "D3BFFF"
   ],

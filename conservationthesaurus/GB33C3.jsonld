@@ -12,6 +12,11 @@
   "definition": {
     "de": "Das Materialgefüge des Objektes zeigt eine Abtrennung mit unregelmäßiger Kanten. Häufig verursacht durch Spannungsabbau im Gefüge."
   },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "GB33C3"
   ],

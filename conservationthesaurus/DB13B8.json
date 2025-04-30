@@ -7,6 +7,12 @@
   "definition": {
     "de": "klastisches Sedimentgestein, welches hauptsächlich aus Tonmineralen besteht. Häufig werden Tonsteine durch Ablagerung von Illit, Montomorillonit und/oder Chlorit leicht schiefrig ausgebildet. Die Farbigkeit liegt bei grau, blau, grünlich, rotbraun, schwarz oder verschiedenfarbig gefleckt. Tonsteine weisen in der Regel eine außerordentliche Feinkörnigkeit auf, wodurch der Bruch selbst bei beachtlicher Beimengung von Quarz oder Glimmer durchwegs homogen wirkt. Die Struktur der Tonsteine ist meist weich und krümelig, zeigt jedoch eine höhere Härte als Schieferton. Die Oberfläche ist von einem seidigen Glanz."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 231 - 235."
+    ]
+  },
   "notation": [
     "DB13B8"
   ],

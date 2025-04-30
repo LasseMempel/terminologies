@@ -7,6 +7,12 @@
   "definition": {
     "de": "Produktname eines Lösungsmittelgemisches der Firma Ehserchemie GmbH bestehen aus Dichlormethan und Methanol. Aufgrund des starken organischen Lösungsmittels Dichlormethan, dessen Effektivität von Methanol noch unterstützt wird, ist Coloradol in der Lage ausgehärtete Epoxidharze aufzulösen bzw. soweit zu schwächen, dass sie entfernt werden können. Entsprechend wird Coloradol für die Lösung bzw. Entfernung von Epoxidsharz-Klebungen verwendet. Allerdings gehen höchste Gesundheitsgefahren von den Bestandteilen des Coloradols aus, sodass dessen Verwendung auf ein Minimum begrenzt werden sollte."
   },
+  "note": {
+    "de": [
+      "https://gestis.dguv.de/data?name=012630",
+      "https://www.ehserchemie.de/wp-content/uploads/2019/04/Coloradol-70-L.pdf"
+    ]
+  },
   "notation": [
     "GGD87G"
   ],

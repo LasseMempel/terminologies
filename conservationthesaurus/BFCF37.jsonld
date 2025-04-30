@@ -7,6 +7,11 @@
   "definition": {
     "de": "Produktname von Schadstoff- bzw. Sauerstoffabsorbern der Firma Mitsubishi Gas Chemical Europe GmbH"
   },
+  "note": {
+    "de": [
+      "https://llfa.de/sauerstoffabsorber-rp.html"
+    ]
+  },
   "notation": [
     "BFCF37"
   ],

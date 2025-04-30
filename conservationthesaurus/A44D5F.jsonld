@@ -12,6 +12,12 @@
   "definition": {
     "de": "synthetisches Polymer, das durch chemische Veretherung von Cellulose hergestellt wird. Je nach geneuer chemischer Zusammensetzung des gewählten Produktes ergeben sich spezifische Eigenschaften wie Viskosität, Klebekraft und Löslichkeit."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
+      "Hermann Kühn, Conservation and Restoration of Works of Art and Antiquities. Volume 1 (London 1986), S.163."
+    ]
+  },
   "notation": [
     "A44D5F"
   ],

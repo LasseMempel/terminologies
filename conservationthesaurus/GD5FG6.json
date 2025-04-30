@@ -2,10 +2,17 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5FG6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gips <Restaurierungsmaterial>"
+    "de": "Gips (Restaurierungsmaterial)"
   },
   "definition": {
     "de": "pulverförmiges Material aus Calciumsulfat, das duch Brennen des wasserhaltigen Gips-Minerals gewonnen wird. Durch Zugabe von Wasser wird aus dem fein gemahlenen Gipspulver eine formbar Modelliermasse, die an der Luft aushärtet. Aufgrund seiner leichten Berarbeitbarkeit und der schnellen Härtung wird Gips in der Restaurierung für Abgüsse/Modelle, Formbau oder die Ergänzung von Fehlstellen verwendet."
+  },
+  "note": {
+    "de": [
+      "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 99/100, 130, 146.",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 221.",
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 198."
+    ]
   },
   "notation": [
     "GD5FG6"

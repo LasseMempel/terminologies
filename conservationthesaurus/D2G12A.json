@@ -13,6 +13,11 @@
   "definition": {
     "de": "elastischer, polymerer Werkstoff, der hauptsächlich aus dem Milchsaft (Latex) des Kautschukbaums (Hevea brasiliensis) gewonnen wird. Chemisch besteht er überwiegend aus Polyisopren, einem cis-1,4-Polymer, das ihm seine charakteristische Elastizität und Reißfestigkeit verleiht. Naturkautschuk ist wasserunlöslich, dehnbar und besitzt eine hohe chemische Beständigkeit."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D2G12A"
   ],

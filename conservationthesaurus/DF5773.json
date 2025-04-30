@@ -16,6 +16,14 @@
   "definition": {
     "de": "Durch radikalische Polymerisation von Vinylacetat-Monomeren hergestelltes thermoplastisches Polymer, das in fester oder flüssiger Form (als wässrige Dispersion oder Emulsion) bezogen werden kann. Verschiedene PVAC-Produkte werden in der Restaurierung häuptsächlich für Klebungen, Festigungen und als Schutzüberzug verwendet. Die Glasübergangstemperatur von PVAC liegt in etwa bei Raumtemperatur, was zu einem weichen und klebrigen Zustand führt und unerwünschte Adhäsion von Staub und Schmutz sowie das Verformen bzw. Versagen von Klebunge verursacht."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 218/219.",
+      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 190.",
+      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010), S 137, 141."
+    ]
+  },
   "notation": [
     "DF5773"
   ],

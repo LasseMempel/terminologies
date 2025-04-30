@@ -15,6 +15,12 @@
   "definition": {
     "de": "textile Fertigungstechnik, bei der Fasern oder Haare (z.B. Wolle) durch Verdrehen zu einem kontinuierlichen Faden verarbeitet werden. Dieser Prozess kann mechanisch oder manuell erfolgen und dient dazu, lose Fasern zu einem festen, belastbaren und verarbeitungsfähigen Faden zu verbinden. Gesponnene Garne bilden die Grundlage für textile Gewebe, Strickwaren oder Seile und können je nach Verwendungszweck in ihrer Feinheit, Festigkeit und Elastizität variieren."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken",
+      "Annemarie Seiler-Baldinger, Systematik der Textilen Techniken. Basler Beiträge zur Ethnologie 32. Basel: Wepf, 1991, S. 8"
+    ]
+  },
   "notation": [
     "G859A7"
   ],

@@ -2,10 +2,16 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GGCA4G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dolomit <Gestein>"
+    "de": "Dolomit (Gestein)"
   },
   "definition": {
     "de": "großbkörniges, sedimentäres Gestein, das hauptsächlich aus dem gleichnamigen Mineral besteht. Die genaue Bildung von Dolomit ist nicht geklärt, jedoch kommen sie ausschließlich in marinen Sedimentabfolgen vor. Farbe, Korngröße und Gefüge ähneln den Kalksteinen, jedoch ist Dolomit härter und weniger reaktiv gegenüber Säuren."
+  },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 248/249."
+    ]
   },
   "notation": [
     "GGCA4G"

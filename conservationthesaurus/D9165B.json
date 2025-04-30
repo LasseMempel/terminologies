@@ -12,6 +12,11 @@
   "definition": {
     "de": "kontrollierterer und gezielterer Fertigungsprozess, zur Herstellung von Garnen/Zwirn. Dabei werden zwei oder mehr gesponnene Einzelfäden mit entgegengesetzter Drehrichtung fest miteinander verdreht (Z- oder S-Drehung), um eine stabile, gleichmäßige und glattere Struktur mit höherer Festigkeit und Elastizität zu erzeugen."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken"
+    ]
+  },
   "notation": [
     "D9165B"
   ],

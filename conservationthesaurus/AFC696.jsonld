@@ -17,6 +17,11 @@
   "definition": {
     "de": "organische Verbindung mit der chemischen Formel C4H8O aus der Gruppe der Ketone. Es ist eine farblose, flüchtige Flüssigkeit mit charakteristischem Geruch, die sich durch eine moderate Polarität und hohe Lösekraft sowie eine Verdunstungsgeschwindigkeit zwischen Aceton und Ethanol auszeichnet, wodurch es in der Konservierung und Restaurierung zur Entfernung von Beschichtungen, Klebstoffen und zur Herstellung von Polymerlösungen verwendet wird."
   },
+  "note": {
+    "de": [
+      "https://gestis.dguv.de/data?name=013330"
+    ]
+  },
   "notation": [
     "AFC696"
   ],

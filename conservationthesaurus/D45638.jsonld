@@ -7,6 +7,11 @@
   "definition": {
     "de": "Durch die Einwirkung externer Faktoren schleichender Verlust von Oberflächenmaterial des Objektes."
   },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D45638"
   ],

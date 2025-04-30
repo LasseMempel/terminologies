@@ -12,6 +12,12 @@
   "definition": {
     "de": "optisches Lichtmikroskop, das zwei getrennte Strahlengänge verwendet um ein dreidimensionales Bild eines Objektes zu erzeugen. Dadurch können detaillierte Oberflächenstrukturen besser untersucht werden. Es bietet eine geringere Vergrößerung im Vergleich zu anderen Mikroskopen aber eine größerer Tiefenschärfe."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "Marcel Locquin, Maurice Langeron, Handbook of Microscopy (London 1983)."
+    ]
+  },
   "notation": [
     "A75779"
   ],

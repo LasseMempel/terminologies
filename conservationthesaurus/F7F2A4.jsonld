@@ -7,6 +7,11 @@
   "definition": {
     "de": "Korrosionserscheinung, die örtlich begrenzt zur Spaltbildung zwischen Oberflächen führt."
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "F7F2A4"
   ],

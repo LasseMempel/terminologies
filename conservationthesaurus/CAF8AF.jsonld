@@ -17,6 +17,12 @@
   "definition": {
     "de": "textile Fertigungstechnik, bei der zwei Fadensysteme, Kette und Schuss, rechtwinklig ineinander verflochten werden, um ein stabiles Gewebe zu erzeugen. Dabei werden die Kettfäden in einem Webrahmen oder einer Webmaschine gespannt, während der Schussfaden durch sie hindurchgeführt wird."
   },
+  "note": {
+    "de": [
+      "CIETA Vocabularies - Vokabular der Textiltechniken",
+      "Annemarie Seiler-Baldinger, Systematik der Textilen Techniken. Basler Beiträge zur Ethnologie 32. Basel: Wepf, 1991, S.80."
+    ]
+  },
   "notation": [
     "CAF8AF"
   ],

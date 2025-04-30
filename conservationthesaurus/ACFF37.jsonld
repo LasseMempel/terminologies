@@ -7,6 +7,11 @@
   "definition": {
     "de": "chemische Substanz, die bereits in geringer Konzentrationen in der Lage ist die Korrosionsgeschwindigkeit von Metallen in aggressiven Umgebungen zu verringern. Sie wirken, indem sie schützende Filme auf der Metalloberfläche bilden und somit die chemische Reaktionen hemmen. In der Konservierung und Restaurierung finden sie Anwendung, um metallische Artefakte vor weiterer Schädigung zu bewahren und ihre langfristige Stabilität zu gewährleisten."
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "ACFF37"
   ],

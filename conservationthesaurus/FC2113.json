@@ -15,6 +15,12 @@
   "definition": {
     "de": "Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "Marcel Locquin, Maurice Langeron, Handbook of Microscopy (London 1983)."
+    ]
+  },
   "notation": [
     "FC2113"
   ],

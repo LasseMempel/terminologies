@@ -12,6 +12,11 @@
   "definition": {
     "de": "thermoplastisches Polymer, welches durch Hydrolyse von Polyvinylacetat synthetisiert wird. Es ist beständig gegenüber Ölen, Fetten und organischen Lösungsmitteln, jedoch empfindlich gegenüber Feuchtigkeit. In der Restaurierung wird PVAL als reversibler Klebstoff für poröse Materialien, Bindemittel oder Beschichtungsmaterial eingesetzt."
   },
+  "note": {
+    "de": [
+      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "C838C1"
   ],

@@ -15,6 +15,13 @@
   "definition": {
     "de": "Legierung mit Silber als Hauptbestandteil. Reines Silber ist für viele Anwendungsbereiche zu weich, sodass es häufig mit anderen Metallen (vor allem Kupfer) legiert wird. Neben den Korrosionserscheinungen des reinen Silbers treten in Legierungssystemen weitere Korrosionen auf. So kann sich z.B. bei kupferhaltigen Silberlegierungen Kupfer-I-oxid und Kupfersulfid bilden."
   },
+  "note": {
+    "de": [
+      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000).",
+      "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\"",
+      "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)."
+    ]
+  },
   "notation": [
     "AD789F"
   ],

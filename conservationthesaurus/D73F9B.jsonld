@@ -12,6 +12,11 @@
   "definition": {
     "de": "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet."
   },
+  "note": {
+    "de": [
+      "DIN EN 16484"
+    ]
+  },
   "notation": [
     "D73F9B"
   ],

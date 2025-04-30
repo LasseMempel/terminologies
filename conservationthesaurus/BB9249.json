@@ -7,6 +7,11 @@
   "definition": {
     "de": "Produktname eines zweikomponentigen, bei Raumtemperatur aushärtenden Epoxidharzes der Firma Epoxy Technology. Es zeichnet sich durch eine sehr niedrige Viskosität sowie gute optische und mechanische Eigenschaften aus."
   },
+  "note": {
+    "de": [
+      "https://www.epotek.com/docs/en/Datasheet/301.pdf"
+    ]
+  },
   "notation": [
     "BB9249"
   ],

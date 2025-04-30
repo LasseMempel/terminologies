@@ -15,6 +15,11 @@
   "definition": {
     "de": "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen"
   },
+  "note": {
+    "de": [
+      "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.81."
+    ]
+  },
   "notation": [
     "C6A532"
   ],
@@ -68,6 +73,19 @@
       "prefLabel": {
         "de": "Wasser"
       }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "https://d-nb.info/gnd/4124842-9"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q190873"
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300053754"
     }
   ],
   "inScheme": [

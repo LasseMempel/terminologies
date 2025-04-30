@@ -7,13 +7,19 @@
   "definition": {
     "de": "Produktname einer gebrauchsfertige Spachtelmasse auf Gipsbasis, die für das Füllen von Rissen, Löchern und Unebenheiten in Wänden und Decken entwickelt wurde. Sie zeichnet sich durch ihre feine Konsistenz, leichte Verarbeitbarkeit und schnelle Trocknung aus und wird daher in der Konservierung und Restaurierung für kleinere Ausbesserungsarbeiten an Keramikobjekten verwendet."
   },
+  "note": {
+    "de": [
+      "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S.100.",
+      "https://msp.images.akzonobel.com/prd/dh/edewdd/documents/tm_mo_de_moltofilldasoriginal.pdf"
+    ]
+  },
   "notation": [
     "A3D23D"
   ],
   "broader": {
     "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5FG6",
     "prefLabel": {
-      "de": "Gips <Restaurierungsmaterial>"
+      "de": "Gips (Restaurierungsmaterial)"
     }
   },
   "inScheme": [

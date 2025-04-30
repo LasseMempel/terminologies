@@ -7,6 +7,11 @@
   "definition": {
     "de": "Über einen großen Bereich der Oberfläche (oder die gesamte Oberfläche) des Objektes verteilt findet ein Korrosionsangriff statt, der zu einem gleichmäßigen Abtrag und der Verdünnung des Materials führt. Die strukturelle Integrität als auch das ästhetische Erscheinungsbild des Objektes sind beeinträchtigt."
   },
+  "note": {
+    "de": [
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "D68BAA"
   ],

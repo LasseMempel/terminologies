@@ -12,6 +12,11 @@
   "definition": {
     "de": "Produktname eines kondensationsvernetzenden Silikonkautschuks der Firma Nedform, welches auch unter dem Namen Nedsil 20 TVL vertrieben wird. Laut Herstellerangabe zeichnet sich das Produkt durch eine gute Fließfähigkeit, feine Detailgenauigkeit und eine sehr hohe Reisfestigkeit aus. Die Topfzeit bei Raumtemperatur wird mit 100 min, die Entformzeit mit 16-20 h angegeben, wobei beides maßgeblich von Mischungsverhältnis und Luftfeuchtigkeit abhängt."
   },
+  "note": {
+    "de": [
+      "https://www.nedform.com/DOC/DE/DE%20-%20Produktinformationen%20Silikon%20Kondensation%2020%20Einsteigerpaket.pdf"
+    ]
+  },
   "notation": [
     "AC1C85"
   ],

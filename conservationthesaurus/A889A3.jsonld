@@ -13,6 +13,11 @@
   "definition": {
     "de": "Schadensphänomen, das durch Ablagerung unerwünschter Substanz die Lesbarkeit des Objektes vermindert"
   },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "A889A3"
   ],

@@ -12,6 +12,12 @@
   "definition": {
     "de": "chemische Substanz, die in der Lage ist bei einer chemischen Reaktion andere Substanzen zu reduzieren. Das Reduktionsmittel fungiert dabei als Eletronendonator (gibt Elektronen ab) und wird somit selbst oxidiert (Redoxreaktion). In der Restaurierung werden Reduktionsmittel eingesetzt, um die ungewollte Oxidation von Metallen zu reduzieren, Korrosionsprodukte zu entfernen und die ursprüngliche Erscheinung von Objekten wiederherzustellen."
   },
+  "note": {
+    "de": [
+      "Charles E. Mortimer, Ulrich Müller, Chemie. Das Basiswissen der Chemie (Stuttgart 2007)9.",
+      "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."
+    ]
+  },
   "notation": [
     "B3FCA1"
   ],

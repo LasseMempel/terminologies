@@ -13,6 +13,11 @@
   "definition": {
     "de": "Überbegriff für Gesteine, die mittels Diagenese durch Verwitterung, Abtragung, Zerfall anderer Gesteine und deren sekundäre Ablagerung auf der Erdoberfläche entstehen. Auch Gesteine die durch chemische Ausfällung oder von Organismen aufgebaut werden, zählen zur Gruppe der Sedimentgesteine."
   },
+  "note": {
+    "de": [
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 203 - 210."
+    ]
+  },
   "notation": [
     "C7F346"
   ],
@@ -62,7 +67,7 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G734B3",
       "prefLabel": {
-        "de": "Gips <Gestein>"
+        "de": "Gips (Gestein)"
       }
     },
     {
@@ -74,7 +79,7 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GGCA4G",
       "prefLabel": {
-        "de": "Dolomit <Gestein>"
+        "de": "Dolomit (Gestein)"
       }
     }
   ],

@@ -12,6 +12,11 @@
   "definition": {
     "de": "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus."
   },
+  "note": {
+    "de": [
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995)."
+    ]
+  },
   "notation": [
     "BGC9F3"
   ],
@@ -73,13 +78,13 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D1788D",
       "prefLabel": {
-        "de": "Dolomit <Mineral>"
+        "de": "Dolomit (Mineral)"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D8B5C3",
       "prefLabel": {
-        "de": "Gips <Mineral>"
+        "de": "Gips (Mineral)"
       }
     },
     {

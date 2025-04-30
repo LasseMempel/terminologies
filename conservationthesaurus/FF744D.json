@@ -12,6 +12,11 @@
   "definition": {
     "de": "Elfenbein, das aus der Gegenwart bzw. von kürzlich verstorbenen Tieren wie Elefanten oder Walrossen gewonnen wurde. Aufgrund von Naturschutzgesetzen und internationalen Abkommen wie dem Washingtoner Artenschutzübereinkommen (CITES) ist der Handel mit solchem Elfenbein stark eingeschränkt und verboten."
   },
+  "note": {
+    "de": [
+      "https://www.bfn.de/elfenbein"
+    ]
+  },
   "notation": [
     "FF744D"
   ],

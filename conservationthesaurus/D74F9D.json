@@ -7,6 +7,12 @@
   "definition": {
     "de": "Gruppe von Silikatmineralen mit unterschiedlicher chemischer Zusammensetzung aus zweiwertigen Ionen, wie Ca, Mg, Fe, Mn und dreiwertigen, wie Al, Fe3+ oder Cr. Je nach Kombination ergeben sich verschiedene Varietäten, mit eigenen Trivialnamen, sowie Mischkristalle zwischen diesen. Granate kommen häufig als Nebengemengeteil in metamorphosen Gesteinen vor, zum Beispiel in Glimmerschiefer, Hornblenscheifer, Peridotit und Serpentinit."
   },
+  "note": {
+    "de": [
+      "DIN EN 12670",
+      "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 74/75."
+    ]
+  },
   "notation": [
     "D74F9D"
   ],

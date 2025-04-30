@@ -12,6 +12,13 @@
   "definition": {
     "de": "zweikomponenten Silikonkautschuk, der durch eine Polykondensationsreaktion mittels Zinnkatalysatoren vernetzt. In der Konservierung und Restaurierung wird kondensationsvernetzender Silikonkautschuk aufgrund seiner einfachen Verarbeitung, Zeichnungsgenauigkeit und moderaten Kosten für die Abformung von Objekten verwendet. Bei dieser Art von Silikonkautschuk ist ein Auftrag in mehrere Schichten, auch nach Polymerisation der Vorherigen möglich. Während der Vernetzungsreaktion werden Alkohole (typischerweise Ethanol) abgespalten, was zu einem Volumenschwund des Silikonkautschuks führt. Aus diesem Grund weist das Material eine begrenzte Langzeitstabilität auf und kann zur Versprödung neigen. Darüber hinaus können austretende Silikonöle bei porösen Materialien zu Verfärbungen führen."
   },
+  "note": {
+    "de": [
+      "https://www.wacker.com/h/medias/6415-DE-Silicone.pdf",
+      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 221.",
+      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 272-276, 280/281."
+    ]
+  },
   "notation": [
     "GD9CA3"
   ],

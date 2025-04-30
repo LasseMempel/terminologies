@@ -16,6 +16,12 @@
   "definition": {
     "de": "Mikroskop, bei dem ein erzeugter Elektronenstrahl gezielt auf die Oberfläche eines Objekt gelenkt wird, diese in einem bestimmten Muster abrastert und durch die Wechselwirkung zwischen Elektronen und Objektoberfläche eine Abbildung der Oberflächenbeschaffenheit erzeugt wird."
   },
+  "note": {
+    "de": [
+      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+      "William D. Callister, David G. Rethwisch, Materials Science and Engineering. An Introduction (New Jersey 2018)10."
+    ]
+  },
   "notation": [
     "B764C6"
   ],
