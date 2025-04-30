@@ -64,7 +64,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     ]
 
     extendedTuples = [
-        ("source", DC.source, Literal, False),
+        ("source", SKOS.note, Literal, True), #DC.source # False
         #("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
         ("translation", SKOS.altLabel, Literal, True)
@@ -141,7 +141,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "http://data.archaeology.link/terminology/archeologicalconservation" # "https://www.lassemempel.github.io/terminologies/conservationthesaurus" # "http://data.archaeology.link/terminology/archeologicalconservation"
+baseUri = "https://www.lassemempel.github.io/terminologies/conservationthesaurus"  # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader"}
