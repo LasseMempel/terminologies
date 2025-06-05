@@ -304,6 +304,12 @@
     skos:notation "A44FD4" ;
     skos:prefLabel "Gefriertrocknung"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4A374> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76A78> ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "A4A374" ;
+    skos:prefLabel "Kohle"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A57386> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AF31AG> ;
     skos:definition "Produktname eines niedrigviskosen Epoxidharzes der Firma Huntsman Corporation, basierend auf Bisphenol-A und einem reaktiven Verdünnungsmittel. In Kombination mit aliphatischen und/oder cycloaliphatischen Aminen wird Araldite BY 158 vor allem in industriellen Injektionssystemen verwendet, um stabile und widerstandsfähige Verbindungen zu schaffen."@de ;
@@ -514,6 +520,14 @@
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "A8272G" ;
     skos:prefLabel "Japanpapier"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82C8C> a skos:Concept ;
+    skos:altLabel "rawhide"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> ;
+    skos:definition "Von Fleisch und Haaren befreite und getrocknete, ungegerbte Tierhaut"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "A82C8C" ;
+    skos:prefLabel "Rohhaut"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8588A> a skos:Concept ;
     skos:altLabel "löchrig"@de ;
@@ -1277,6 +1291,15 @@
     skos:notation "B61CC6" ;
     skos:prefLabel "geklammert"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/B6443F> a skos:Concept ;
+    skos:altLabel "feather"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988> ;
+    skos:definition "tierische, oft bunte Keratinstruktur, welche aus der Haut von Vögen gebildet wird und als Federkleid die äußerste Hauptbedeckung von Vögeln bildet."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "B6443F" ;
+    skos:note "https://de.wikipedia.org/wiki/Feder"@de ;
+    skos:prefLabel "Feder"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B64825> a skos:Concept ;
     skos:altLabel "Schmieden"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AGG387> ;
@@ -1509,8 +1532,9 @@
     skos:prefLabel "Bergkristall"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B9C731> a skos:Concept ;
+    skos:altLabel "parchment"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> ;
-    skos:definition "Von Haaren befreite und unter Spannung getrocknete Tierhaut, die aus einem Geflecht von Collagenfasern besteht und in den meisten Fällen von Schaf, Kalb oder Ziege gewonnen wurde."@de ;
+    skos:definition "Von Haaren befreite und unter Spannung getrocknete sehr dünne Tierhaut, die aus einem Geflecht von Collagenfasern besteht und in den meisten Fällen von Schaf, Kalb oder Ziege gewonnen wurde. Durch mehrere Verarbeitungsschritte wie Kalken,  enthaaren, Schaben und das Trocknen unter Spannung entsteht ein nahezu durchsichtiges, festes Material, welches zum Schreiben, Buchbinden oder für andere Zwecke verwendet wird."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "B9C731" ;
     skos:note "Julia Becker, Tino Licht, Bernd Schneidmüller, Pergament. In: Thomas Meier, Michael Ott, Rebecca Sauer (Hrsg), Materiale Textkulturen. Konzepte - Materialien - Praktiken. Materiale Textkulturen Bd. 1, Berlin 2015, S. 337."@de ;
@@ -2028,6 +2052,14 @@ Technologie. München 2000, S. 86."""@de ;
     skos:note "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."@de,
         "Barbara Stuart, Infrared Spectroscopy: Fundamentals and Applications (Chichester 2004)."@de ;
     skos:prefLabel "Fourier-Transform-Infrarotspektrometrie"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C2FCA7> a skos:Concept ;
+    skos:altLabel "bark"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> ;
+    skos:definition "natürliches Material, welches als äußerste Schicht die holzigen Teile von Bäumen bedeckt."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "C2FCA7" ;
+    skos:prefLabel "Rinde"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C33933> a skos:Concept ;
     skos:altLabel "FTIR-Spektrometer"@de ;
@@ -4757,6 +4789,14 @@ Technologie. München 2000, S. 86."""@de ;
     skos:note "https://gestis.dguv.de/data?name=033670"@de ;
     skos:prefLabel "Propylacetat"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/G465BG> a skos:Concept ;
+    skos:altLabel "seed"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> ;
+    skos:definition "organisches Material aus der für die Ausbreitung dienenden Gebewebestruktur von Pflanzen, bestehend aus Samenschale, Embryo und Nährgewebe."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "G465BG" ;
+    skos:prefLabel "Samen"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G49676> a skos:Concept ;
     skos:altLabel "Cannelébindung"@de,
         "Reps"@de,
@@ -5269,12 +5309,29 @@ Technologie. München 2000, S. 95."""@de ;
     skos:notation "GFCC9F" ;
     skos:prefLabel "Diffusionsvergoldung"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/GFDB57> a skos:Concept ;
+    skos:altLabel "straw"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25> ;
+    skos:definition "getrocknete Halme pflanzlicher Fasern, die für eine Vielzahl unterschiedlicher Zwecke verwendet werden, z.B. zum Weben, Flechten oder als Magerungsmittel für Ton"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "GFDB57" ;
+    skos:prefLabel "Stroh"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GG1CG9> a skos:Concept ;
     skos:altLabel "Salix species"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAA3F9> ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "GG1CG9" ;
     skos:prefLabel "Weidenholz"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/GG2137> a skos:Concept ;
+    skos:altLabel "Fell"@de,
+        "fur"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F> ;
+    skos:definition "organisches Material aus der vom Körper abgetrennten, mit dichten Haaren besetzten Haut von Säugetieren."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "GG2137" ;
+    skos:prefLabel "Tierfell"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GG3G4B> a skos:Concept ;
     skos:altLabel "NaOH"@de,
@@ -5822,14 +5879,6 @@ Technologie. München 2000, S. 95."""@de ;
     skos:prefLabel "Bleilegierung"@de ;
     skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G992B6> .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> ;
-    skos:definition "Überbegriff für Materialien die aus Pflanzen gewonnen werden."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25> ;
-    skos:notation "F3G8D1" ;
-    skos:prefLabel "Materialien pflanzlichen Ursprungs"@de .
-
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F71C33> a skos:Concept ;
     skos:altLabel "scalpel"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D941BB> ;
@@ -6070,21 +6119,6 @@ Technologie. München 2000, S. 95."""@de ;
     skos:notation "A9A54D" ;
     skos:prefLabel "Spektrometer"@de .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988> a skos:Concept ;
-    skos:altLabel "Tierfaser"@de,
-        "tierische Faser"@de ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> ;
-    skos:closeMatch <http://vocab.getty.edu/page/aat/300386673>,
-        <https://cameo.mfa.org/wiki/Animal_fibers> ;
-    skos:definition "Natürliche Fasern, die aus den Haarfollikeln oder den Sekreten von Tieren gewonnen werden und basierend auf ihren jeweiligen Eigenschaften im kulturellen Kontext für verschiedene Anwendungen wie z.B. Kleidung, Fäden oder Dekor verarbeitet wurden."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6F797>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G899F5> ;
-    skos:notation "AB4988" ;
-    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 127/128."@de,
-        "DIN EN ISO 6938"@de ;
-    skos:prefLabel "Fasern tierischen Ursprungs"@de .
-
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AD3B58> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGC9F3> ;
     skos:closeMatch <https://www.mindat.org/min-1136.html> ;
@@ -6158,6 +6192,17 @@ Technologie. München 2000, S. 95."""@de ;
         "https://www.duden.de/rechtschreibung/Laubholz"@de ;
     skos:prefLabel "Laubholz"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F> a skos:Concept ;
+    skos:altLabel "collagenous material"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> ;
+    skos:closeMatch <http://vocab.getty.edu/page/aat/300192949> ;
+    skos:definition "Kollagenhaltiges tierisches Material"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GG2137> ;
+    skos:notation "BA652F" ;
+    skos:prefLabel "Kollagenhaltiges Material"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFCF37> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F443FD> ;
     skos:definition "Produktname von Schadstoff- bzw. Sauerstoffabsorbern der Firma Mitsubishi Gas Chemical Europe GmbH"@de ;
@@ -6215,6 +6260,7 @@ Technologie. München 2000, S. 95."""@de ;
     skos:prefLabel "Datierung"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C93638> a skos:Concept ;
+    skos:altLabel "Konservierungs- und Restaurierungsequipment"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CFGDA3> ;
     skos:closeMatch <http://www.wikidata.org/entity/Q39546> ;
     skos:definition "Oberbegriff für Gegenstände, die genutzt werden um Konservierungs- und/oder Restaurierungsmaßnahmen durchzuführen. Die verschiedenen Werkzeuge ermöglichen ein präzises Arbeiten und erhöhen die Effizienz bei den unterschiedlichen Methoden und Aufgaben."@de ;
@@ -6222,7 +6268,7 @@ Technologie. München 2000, S. 95."""@de ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D941BB>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GF9C49> ;
     skos:notation "C93638" ;
-    skos:prefLabel "Werkzeuge"@de .
+    skos:prefLabel "Konservierungs- und Restaurierungswerkzeuge"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CA7279> a skos:Concept ;
     skos:altLabel "visual examination"@en ;
@@ -6397,12 +6443,13 @@ Technologie. München 2000, S. 63."""@de ;
     skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AD789F> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> a skos:Concept ;
+    skos:altLabel "animal material"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> ;
     skos:closeMatch <http://vocab.getty.edu/page/aat/300011793> ;
     skos:definition "Überbegriff für organische Materialien die aus verschiedenen Teilen eines Tieres hergestellt werden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> ;
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F> ;
     skos:notation "F2A45F" ;
     skos:prefLabel "Materialien tierischen Ursprungs"@de .
 
@@ -6427,7 +6474,7 @@ Technologie. München 2000, S. 63."""@de ;
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6F797> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988> ;
-    skos:definition "fadenförmige Sekrete, die von verschiedenen Tieren, wie z.B. Raupen des Seidenspinners, ausgeschieden und zu Geweben verarbeitet werden."@de ;
+    skos:definition "feine, glänzende Naturfaser, die aus den Kokons von Seidenspinnern, wie dem domestizierten Bombyx mori, ausgeschieden und zu Geweben verarbeitet wird."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G16647>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G21F5B> ;
@@ -6556,15 +6603,6 @@ Technologie. München 2000, S. 63."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F7G7CB> ;
     skos:notation "FBGFC2" ;
     skos:prefLabel "[Formaufbau]"@de .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> ;
-    skos:definition "Überbegriff für organische Materialien, die durch verschiedene Verfahren aus den Häuten von Tieren hergestellt werden."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B9C731>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D73F9B> ;
-    skos:notation "FCF757" ;
-    skos:prefLabel "Tierhaut"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FD5149> a skos:Concept ;
     skos:altLabel "gold"@en ;
@@ -6697,6 +6735,22 @@ Technologie. München 2000, S. 63."""@de ;
     skos:note "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung."@de,
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)., S. 103/104"@de ;
     skos:prefLabel "Holz"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988> a skos:Concept ;
+    skos:altLabel "Tierfaser"@de,
+        "tierische Faser"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F> ;
+    skos:closeMatch <http://vocab.getty.edu/page/aat/300386673>,
+        <https://cameo.mfa.org/wiki/Animal_fibers> ;
+    skos:definition "Natürliche Fasern, die aus den Haarfollikeln oder den Sekreten von Tieren gewonnen werden und basierend auf ihren jeweiligen Eigenschaften im kulturellen Kontext für verschiedene Anwendungen wie z.B. Kleidung, Fäden oder Dekor verarbeitet wurden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B6443F>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6F797>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G899F5> ;
+    skos:notation "AB4988" ;
+    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 127/128."@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Fasern tierischen Ursprungs"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AG4397> a skos:Concept ;
     skos:altLabel "Wassergehalt"@de,
@@ -7027,6 +7081,16 @@ Technologie. München 2000, S. 63."""@de ;
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 88/89., 178/179"@de ;
     skos:prefLabel "Wasser"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> ;
+    skos:definition "Überbegriff für Materialien die aus Pflanzen gewonnen werden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C2FCA7>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G465BG> ;
+    skos:notation "F3G8D1" ;
+    skos:prefLabel "Materialien pflanzlichen Ursprungs"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F75BDB> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGC9F3> ;
     skos:definition "Mineral aus der Gruppe der Ringsilikate bestehend aus Beryllium-Aluminium-Silikat. Er zeichnet sich durch eine Härte von 7,5 . 8 auf der Mohs-Skala aus und tritt in reiner Form meist farblos transparent bis durchscheinend auf. Durch enthaltene Spurenelemente bildet der Beryll eine Reihe verschieden farbiger Varietäten, die aufgrund ihrers glasartigen Glanzes und der ästhetischen Farbgebung als Schmucksteine sehr geschätzt werden."@de ;
@@ -7063,6 +7127,17 @@ Technologie. München 2000, S. 63."""@de ;
     skos:notation "F8F7CF" ;
     skos:prefLabel "Kopieherstellung"@de ;
     skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAG2A8> .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757> a skos:Concept ;
+    skos:altLabel "animal skin"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F> ;
+    skos:definition "organisches Material aus der vom Körper abgetrennten, äußersten Gewebehülle von Tieren, die durch verschiedene Verfahren haltbar und weiter verarbeitbar gemacht wurde."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82C8C>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B9C731>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D73F9B> ;
+    skos:notation "FCF757" ;
+    skos:prefLabel "Tierhaut"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGA46A> a skos:Concept ;
     skos:altLabel "Edelmetalle"@de,
@@ -7101,17 +7176,6 @@ Technologie. München 2000, S. 63."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FFA16B> ;
     skos:notation "G52378" ;
     skos:prefLabel "analoge Abformung"@de .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76A78> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> ;
-    skos:definition "Überbegriff für verfestigten Anreicherungen von organischen Kohlenstoffverbindungen (oder reinem Kohlenstoff) aus Überresten von Pflanzen und Tieren. Sie entstehen durch Umwandlung der organischen Materialien unter hohem Druck und Temperatur über geologische Zeiträume hinweg. Teilweise werden die Kaustobiolithe aufgrund ihrer Entstehungsart auch den sedimentären Gesteinen zugeordnet. Eine besondere Eigenschaft der Kaustobiolithe, die sie von den meisten \"klassischen\" Gesteinen unterscheidet, ist ihre Brennbarkeit."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5B5B2>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AAG733>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D467F2> ;
-    skos:notation "G76A78" ;
-    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 258/259."@de ;
-    skos:prefLabel "Kaustobiolith"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GG6A8B> a skos:Concept ;
     skos:altLabel "Folienvergoldung"@de ;
@@ -7332,6 +7396,7 @@ Technologie. München 2000, S. 93."""@de ;
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> a skos:Concept ;
     skos:altLabel "Organik"@de,
+        "biologisches Material"@de,
         "organic"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B51DAF> ;
     skos:closeMatch <http://vocab.getty.edu/page/aat/300011792>,
@@ -7501,8 +7566,21 @@ Technologie. München 2000, S. 93."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F71C33>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G33846> .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76A78> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> ;
+    skos:definition "Überbegriff für verfestigten Anreicherungen von organischen Kohlenstoffverbindungen (oder reinem Kohlenstoff) aus Überresten von Pflanzen und Tieren. Sie entstehen durch Umwandlung der organischen Materialien unter hohem Druck und Temperatur über geologische Zeiträume hinweg. Teilweise werden die Kaustobiolithe aufgrund ihrer Entstehungsart auch den sedimentären Gesteinen zugeordnet. Eine besondere Eigenschaft der Kaustobiolithe, die sie von den meisten \"klassischen\" Gesteinen unterscheidet, ist ihre Brennbarkeit."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4A374>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5B5B2>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AAG733>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D467F2> ;
+    skos:notation "G76A78" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 258/259."@de ;
+    skos:prefLabel "Kaustobiolith"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76B7G> a skos:Concept ;
-    skos:altLabel "Interpretation"@de ;
+    skos:altLabel "Interpretation"@de,
+        "Technologischer Befund"@de ;
     skos:definition "Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CF3C22>,
@@ -8105,7 +8183,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         "Schadensbild"@de,
         "Damage type"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC5B57> ;
-    skos:definition "Art der negativen Veränderung an einem Objekt"@de ;
+    skos:definition "Art der beobachteten negativen Veränderungen des Objekts im Vergleich zu seinem als ursprünglich angenommenen Zustandes."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B224CD>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G>,
@@ -8115,24 +8193,6 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6> ;
     skos:notation "DAC996" ;
     skos:prefLabel "Schadensphänomen"@de .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25> a skos:Concept ;
-    skos:altLabel "Pflanzenfasern"@de,
-        "vegetable fibres"@en ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> ;
-    skos:definition "Natürliche Fasern, die aus pflanzlichem Material gewonnen und für verschiedene Anwendungen, wie Textilien, Seilen, Körben, Schnüren oder Matten, verwendet wurden."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A2159C>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5G856>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AG4634>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC685F>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C3AF5A>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D53ADA>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G8533D> ;
-    skos:notation "DD9C25" ;
-    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 73 - 126."@de,
-        "DIN EN ISO 6938"@de ;
-    skos:prefLabel "pflanzliche Fasern"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FC2113> a skos:Concept ;
     skos:altLabel "Optisches Mikroskop"@de,
@@ -8200,6 +8260,25 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:note "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 205."@de,
         "Stefano Centenaro, et all, Consolidation and coating treatments for glass in the cultural heritage field: A review. Journal of Cultural Heritage 64, 2023, S. 132 - 143."@de ;
     skos:prefLabel "Schellack"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD9C25> a skos:Concept ;
+    skos:altLabel "Pflanzenfasern"@de,
+        "plant fibres"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F3G8D1> ;
+    skos:definition "Natürliche Fasern, die aus pflanzlichem Material gewonnen und für verschiedene Anwendungen, wie Textilien, Seilen, Körben, Schnüren oder Matten, verwendet wurden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A2159C>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5G856>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AG4634>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC685F>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C3AF5A>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D53ADA>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G8533D>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GFDB57> ;
+    skos:notation "DD9C25" ;
+    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 73 - 126."@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "pflanzliche Fasern"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DF5773> a skos:Concept ;
     skos:altLabel "PVA"@de,
@@ -8847,4 +8926,3 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CFGDA3>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAB4B7>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76B7G> .
-
