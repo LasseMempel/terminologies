@@ -2,7 +2,12 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C93638",
   "type": "Concept",
   "prefLabel": {
-    "de": "Werkzeuge"
+    "de": "Konservierungs- und Restaurierungswerkzeuge"
+  },
+  "altLabel": {
+    "de": [
+      "Konservierungs- und Restaurierungsequipment"
+    ]
   },
   "definition": {
     "de": "Oberbegriff für Gegenstände, die genutzt werden um Konservierungs- und/oder Restaurierungsmaßnahmen durchzuführen. Die verschiedenen Werkzeuge ermöglichen ein präzises Arbeiten und erhöhen die Effizienz bei den unterschiedlichen Methoden und Aufgaben."

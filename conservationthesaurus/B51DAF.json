@@ -17,12 +17,6 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341",
-      "prefLabel": {
-        "de": "organisches Material"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB6DF3",
       "prefLabel": {
         "de": "silikatisches Material"
@@ -32,6 +26,12 @@
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B5DD1A",
       "prefLabel": {
         "de": "Metall"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341",
+      "prefLabel": {
+        "de": "organisches Material"
       }
     }
   ],

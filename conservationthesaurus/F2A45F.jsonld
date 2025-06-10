@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Materialien tierischen Ursprungs"
   },
+  "altLabel": {
+    "en": [
+      "animal material"
+    ]
+  },
   "definition": {
     "de": "Überbegriff für organische Materialien die aus verschiedenen Teilen eines Tieres hergestellt werden."
   },
@@ -12,15 +17,15 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/FCF757",
-      "prefLabel": {
-        "de": "Tierhaut"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/AB4988",
       "prefLabel": {
         "de": "Fasern tierischen Ursprungs"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F",
+      "prefLabel": {
+        "de": "Kollagenhaltiges Material"
       }
     }
   ],

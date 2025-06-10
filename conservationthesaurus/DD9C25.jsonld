@@ -9,7 +9,7 @@
       "Pflanzenfasern"
     ],
     "en": [
-      "vegetable fibres"
+      "plant fibres"
     ]
   },
   "definition": {
@@ -65,6 +65,12 @@
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC685F",
       "prefLabel": {
         "de": "Flachs"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GFDB57",
+      "prefLabel": {
+        "de": "Stroh"
       }
     }
   ],

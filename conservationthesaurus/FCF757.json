@@ -4,13 +4,24 @@
   "prefLabel": {
     "de": "Tierhaut"
   },
+  "altLabel": {
+    "en": [
+      "animal skin"
+    ]
+  },
   "definition": {
-    "de": "Überbegriff für organische Materialien, die durch verschiedene Verfahren aus den Häuten von Tieren hergestellt werden."
+    "de": "organisches Material aus der vom Körper abgetrennten, äußersten Gewebehülle von Tieren, die durch verschiedene Verfahren haltbar und weiter verarbeitbar gemacht wurde."
   },
   "notation": [
     "FCF757"
   ],
   "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A82C8C",
+      "prefLabel": {
+        "de": "Rohhaut"
+      }
+    },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B9C731",
       "prefLabel": {
@@ -25,9 +36,9 @@
     }
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A45F",
+    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA652F",
     "prefLabel": {
-      "de": "Materialien tierischen Ursprungs"
+      "de": "Kollagenhaltiges Material"
     }
   },
   "inScheme": [

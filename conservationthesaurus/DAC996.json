@@ -14,7 +14,7 @@
     ]
   },
   "definition": {
-    "de": "Art der negativen Veränderung an einem Objekt"
+    "de": "Art der beobachteten negativen Veränderungen des Objekts im Vergleich zu seinem als ursprünglich angenommenen Zustandes."
   },
   "notation": [
     "DAC996"

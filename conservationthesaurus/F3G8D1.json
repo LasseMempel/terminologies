@@ -16,6 +16,18 @@
       "prefLabel": {
         "de": "pflanzliche Fasern"
       }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C2FCA7",
+      "prefLabel": {
+        "de": "Rinde"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G465BG",
+      "prefLabel": {
+        "de": "Samen"
+      }
     }
   ],
   "broader": {

@@ -17,6 +17,12 @@
   ],
   "narrower": [
     {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4A374",
+      "prefLabel": {
+        "de": "Kohle"
+      }
+    },
+    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A5B5B2",
       "prefLabel": {
         "de": "Gagat"

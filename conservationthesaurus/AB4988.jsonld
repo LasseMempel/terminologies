@@ -30,6 +30,12 @@
       }
     },
     {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B6443F",
+      "prefLabel": {
+        "de": "Feder"
+      }
+    },
+    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6F797",
       "prefLabel": {
         "de": "Seide"
