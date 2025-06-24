@@ -530,7 +530,8 @@
     skos:prefLabel "Rohhaut"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8588A> a skos:Concept ;
-    skos:altLabel "löchrig"@de ;
+    skos:altLabel "abgebrochen"@de,
+        "löchrig"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA> ;
     skos:definition "Das Objekt ist unvollständig und besitzt eine oder mehrere Fehlstellen"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -538,15 +539,7 @@
     skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Fehlstellen aufweisend"@de .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G> a skos:Concept ;
-    skos:altLabel "Abdeckung"@de,
-        "Überlagerung"@de ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6> ;
-    skos:definition "Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:notation "A8AD1G" ;
-    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
-    skos:prefLabel "verdeckt"@de .
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G> skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F9F255> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8B271> a skos:Concept ;
     skos:altLabel "brass"@en ;
@@ -573,6 +566,13 @@
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "A8B581" ;
     skos:prefLabel "gedengelt"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8C236> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Material liegt ganz oder teilweise in feiner, staubartiger Form vor oder zerfällt bei mechanischer Belastung in diese. Der innere Zusammenhalt ist nahezu vollständig verloren."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "A8C236" ;
+    skos:prefLabel "pulvrig"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8C667> a skos:Concept ;
     skos:altLabel "Prägen"@de,
@@ -680,14 +680,12 @@
     skos:prefLabel "Fluoreszenzmikroskopen"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA3CA7> a skos:Concept ;
-    skos:altLabel "Effloreszenz"@de,
-        "Kristallbildung"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> ;
-    skos:definition "Bildung/Ansammlungen von Salzkristallen auf der Objektoberfläche oder im Werkstoffgefüge."@de ;
+    skos:definition "Im Material oder an der Oberfläche sind lösliche Salze angereichert, die hygroskopisch Wasser aufnehmen und langfristig Schäden verursachen können."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "AA3CA7" ;
     skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
-    skos:prefLabel "ausblühend"@de .
+    skos:prefLabel "versalzen"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA47GG> a skos:Concept ;
     skos:altLabel "Mohair"@de ;
@@ -1411,6 +1409,13 @@
     skos:note "https://gestis.dguv.de/data?name=012040"@de ;
     skos:prefLabel "Ethylacetat"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/B799FA> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> ;
+    skos:definition "Die Oberfläche bzw. das Material wurde durch aggressive Chemikalien, Gase oder Umweltstoffe angegriffen und zeigt deutliche Gefügeveränderungen."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "B799FA" ;
+    skos:prefLabel "verätzt"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B7A13A> a skos:Concept ;
     skos:altLabel "Weichlötung"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G6GG4C> ;
@@ -1574,6 +1579,17 @@
         """Wolfgang Knobloch, Ergänzungen und Rekonstruktionen an historischen Objekten aus Metall. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und\r\r
 Technologie. München 2000, S. 86."""@de ;
     skos:prefLabel "Stärkeleim"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA75DG> a skos:Concept ;
+    skos:altLabel "Effloreszenz"@de,
+        "Kristallbildung"@de,
+        "Salzausblühungen"@de,
+        "salzbelastet"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "Kristalline Ausfällungen von Salzen auf oder im Objekt"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "BA75DG" ;
+    skos:prefLabel "salzausblühend"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BAA12F> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D4A13D> ;
@@ -1822,7 +1838,7 @@ Technologie. München 2000, S. 86."""@de ;
     skos:prefLabel "Injektion"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFAC52> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2> ;
     skos:definition "Das Objekt zeigt mindestens einen Riss, der bis tief in das Material hineinreicht"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "BFAC52" ;
@@ -1841,6 +1857,15 @@ Technologie. München 2000, S. 86."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "BFB3B9" ;
     skos:prefLabel "Talkum"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFCC33> a skos:Concept ;
+    skos:altLabel "Erweicht"@de,
+        "Weich geworden"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Material des Objektes hat durch Wasseraufnahme seine Festigkeit und Formstabilität verloren."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "BFCC33" ;
+    skos:prefLabel "aufgeweicht"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFDB22> a skos:Concept ;
     skos:altLabel "Transkristalline Korrosion"@de,
@@ -2072,7 +2097,8 @@ Technologie. München 2000, S. 86."""@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB7747> ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "C33D85" ;
-    skos:prefLabel "Zustandsfoto"@de .
+    skos:prefLabel "Zustandsfoto"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C349C5> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C6A532> ;
@@ -2097,6 +2123,7 @@ Technologie. München 2000, S. 86."""@de ;
     skos:prefLabel "Steiggussform"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C36GDB> a skos:Concept ;
+    skos:altLabel "Abrieb"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA> ;
     skos:definition "An der Objektoberfläche sind durch Reibungskräfte abgetragene Stellen festzustellen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -2134,6 +2161,15 @@ Technologie. München 2000, S. 86."""@de ;
     skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
         "DIN EN ISO 6938"@de ;
     skos:prefLabel "Hanf"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C3C616> a skos:Concept ;
+    skos:altLabel "Verkrustung"@de,
+        "überkrustet"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "Auf dem Objekt befinden sich fest haftende, harte Ablagerungen aus mineralischen und/oder organischen Bestandteilen. Auf archäologischen (Metall-)Objekten oft in Form von Konglomeraten aus Sediment und Korrosionsprodukten zu finden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "C3C616" ;
+    skos:prefLabel "verkrustet"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C3D36A> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGFD79> ;
@@ -2371,11 +2407,13 @@ Technologie. München 2000, S. 86."""@de ;
     skos:prefLabel "Grabungsfrischer Fund"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C82F3D> a skos:Concept ;
+    skos:altLabel "Spuren früherer Behandlung"@de,
+        "rezente Ablagerungen"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G> ;
-    skos:definition "Auf der Objektoberfläche sind Reste rezenter Materialien, wie sie bei einer vorherigen Konservierung und/oder Restaurierung verwendet wurden, fest zu stellen."@de ;
+    skos:definition "Auf der Objektoberfläche sind Reste rezenter Materialien, wie sie bei einer vorherigen Konservierung und/oder Restaurierung verwendet wurden, festzustellen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "C82F3D" ;
-    skos:prefLabel "rezente Ablagerungen"@de .
+    skos:prefLabel "zuvor behandelt"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C838C1> a skos:Concept ;
     skos:altLabel "PVAL"@de ;
@@ -2908,6 +2946,14 @@ Diese Kügelchen werden entweder durch Löten bzw. Schweißen auf der Metallober
     skos:notation "D2F2D5" ;
     skos:prefLabel "Lyfix DML"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2FD5A> a skos:Concept ;
+    skos:altLabel "Oxidation"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G3D2F5> ;
+    skos:definition "Bildung von Oxiden auf bzw. mit dem Objektmaterial durch Reaktion mit Sauerstoff."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "D2FD5A" ;
+    skos:prefLabel "oxidiert"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2GGAC> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A7FC45> ;
     skos:definition "Kopie, die aus Gips hergestellt wird."@de ;
@@ -2980,6 +3026,7 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:prefLabel "gedreht"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D45638> a skos:Concept ;
+    skos:altLabel "Erosion"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA> ;
     skos:definition "Durch die Einwirkung externer Faktoren schleichender Verlust von Oberflächenmaterial des Objektes."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -2994,6 +3041,16 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:notation "D467F2" ;
     skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 234."@de ;
     skos:prefLabel "Pech"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/D48G16> a skos:Concept ;
+    skos:altLabel "Ruß geschwärzt"@de,
+        "Rußablagerung"@de,
+        "verrußt"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "Auf der Objektoberfläche zeigen sich schwarze Ablagerungen von Rußpartikeln."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "D48G16" ;
+    skos:prefLabel "rußbedeckt"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D4A6D1> a skos:Concept ;
     skos:altLabel "NaBH4"@de ;
@@ -3286,7 +3343,8 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:definition "schriftliche Auflistung der durchgeführten Untersuchungsmethoden, inklusive der verwendeten Gerätschaften sowie Beschreibung und Interpretation der dabei gemachten Beobachtungen und Ergebnisse hinsichtlich des aktuellen Erhaltungszustandes des Objektes"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D7D443" ;
-    skos:prefLabel "Zustandsbericht"@de .
+    skos:prefLabel "Zustandsbericht"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D81175> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D7A4BC> ;
@@ -3329,7 +3387,7 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D937D1> a skos:Concept ;
     skos:altLabel "crizzling"@en ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2> ;
     skos:definition "Im Objektmaterial oder auf dessen Oberfläche (Glasur) sind feine, netzartige Risse oder Haarrisse zu beobachten."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D937D1" ;
@@ -3355,7 +3413,8 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:prefLabel "gestrickt"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D99GD4> a skos:Concept ;
-    skos:altLabel "verkratzt"@de ;
+    skos:altLabel "Kratzer"@de,
+        "verkratzt"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA> ;
     skos:definition "Durch die mechanische Einwirkung scharfer Kanten ist ein Materialverlust an der Objektoberfläche festzustellen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -3364,10 +3423,13 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:prefLabel "zerkratzt"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9A6FA> a skos:Concept ;
+    skos:altLabel "Schadenskartierung"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB7747> ;
+    skos:definition "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Schäden)."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D9A6FA" ;
-    skos:prefLabel "Schadenskartierung"@de .
+    skos:prefLabel "Zustandskartierung"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9B246> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DF7826> ;
@@ -3382,7 +3444,7 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:altLabel "Zersetzung"@de,
         "degradation"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
-    skos:definition "Das Objekt zeigt Spuren eines Abbauprozesses durch Mikroorganismen, Feuchtigkeit und/oder chemische Reaktionen, der zur Zerstörung oder Veränderung der inneren Struktur und Zusammensetzung des Materials geführt hat."@de ;
+    skos:definition "Das Objekt bzw. sein Material ist durch fortschreitende physikalische, chemische oder biologische Prozesse in seiner inneren Struktur stark geschädigt. Der innere Zusammenhalt ist weitgehend verloren und kann bei mechanischer Belastung zum vollständigen Materialverlust führen. Der Begriff bildet"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "D9C8A4" ;
     skos:prefLabel "zersetzt"@de .
@@ -3596,6 +3658,13 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
         "https://www.schmedt.de/klucel-g-hydroxypropylcellulose-nichtionischer-wasserloeslicher-celluloseether/36161001"@de ;
     skos:prefLabel "Klucel® G"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD6CC9> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> ;
+    skos:definition "Umwandlung und Erhaltung organischer Materialien durch Einlagerung mineralischer Substanzen."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "DD6CC9" ;
+    skos:prefLabel "mineralisiert"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD6G2G> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGFD79> ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -3609,6 +3678,14 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:notation "DD91F6" ;
     skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 226-231."@de ;
     skos:prefLabel "Sandstein"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/DDFG97> a skos:Concept ;
+    skos:altLabel "Versprödung"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Material hat seine Elastizität, Flexibilität und Bruchfestigkeit verloren. Es ist zunächst als feste Struktur erhalten geblieben, bricht oder reiß jedoch leicht bei mechanischer Belastung."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "DDFG97" ;
+    skos:prefLabel "versprödet"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DF1279> a skos:Concept ;
     skos:altLabel "Steatit"@de ;
@@ -3754,7 +3831,7 @@ Technologie. München 2000, S. 93."""@de ;
     skos:prefLabel "Risikomanagement"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A5A7> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2> ;
     skos:definition "Das Objekt zeigt einen sehr feinen, oberflächlichen Riss, der nur wenige Millimeter tief und breit ist."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F2A5A7" ;
@@ -3806,6 +3883,15 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "F43643" ;
     skos:note "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Beryll/Aquamarin"@de ;
     skos:prefLabel "Aquamarin"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/F473B6> a skos:Concept ;
+    skos:altLabel "Ablagerung"@de,
+        "Anlagerung"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "generische Angaben zu jeglicher Form von fremdartiger Ablagerung von Material auf der Oberfläche des Objektes."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "F473B6" ;
+    skos:prefLabel "abgelagert"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F49579> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AFD671> ;
@@ -3894,7 +3980,8 @@ Technologie. München 2000, S. 93."""@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB7747> ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "F58F6D" ;
-    skos:prefLabel "3D-Scan"@de .
+    skos:prefLabel "3D-Scan"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F5BDAB> a skos:Concept ;
     skos:altLabel "Casein"@de,
@@ -4140,7 +4227,8 @@ Technologie. München 2000, S. 93."""@de ;
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F97BFF> a skos:Concept ;
     rdfs:seeAlso "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 183." ;
-    skos:altLabel "Schollenbildung"@de ;
+    skos:altLabel "Schollenbildung"@de,
+        "abblätternd"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
     skos:definition "Auf der Objektoberfläche sind ein oder mehrere dünne Materialschichten zu sehen, die sich teilweise von dieser abgelöst haben und abstehen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
@@ -4167,6 +4255,14 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "F9C118" ;
     skos:note "DIN EN ISO 8044:2020-08, Korrosion von Metallen und Legierungen - Grundbegriffe (ISO 8044:2020); Dreisprachige Fassung EN ISO 8044:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Lochkorrosion"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/F9F255> a skos:Concept ;
+    skos:altLabel "fettig"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G> ;
+    skos:definition "Die Oberfläche des Objekt zeigt einen klebrige Ablagerung von Fettpartikeln."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "F9F255" ;
+    skos:prefLabel "fettverschmiert"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F9F6DG> a skos:Concept ;
     skos:altLabel "Elektron"@de,
@@ -4314,6 +4410,15 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "FC6F82" ;
     skos:prefLabel "Graphit"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/FC7715> a skos:Concept ;
+    skos:altLabel "Erdanhaftungen"@de,
+        "Sedimentanhaftungen"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "Das Objekt ist mit lockeren oder leicht verfestigten mineralischen Materialanhaftungen bedeckt. Meist aus feinkörnigen Bodenbestandteilen wie Sand, Schluff, Ton oder Schlamm, die sich durch die Bodenlagerung auf dem Objekt abgesetzt haben."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "FC7715" ;
+    skos:prefLabel "sedimentiert"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FC776B> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A11ACA> ;
     skos:definition "keramische Erzeugnisse mit einer grobkörnigen, oft porösen Scherbenstruktur, die durch die Verwendung von Ton mit sichtbaren Mineral- oder Magerungsbestandteilen entsteht."@de ;
@@ -4375,7 +4480,8 @@ Technologie. München 2000, S. 93."""@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB7747> ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "FD2B2B" ;
-    skos:prefLabel "Röntgenbild"@de .
+    skos:prefLabel "Röntgenbild"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FD6617> a skos:Concept ;
     skos:altLabel "Punzierung"@de ;
@@ -4845,14 +4951,6 @@ Technologie. München 2000, S. 86."""@de ;
         "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 219 - 221."@de ;
     skos:prefLabel "gefräst"@de .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31> a skos:Concept ;
-    skos:altLabel "Schimmelbefall"@de ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G> ;
-    skos:definition "Wachstum und Ausbreitung von Pilzen auf der Oberfläche oder im Inneren des Objektes."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:notation "G57G31" ;
-    skos:prefLabel "schimmlig"@de .
-
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G593G4> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F8DFCG> ;
     skos:definition "tierische Fasern aus den Haaren des Wildschweines, mit außergewöhnlich kräftigen und harten Erscheinungsform im Vergleich zu Haaren anderer Tierarten."@de ;
@@ -5144,6 +5242,15 @@ Technologie. München 2000, S. 86."""@de ;
     skos:notation "GAG81G" ;
     skos:prefLabel "Haselholz"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> a skos:Concept ;
+    skos:altLabel "Riss"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Materialgefüge des Objektes zeigt eine Abtrennung mit unregelmäßiger Kanten. Häufig verursacht durch Spannungsabbau im Gefüge."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "GB33C3" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "gerissen"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB5A92> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC685F> ;
     skos:definition "Materialbezeichnung für Garn- und Stoffprodukte bestehend aus Flachsfasern."@de ;
@@ -5254,8 +5361,18 @@ Technologie. München 2000, S. 95."""@de ;
     skos:notation "GD11CD" ;
     skos:prefLabel "geschnitzt (Verzierungstechnik)"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD4F94> a skos:Concept ;
+    skos:altLabel "Schimmelbefall"@de,
+        "Schimmelpilzbefall"@de,
+        "schimmlig"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31> ;
+    skos:definition "Auf der Oberfläche des Objektes sind visuell sichtbare Ausbreitungen von Schimmelpilz vorhanden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:notation "GD4F94" ;
+    skos:prefLabel "schimmelbedeckt"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5454> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2> ;
     skos:definition "Das Objekt zeigt einen Riss, im Bereich seiner Oberfläche"@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:notation "GD5454" ;
@@ -5953,6 +6070,16 @@ Technologie. München 2000, S. 95."""@de ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S.16/17."@de ;
     skos:prefLabel "engobiert"@de ;
     skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A19F86> .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31> a skos:Concept ;
+    skos:altLabel "biologischer Bewuchs"@de,
+        "mikrobiell bewachsen"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "biologische Besiedlung des Objektes durch Mikro- oder Makroorganismen."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD4F94> ;
+    skos:notation "G57G31" ;
+    skos:prefLabel "biologisch bewachsen"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G6A358> a skos:Concept ;
     skos:altLabel "tin alloy"@en ;
@@ -6833,6 +6960,18 @@ Technologie. München 2000, S. 63."""@de ;
         "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 26."@de ;
     skos:prefLabel "Unedelmetall"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G> a skos:Concept ;
+    skos:altLabel "Staubbedeckung"@de,
+        "Staubschicht"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> ;
+    skos:definition "Ablagerung von Staubpartikeln auf der Objektoberfläche"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B221BB>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BG987D>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C82F3D> ;
+    skos:notation "BBF64G" ;
+    skos:prefLabel "staubbedeckt"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BF7D14> a skos:Concept ;
     skos:altLabel "Bronzen"@de,
         "bronze"@en ;
@@ -6914,16 +7053,6 @@ Technologie. München 2000, S. 63."""@de ;
     skos:notation "C8CG15" ;
     skos:prefLabel "Dokumentation"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/terminologies/conservationthesaurus> .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Durch chemische Prozesse herbeigeführte Beschädigung eines Objektes"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A9B23D>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA3CA7>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G3D2F5> ;
-    skos:notation "C9D991" ;
-    skos:prefLabel "chemische Veränderung"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CA1BC5> a skos:Concept ;
     skos:altLabel "examination"@en ;
@@ -7334,18 +7463,6 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "B7B8B6" ;
     skos:prefLabel "[Adhäsivstoff]"@de .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G> a skos:Concept ;
-    skos:altLabel "Filmbildung"@de ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B221BB>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BG987D>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C82F3D>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31> ;
-    skos:notation "BBF64G" ;
-    skos:prefLabel "Ablagerung"@de .
-
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC5B57> a skos:Concept ;
     skos:altLabel "Diagnose"@de,
         "examination results"@en ;
@@ -7392,7 +7509,8 @@ Technologie. München 2000, S. 93."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F58F6D>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FD2B2B> ;
     skos:notation "CB7747" ;
-    skos:prefLabel "Bildgebende Dokumentation"@de .
+    skos:prefLabel "Bildgebende Dokumentation"@de ;
+    skos:related <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CD3341> a skos:Concept ;
     skos:altLabel "Organik"@de,
@@ -7461,6 +7579,21 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "D248A4" ;
     skos:prefLabel "versilbert"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6> a skos:Concept ;
+    skos:altLabel "optische Veränderung"@de,
+        "optical alteration"@en,
+        "visual alteration"@en ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
+    skos:definition "Eine negative Veränderung des visuellen Erscheinungsbilds des Objektes"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4G8FA>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D8CBG2>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FDC65D>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GA2C4A> ;
+    skos:notation "D3AGG6" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "visuelle Veränderung"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DA841D> a skos:Concept ;
     skos:altLabel "Addition-curing silicone rubber"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A44BG6> ;
@@ -7522,6 +7655,17 @@ Technologie. München 2000, S. 93."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G2DA3A> ;
     skos:notation "F8ADGD" ;
     skos:prefLabel "Folie"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Materialgefüge des Objektes zeigt Risse, die jedoch nicht zu einer vollständigen Abtrennung geführt haben."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFAC52>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D937D1>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A5A7>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5454> ;
+    skos:notation "FA14C2" ;
+    skos:prefLabel "rissig"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGB415> a skos:Concept ;
     skos:altLabel "Kupferlegierungen"@de,
@@ -7615,19 +7759,6 @@ Technologie. München 2000, S. 93."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B3FCA1>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F87124>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGF575> .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> a skos:Concept ;
-    skos:altLabel "Riss"@de ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> ;
-    skos:definition "Das Materialgefüge des Objektes zeigt eine Abtrennung mit unregelmäßiger Kanten. Häufig verursacht durch Spannungsabbau im Gefüge."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFAC52>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D937D1>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A5A7>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5454> ;
-    skos:notation "GB33C3" ;
-    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
-    skos:prefLabel "gerissen"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GC7998> a skos:Concept ;
     skos:altLabel "cellulose nitrate"@en ;
@@ -7743,7 +7874,7 @@ Technologie. München 2000, S. 93."""@de ;
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B224CD> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Das Objekt zeigt eine sich negativ auf seine ursprüngliche Form auswirkende Veränderung"@de ;
+    skos:definition "Das Objekt zeigte eine mehr oder weniger stark ausgeprägte Veränderung seiner ursprünglichen oder als ursprünglich angesehenen Form, ohne Verlust des strukturellen Zusammenhalts."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A21DB2>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8D9GF>,
@@ -7751,6 +7882,7 @@ Technologie. München 2000, S. 93."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G23692>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G7D438> ;
     skos:notation "B224CD" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Formänderung"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C6A532> a skos:Concept ;
@@ -7793,6 +7925,19 @@ Technologie. München 2000, S. 93."""@de ;
     skos:prefLabel "Restaurierung"@de ;
     skos:relatedMatch <https://www.wikidata.org/wiki/Q217102> .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
+    skos:definition "Das Material des Objektes zeigt durch chemische Reaktionen mit seiner Umwelt verursachte Veränderungen seiner strukturellen Zusammensetzung oder Eigenschaften."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A9B23D>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA3CA7>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B799FA>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DD6CC9>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G3D2F5> ;
+    skos:notation "C9D991" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "chemische Veränderung"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CAF8AF> a skos:Concept ;
     skos:altLabel "Weben"@de,
         "Webung"@de,
@@ -7810,21 +7955,6 @@ Technologie. München 2000, S. 93."""@de ;
     skos:note "Annemarie Seiler-Baldinger, Systematik der Textilen Techniken. Basler Beiträge zur Ethnologie 32. Basel: Wepf, 1991, S.80."@de,
         "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
     skos:prefLabel "gewebt"@de .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6> a skos:Concept ;
-    skos:altLabel "optische Veränderung"@de,
-        "optical alteration"@en,
-        "visual alteration"@en ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Eine negative Veränderung des visuellen Eindrucks des Objektes"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4G8FA>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D8CBG2>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FDC65D>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GA2C4A> ;
-    skos:notation "D3AGG6" ;
-    skos:prefLabel "visuelle Veränderung"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DF7826> a skos:Concept ;
     skos:altLabel "Erstarrungsgestein"@de,
@@ -8023,7 +8153,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA> a skos:Concept ;
     skos:altLabel "Loss of substance"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Teile des Objektes sind verloren gegangen"@de ;
+    skos:definition "Material bzw. Teile des Objektes fehlen teilweise oder vollständig infolge physikalischer, chemischer, biologischer oder mechanischer Prozesse."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A77283>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8588A>,
@@ -8032,6 +8162,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D45638>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D99GD4> ;
     skos:notation "C188DA" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Substanzverlust"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4C6B6> a skos:Concept ;
@@ -8129,6 +8260,24 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:notation "AFD671" ;
     skos:prefLabel "Farbstoff"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16> a skos:Concept ;
+    skos:altLabel "Ablagerung"@de,
+        "Anlagerung"@de,
+        "Hinzufügung"@de ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
+    skos:definition "Hinzukommen von Material auf, an oder in ein Objekt als Ergebnis natürlicher Prozesse (z. B. Sediment, Staub) oder menschlicher Eingriffe (z. B. konservatorisch-restauratorische Maßnahmen). Der Begriff beschreibt das Vorhandensein zusätzlichen Materials, das nicht zum originalen Material des Objektes gehört."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BA75DG>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C3C616>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D48G16>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F473B6>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FC7715>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31> ;
+    skos:notation "B86G16" ;
+    skos:note "in Anlehnung an DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Materialhinzufügung"@de .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BB78D2> a skos:Concept ;
     skos:altLabel "filler"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C364G1> ;
@@ -8144,22 +8293,6 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:notation "BB78D2" ;
     skos:note "DIN EN ISO 472/A1:2019-03, Kunststoffe - Fachwörterverzeichnis - Änderung 1: Weitere Einträge (ISO 472:2013/Amd.1:2018); Dreisprachige Fassung EN ISO 472:2013/A1:2018, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Füllstoff"@de .
-
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> a skos:Concept ;
-    skos:altLabel "Zustandserhebung"@de,
-        "Condition assessment"@en ;
-    skos:closeMatch <http://terminology.lido-schema.org/lido00931> ;
-    skos:definition "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4G52F>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C2488A>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CA1BC5>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9G51G>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DBC278> ;
-    skos:notation "C4BCF8" ;
-    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
-    skos:prefLabel "Zustandserfassung"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/conservationthesaurus> .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CFGDA3> a skos:Concept ;
     skos:altLabel "Behandlung"@de,
@@ -8186,7 +8319,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:definition "Art der beobachteten negativen Veränderungen des Objekts im Vergleich zu seinem als ursprünglich angenommenen Zustandes."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B224CD>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C188DA>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3>,
@@ -8517,13 +8650,14 @@ Technologie. München 2000, S. 92 - 97."""@de ;
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G3D2F5> a skos:Concept ;
     skos:altLabel "Korrosionsprodukt"@de ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C9D991> ;
-    skos:definition "Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung"@de ;
+    skos:definition "Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung. Häufig unter Beteiligung von Wasser, Salzen, Säuren oder Basen. Korrosionsprodukte bilden oft Auflagerungen unterschiedlicher Farben und Konsistenzen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
     skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B19D33>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B9C457>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BCDC47>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFDB22>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CFC44A>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2FD5A>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D68BAA>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DGC3A9>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F7F2A4>,
@@ -8581,6 +8715,22 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S.67."@de ;
     skos:prefLabel "Lösungsmittel"@de .
 
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8> a skos:Concept ;
+    skos:altLabel "Zustandserhebung"@de,
+        "Condition assessment"@en ;
+    skos:closeMatch <http://terminology.lido-schema.org/lido00931> ;
+    skos:definition "methodische Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4G52F>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C2488A>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CA1BC5>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9G51G>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DBC278> ;
+    skos:notation "C4BCF8" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Zustandserfassung"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/terminologies/conservationthesaurus> .
+
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AF31AG> a skos:Concept ;
     skos:altLabel "epoxy resin"@en ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A1D125> ;
@@ -8630,27 +8780,6 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:notation "C364G1" ;
     skos:prefLabel "Konservierungs- und Restaurierungsmaterialien"@de .
 
-<https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
-    skos:definition "Der innere Zusammenhalt des Objektes ist gestört"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
-    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AF7CC8>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B4C3B9>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC1DCG>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFGD3B>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGA41C>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2364A>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9C8A4>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6CG68>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F97BFF>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA9B73>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGG2C4>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G74A2D>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G84156>,
-        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
-    skos:notation "CB9GD3" ;
-    skos:prefLabel "Kohäsionsverlust"@de .
-
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GF9C49> a skos:Concept ;
     rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.65." ;
     skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/C93638> ;
@@ -8674,6 +8803,32 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GF3586> ;
     skos:notation "GF9C49" ;
     skos:prefLabel "technische Geräte"@de .
+
+<https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996> ;
+    skos:definition "Der innere Zusammenhalt des Objektes ist geschwächt bis vollständig zerstört, das Material ist mechanisch schwach, bricht leicht, zerfällt oder ist bröselig."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/terminologies/conservationthesaurus> ;
+    skos:narrower <https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8C236>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/AF7CC8>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/B4C3B9>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BC1DCG>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFCC33>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFGD3B>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/BGA41C>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2364A>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9C8A4>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DDFG97>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F6CG68>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/F97BFF>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA9B73>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/FGG2C4>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G74A2D>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G84156>,
+        <https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3> ;
+    skos:notation "CB9GD3" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Kohäsionsverlust"@de .
 
 <https://www.lassemempel.github.io/terminologies/conservationthesaurus/D941BB> a skos:Concept ;
     rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.64." ;
@@ -8926,3 +9081,4 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/CFGDA3>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAB4B7>,
         <https://www.lassemempel.github.io/terminologies/conservationthesaurus/G76B7G> .
+
