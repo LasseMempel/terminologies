@@ -1,30 +1,25 @@
 {
-  "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G",
+  "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/F473B6",
   "type": "Concept",
   "prefLabel": {
-    "de": "verdeckt"
+    "de": "abgelagert"
   },
   "altLabel": {
     "de": [
-      "Abdeckung",
-      "Überlagerung"
+      "Ablagerung",
+      "Anlagerung"
     ]
   },
   "definition": {
-    "de": "Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht."
-  },
-  "note": {
-    "de": [
-      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
-    ]
+    "de": "generische Angaben zu jeglicher Form von fremdartiger Ablagerung von Material auf der Oberfläche des Objektes."
   },
   "notation": [
-    "A8AD1G"
+    "F473B6"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6",
+    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16",
     "prefLabel": {
-      "de": "visuelle Veränderung"
+      "de": "Materialhinzufügung"
     }
   },
   "inScheme": [

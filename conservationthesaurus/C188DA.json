@@ -10,7 +10,12 @@
     ]
   },
   "definition": {
-    "de": "Teile des Objektes sind verloren gegangen"
+    "de": "Material bzw. Teile des Objektes fehlen teilweise oder vollständig infolge physikalischer, chemischer, biologischer oder mechanischer Prozesse."
+  },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
   },
   "notation": [
     "C188DA"

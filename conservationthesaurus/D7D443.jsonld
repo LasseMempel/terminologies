@@ -22,6 +22,14 @@
       "de": "Zustandsdokumentation"
     }
   },
+  "related": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8",
+      "prefLabel": {
+        "de": "Zustandserfassung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus"

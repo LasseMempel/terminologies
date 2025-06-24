@@ -2,10 +2,16 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C82F3D",
   "type": "Concept",
   "prefLabel": {
-    "de": "rezente Ablagerungen"
+    "de": "zuvor behandelt"
+  },
+  "altLabel": {
+    "de": [
+      "Spuren früherer Behandlung",
+      "rezente Ablagerungen"
+    ]
   },
   "definition": {
-    "de": "Auf der Objektoberfläche sind Reste rezenter Materialien, wie sie bei einer vorherigen Konservierung und/oder Restaurierung verwendet wurden, fest zu stellen."
+    "de": "Auf der Objektoberfläche sind Reste rezenter Materialien, wie sie bei einer vorherigen Konservierung und/oder Restaurierung verwendet wurden, festzustellen."
   },
   "notation": [
     "C82F3D"
@@ -13,7 +19,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G",
     "prefLabel": {
-      "de": "Ablagerung"
+      "de": "staubbedeckt"
     }
   },
   "inScheme": [

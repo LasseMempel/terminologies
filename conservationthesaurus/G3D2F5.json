@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung"
+    "de": "Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung. Häufig unter Beteiligung von Wasser, Salzen, Säuren oder Basen. Korrosionsprodukte bilden oft Auflagerungen unterschiedlicher Farben und Konsistenzen."
   },
   "note": {
     "de": [
@@ -31,6 +31,12 @@
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFDB22",
       "prefLabel": {
         "de": "Spannungsrisskorrosion"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D2FD5A",
+      "prefLabel": {
+        "de": "oxidiert"
       }
     },
     {

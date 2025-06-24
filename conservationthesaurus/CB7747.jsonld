@@ -17,7 +17,7 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9A6FA",
       "prefLabel": {
-        "de": "Schadenskartierung"
+        "de": "Zustandskartierung"
       }
     },
     {
@@ -39,6 +39,14 @@
       "de": "Zustandsdokumentation"
     }
   },
+  "related": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8",
+      "prefLabel": {
+        "de": "Zustandserfassung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus"

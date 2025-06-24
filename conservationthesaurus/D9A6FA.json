@@ -2,7 +2,15 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9A6FA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadenskartierung"
+    "de": "Zustandskartierung"
+  },
+  "altLabel": {
+    "de": [
+      "Schadenskartierung"
+    ]
+  },
+  "definition": {
+    "de": "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Schäden)."
   },
   "notation": [
     "D9A6FA"
@@ -13,6 +21,14 @@
       "de": "Bildgebende Dokumentation"
     }
   },
+  "related": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C4BCF8",
+      "prefLabel": {
+        "de": "Zustandserfassung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus"

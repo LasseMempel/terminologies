@@ -13,7 +13,7 @@
     ]
   },
   "definition": {
-    "de": "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"
+    "de": "methodische Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"
   },
   "note": {
     "de": [
@@ -63,9 +63,45 @@
       }
     },
     {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C33D85",
+      "prefLabel": {
+        "de": "Zustandsfoto"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB7747",
+      "prefLabel": {
+        "de": "Bildgebende Dokumentation"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D7D443",
+      "prefLabel": {
+        "de": "Zustandsbericht"
+      }
+    },
+    {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AF3A",
       "prefLabel": {
         "de": "Zustandsdokumentation"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9A6FA",
+      "prefLabel": {
+        "de": "Zustandskartierung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/F58F6D",
+      "prefLabel": {
+        "de": "3D-Scan"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/FD2B2B",
+      "prefLabel": {
+        "de": "Röntgenbild"
       }
     }
   ],

@@ -2,23 +2,32 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31",
   "type": "Concept",
   "prefLabel": {
-    "de": "schimmlig"
+    "de": "biologisch bewachsen"
   },
   "altLabel": {
     "de": [
-      "Schimmelbefall"
+      "biologischer Bewuchs",
+      "mikrobiell bewachsen"
     ]
   },
   "definition": {
-    "de": "Wachstum und Ausbreitung von Pilzen auf der Oberfläche oder im Inneren des Objektes."
+    "de": "biologische Besiedlung des Objektes durch Mikro- oder Makroorganismen."
   },
   "notation": [
     "G57G31"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD4F94",
+      "prefLabel": {
+        "de": "schimmelbedeckt"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G",
+    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16",
     "prefLabel": {
-      "de": "Ablagerung"
+      "de": "Materialhinzufügung"
     }
   },
   "inScheme": [

@@ -33,9 +33,9 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6",
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3",
       "prefLabel": {
-        "de": "visuelle Veränderung"
+        "de": "Kohäsionsverlust"
       }
     },
     {
@@ -45,15 +45,15 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3",
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16",
       "prefLabel": {
-        "de": "Kohäsionsverlust"
+        "de": "Materialhinzufügung"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G",
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D3AGG6",
       "prefLabel": {
-        "de": "Ablagerung"
+        "de": "visuelle Veränderung"
       }
     }
   ],

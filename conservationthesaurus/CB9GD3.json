@@ -5,12 +5,23 @@
     "de": "Kohäsionsverlust"
   },
   "definition": {
-    "de": "Der innere Zusammenhalt des Objektes ist gestört"
+    "de": "Der innere Zusammenhalt des Objektes ist geschwächt bis vollständig zerstört, das Material ist mechanisch schwach, bricht leicht, zerfällt oder ist bröselig."
+  },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
   },
   "notation": [
     "CB9GD3"
   ],
   "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8C236",
+      "prefLabel": {
+        "de": "pulvrig"
+      }
+    },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/AF7CC8",
       "prefLabel": {
@@ -30,9 +41,15 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3",
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/FA14C2",
       "prefLabel": {
-        "de": "gerissen"
+        "de": "rissig"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFCC33",
+      "prefLabel": {
+        "de": "aufgeweicht"
       }
     },
     {
@@ -57,6 +74,12 @@
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D9C8A4",
       "prefLabel": {
         "de": "zersetzt"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/DDFG97",
+      "prefLabel": {
+        "de": "versprödet"
       }
     },
     {
@@ -93,6 +116,12 @@
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G84156",
       "prefLabel": {
         "de": "offene Fuge"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GB33C3",
+      "prefLabel": {
+        "de": "gerissen"
       }
     }
   ],

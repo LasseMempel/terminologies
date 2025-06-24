@@ -20,32 +20,6 @@
   "notation": [
     "GB33C3"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BFAC52",
-      "prefLabel": {
-        "de": "Tiefenriss"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/D937D1",
-      "prefLabel": {
-        "de": "Craquellée"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/F2A5A7",
-      "prefLabel": {
-        "de": "Haarriss"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/GD5454",
-      "prefLabel": {
-        "de": "Oberflächenriss"
-      }
-    }
-  ],
   "broader": {
     "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/CB9GD3",
     "prefLabel": {

@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "erodiert"
   },
+  "altLabel": {
+    "de": [
+      "Erosion"
+    ]
+  },
   "definition": {
     "de": "Durch die Einwirkung externer Faktoren schleichender Verlust von Oberflächenmaterial des Objektes."
   },

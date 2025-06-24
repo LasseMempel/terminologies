@@ -2,16 +2,10 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/AA3CA7",
   "type": "Concept",
   "prefLabel": {
-    "de": "ausblühend"
-  },
-  "altLabel": {
-    "de": [
-      "Effloreszenz",
-      "Kristallbildung"
-    ]
+    "de": "versalzen"
   },
   "definition": {
-    "de": "Bildung/Ansammlungen von Salzkristallen auf der Objektoberfläche oder im Werkstoffgefüge."
+    "de": "Im Material oder an der Oberfläche sind lösliche Salze angereichert, die hygroskopisch Wasser aufnehmen und langfristig Schäden verursachen können."
   },
   "note": {
     "de": [

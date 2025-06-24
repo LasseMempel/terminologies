@@ -5,7 +5,12 @@
     "de": "Formänderung"
   },
   "definition": {
-    "de": "Das Objekt zeigt eine sich negativ auf seine ursprüngliche Form auswirkende Veränderung"
+    "de": "Das Objekt zeigte eine mehr oder weniger stark ausgeprägte Veränderung seiner ursprünglichen oder als ursprünglich angesehenen Form, ohne Verlust des strukturellen Zusammenhalts."
+  },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
   },
   "notation": [
     "B224CD"

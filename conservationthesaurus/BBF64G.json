@@ -2,15 +2,16 @@
   "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/BBF64G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ablagerung"
+    "de": "staubbedeckt"
   },
   "altLabel": {
     "de": [
-      "Filmbildung"
+      "Staubbedeckung",
+      "Staubschicht"
     ]
   },
   "definition": {
-    "de": "Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes."
+    "de": "Ablagerung von Staubpartikeln auf der Objektoberfläche"
   },
   "notation": [
     "BBF64G"
@@ -25,13 +26,7 @@
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/C82F3D",
       "prefLabel": {
-        "de": "rezente Ablagerungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/G57G31",
-      "prefLabel": {
-        "de": "schimmlig"
+        "de": "zuvor behandelt"
       }
     },
     {
@@ -42,9 +37,9 @@
     }
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/DAC996",
+    "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/B86G16",
     "prefLabel": {
-      "de": "Schadensphänomen"
+      "de": "Materialhinzufügung"
     }
   },
   "inScheme": [

@@ -14,18 +14,17 @@
     ]
   },
   "definition": {
-    "de": "Eine negative Veränderung des visuellen Eindrucks des Objektes"
+    "de": "Eine negative Veränderung des visuellen Erscheinungsbilds des Objektes"
+  },
+  "note": {
+    "de": [
+      "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."
+    ]
   },
   "notation": [
     "D3AGG6"
   ],
   "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A8AD1G",
-      "prefLabel": {
-        "de": "verdeckt"
-      }
-    },
     {
       "id": "https://www.lassemempel.github.io/terminologies/conservationthesaurus/A4G8FA",
       "prefLabel": {
