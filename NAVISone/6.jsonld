@@ -1,0 +1,649 @@
+{
+  "id": "https://www.lassemempel.github.io/terminologies/NAVISone/6",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "[Rumpf]",
+    "en": "[hull]"
+  },
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/0093DC",
+      "prefLabel": {
+        "de": "Schale",
+        "en": "Shell",
+        "fr": "Bordé",
+        "dk": "Skal",
+        "es": "forro",
+        "gr": "Κέλυφος",
+        "it": "Guscio",
+        "nl": "Huid",
+        "pl": "Skorupa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/09BEBF",
+      "prefLabel": {
+        "de": "Kimmholz",
+        "en": "chine block",
+        "fr": "cornière de bouchain",
+        "dk": "kimingsplanke",
+        "es": "curva del quiebro",
+        "gr": "η καμπύλη της καρένας",
+        "it": "blocco della curvatura della carena",
+        "nl": "l-vormige kim",
+        "pl": "łańcuch blok"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/09DF17",
+      "prefLabel": {
+        "de": "Bodenplanke",
+        "en": "Bottom Plank",
+        "fr": "Bordage De Caràne",
+        "dk": "Bundplanke",
+        "es": "tablazón de la carena",
+        "gr": "Σανίδα του Πυθμένα",
+        "it": "Tavola del fondo",
+        "nl": "Vlakplank",
+        "pl": "Klepka denna"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/0B9A28",
+      "prefLabel": {
+        "de": "Totgang",
+        "en": "stealer",
+        "fr": "virure perdue",
+        "dk": "indskudt bord",
+        "es": "traca perdida",
+        "it": "corso intercalato",
+        "nl": "insteker"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/20F045",
+      "prefLabel": {
+        "de": "Kiel",
+        "en": "Keel",
+        "fr": "Quille",
+        "dk": "Køl",
+        "es": "quilla",
+        "gr": "Καρένα, Τρόπις",
+        "it": "Chiglia",
+        "nl": "Kiel",
+        "pl": "Stępka"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/29CBC9",
+      "prefLabel": {
+        "de": "Kielgang",
+        "en": "Garboard Strake",
+        "fr": "Galbord",
+        "dk": "Kølbord",
+        "es": "traca de aparadura",
+        "gr": "Τουρέλο, Επιστρόφιον",
+        "it": "Torello",
+        "nl": "Zandstrook",
+        "pl": "Klepka przystępkowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/3A3C90",
+      "prefLabel": {
+        "de": "Boden",
+        "en": "Bottom",
+        "fr": "Caràne",
+        "dk": "Bund",
+        "es": "fondo o carena",
+        "gr": "Πυθμένας",
+        "it": "Fondo",
+        "nl": "Bodem",
+        "pl": "Dno"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/4277CC",
+      "prefLabel": {
+        "de": "Achterschiff",
+        "en": "Aft",
+        "fr": "Poupè Arrière Du Navire",
+        "dk": "Agterskib",
+        "es": "a popa",
+        "gr": "Πρυμναίο Τμήμα του Πλοίου",
+        "it": "Poppavia",
+        "nl": "Achterschip",
+        "pl": "Rufa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/45B061",
+      "prefLabel": {
+        "de": "Bugsporn",
+        "en": "Cutwater",
+        "dk": "Krigen",
+        "es": "espolón",
+        "gr": "Κυματόμος, Θαλασσοτόμος",
+        "it": "Tagliamare",
+        "nl": "Spoor",
+        "pl": "Taran dziobowy"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/47191C",
+      "prefLabel": {
+        "de": "Gang",
+        "en": "Strake",
+        "fr": "Virure",
+        "dk": "Bordgang",
+        "es": "traca o hilada",
+        "gr": "Μαδέρι",
+        "it": "Corsodi fasciame",
+        "nl": "Gang",
+        "pl": "Pas poszycia"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/5E0D28",
+      "prefLabel": {
+        "de": "Kimm (Rund)",
+        "en": "Bilge",
+        "fr": "Bouchain",
+        "dk": "Kiming",
+        "es": "pantoque",
+        "gr": "Σεντίνα",
+        "it": "Ginocchio",
+        "nl": "Kim",
+        "pl": "Obło, zęza"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/7F16E0",
+      "prefLabel": {
+        "de": "Kaffe",
+        "en": "Swim-Head",
+        "fr": "Élancement",
+        "dk": "Kaff",
+        "es": "popa / proa a rampa",
+        "gr": "Swim-Head",
+        "it": "Slancio",
+        "nl": "Heve",
+        "pl": "Skrajnik dziobowy"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/80B562",
+      "prefLabel": {
+        "de": "Vorschiff",
+        "en": "Fore",
+        "fr": "Avant Du Navire",
+        "dk": "Forskib",
+        "es": "escobenes",
+        "gr": "Πρώραθεν, Κατάπρωρα",
+        "it": "Proravia",
+        "nl": "Voor, Voorschip",
+        "pl": "Przód"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/87FFFB",
+      "prefLabel": {
+        "de": "Bug",
+        "en": "Bow",
+        "fr": "Proue",
+        "dk": "Bov",
+        "es": "proa",
+        "gr": "Πλώρη",
+        "it": "Prua",
+        "nl": "Boeg",
+        "pl": "Dziób"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/8CA594",
+      "prefLabel": {
+        "de": "Mittelsteven",
+        "en": "Middle Stempost",
+        "fr": "Proue Centrale",
+        "dk": "Midterstævn",
+        "es": "roda central",
+        "gr": "Μέγιστος Νομεύς, Μάστορης",
+        "it": "Ruota di prua di mezzo",
+        "nl": "Middensteven",
+        "pl": "Stewa środkowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/938B4F",
+      "prefLabel": {
+        "de": "Achtersteven",
+        "en": "Sternpost",
+        "fr": "Étambot",
+        "dk": "Agterstævn",
+        "es": "codaste popel",
+        "gr": "Ποδόστημα",
+        "it": "Dritto/Ruota di poppa",
+        "nl": "Achtersteven",
+        "pl": "Tylnica"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/977C4D",
+      "prefLabel": {
+        "de": "Kimm (Eckig)",
+        "en": "Chine",
+        "fr": "Bouchain Vif",
+        "dk": "Kiming Skarp",
+        "es": "angular de pantoque",
+        "gr": "Δούγας",
+        "it": "Curvatura della carena",
+        "nl": "Kim (Harde)",
+        "pl": "Łańcuch"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/A00109",
+      "prefLabel": {
+        "de": "Futterholz",
+        "en": "filler",
+        "fr": "cale de remplissage",
+        "dk": "fyldtræ",
+        "es": "pieza de relleno",
+        "gr": "ο ζωστήρας",
+        "it": "riempitivo",
+        "nl": "vulstuk"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/A7A73E",
+      "prefLabel": {
+        "de": "Aussensteven (hinten)",
+        "en": "false stern",
+        "fr": "faux étambot arrière",
+        "dk": "falsk agterstævn",
+        "es": "falsa popa",
+        "it": "falsa poppa",
+        "nl": "buitensteven (achter)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/A9FE4D",
+      "prefLabel": {
+        "de": "Scheuerleiste",
+        "en": "Fender",
+        "fr": "Préceinte",
+        "dk": "Fenderliste",
+        "es": "defensa",
+        "gr": "Περίζωμα",
+        "it": "Parabordo",
+        "nl": "Berghout",
+        "pl": "Odbijacz, osłona"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/AC3D96",
+      "prefLabel": {
+        "de": "Stevenschuh/Anlauf",
+        "en": "gripe",
+        "fr": "brion",
+        "dk": "stævnknæ",
+        "es": "trapa",
+        "gr": "το στειρόποδο της πλώρης",
+        "it": "brione",
+        "nl": "stevenknie"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/B00683",
+      "prefLabel": {
+        "de": "falscher Kiel",
+        "en": "false keel",
+        "fr": "fausse-quille",
+        "dk": "stråkøl",
+        "es": "falsa quilla",
+        "gr": "το χέλυσμα,το υποτρόπιον",
+        "it": "falsa chiglia",
+        "nl": "valse kiel",
+        "pl": "ploza stepkowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/B0535D",
+      "prefLabel": {
+        "de": "Vordersteven",
+        "en": "Stempost",
+        "fr": "Étrave",
+        "dk": "Forstævn",
+        "es": "branque",
+        "gr": "Στείρα της Πλώρης",
+        "it": "Dritto/Ruota di prua",
+        "nl": "Voorsteven",
+        "pl": "Gniazdo masztu"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/B0565D",
+      "prefLabel": {
+        "de": "Bargholz",
+        "en": "Wale",
+        "fr": "Préceinte",
+        "dk": "Bergholt",
+        "es": "cinta",
+        "gr": "Ζωστήρ",
+        "it": "Cinta",
+        "nl": "Berghout",
+        "pl": "Mocnica burty"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/B61EB9",
+      "prefLabel": {
+        "de": "Schanzkleid",
+        "en": "Bulwark",
+        "dk": "Skanseklædning",
+        "es": "borda ó regala",
+        "gr": "Δρύφρακτο, Παραπέτο",
+        "it": "Parapetto",
+        "nl": "Verschansing",
+        "pl": "Nadburcie"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/BCE269",
+      "prefLabel": {
+        "de": "Sprung",
+        "en": "Sheer",
+        "fr": "Torture",
+        "dk": "Spring",
+        "es": "arrufo",
+        "gr": "Σιμότης, Λουνάδα",
+        "it": "Cavallino",
+        "nl": "Zeeg",
+        "pl": "Wznios pokładu"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/C71032",
+      "prefLabel": {
+        "de": "Planke",
+        "en": "Plank",
+        "fr": "Bordage",
+        "dk": "Planke",
+        "es": "tablón",
+        "gr": "Σανίδα, Μαδέρι, Επηγκενίς",
+        "it": "Tavola di fasciame",
+        "nl": "Plank",
+        "pl": "Klepka"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/CDC760",
+      "prefLabel": {
+        "de": "Spiegel",
+        "en": "Mirror",
+        "fr": "Miroir",
+        "dk": "Spejl.",
+        "es": "popa de espejo",
+        "gr": "Καθρέφτης",
+        "it": "Specchio",
+        "nl": "Spiegel",
+        "pl": "Odbicie"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/D10A1D",
+      "prefLabel": {
+        "de": "Stevendekoration",
+        "en": "Figurehead",
+        "fr": "Figure De Proue",
+        "dk": "Stævnfigur",
+        "es": "decoración de roda",
+        "gr": "Ακρόπρωρον",
+        "it": "Polena",
+        "nl": "Boegbeeld",
+        "pl": "Galion, figura dziobowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/D1CB84",
+      "prefLabel": {
+        "de": "Dollbord",
+        "en": "Gunwale",
+        "fr": "Plat-Bord",
+        "dk": "Essing",
+        "es": "regala o borda",
+        "gr": "Κουπαστή",
+        "it": "Capo di banda",
+        "nl": "Dolboord",
+        "pl": "Mocnica burtowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/DB6446",
+      "prefLabel": {
+        "de": "Heck",
+        "en": "Stern",
+        "fr": "Poupe",
+        "dk": "Hæk",
+        "es": "popa",
+        "gr": "Πρύμνη",
+        "it": "Poppa",
+        "nl": "Hek",
+        "pl": "Rufa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/DC8396",
+      "prefLabel": {
+        "de": "Schandeckel",
+        "en": "covering board",
+        "fr": "plat bord",
+        "dk": "skandæk",
+        "es": "regala",
+        "it": "bordo",
+        "nl": "potdeksel"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/E9E384",
+      "prefLabel": {
+        "de": "Bugholz",
+        "en": "prow block",
+        "fr": "épaulure",
+        "dk": "stævnblok",
+        "es": "prow block (eng)",
+        "it": "blocco di prua",
+        "nl": "stevenplaat",
+        "pl": "blok dziobowy"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/F426DE",
+      "prefLabel": {
+        "de": "Kielplanke",
+        "en": "Keel-Plank",
+        "fr": "Bordage de Quille",
+        "dk": "Kølplanke",
+        "es": "tablón de aparadura",
+        "gr": "Μαδέρι δίπλα στην Καρένα",
+        "it": "Tavola di chiglia",
+        "nl": "Kielplank",
+        "pl": "Klepka stępkowa"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone/F71E8E",
+      "prefLabel": {
+        "de": "Beplankung",
+        "en": "Planking",
+        "fr": "Bordé",
+        "dk": "Bordlægning",
+        "es": "tablón",
+        "gr": "Πέτσωμα",
+        "it": "Fasciame",
+        "nl": "Beplanking",
+        "pl": "Poszycie"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://www.lassemempel.github.io/terminologies/NAVISone"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
