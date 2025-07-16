@@ -19,10 +19,10 @@ parentDf = pd.read_csv("parent.csv")
 
 
 #baseUri = "https://www.lassemempel.github.io/Terminologien/NAVISone"
-#baseUri = "https://www.lassemempel.github.io/terminologies/NAVISone"
+baseUri = "https://www.lassemempel.github.io/terminologies/NAVISone"
 #baseUri = "https://www.lassemempel.github.io/LEIZA-Terminologien/NAVISone"
 #baseUri = "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
-baseUri = "https://www.w3id.org/archlink/terms/NAVISone"
+#baseUri = "https://www.w3id.org/archlink/terms/NAVISone"
 
 thesaurus = URIRef(baseUri)
 
