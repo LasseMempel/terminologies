@@ -24,6 +24,71 @@ def csv2Df(link, propertyMatchDict):
     """
     return df
 
+def integrateTranslationInLabels(df):
+    # integrate translation column into prefLabel and altLabel
+    for index, row in df.iterrows():
+        if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
+            # add @baseLangLabel to all prefLabels
+            prefLabels = row["prefLabel"].split("|")
+            if len(prefLabels) == 0:
+                prefLabels = [row["prefLabel"]]
+            prefLabels = [x.strip()+"@"+baseLanguageLabel for x in prefLabels]
+            # join changed prefLabels with seperator "|" at row prefLabel
+            df.at[index, "prefLabel"] = "|".join(prefLabels)
+
+            if row["altLabel"] and isinstance(row["altLabel"], str):
+                # add @baseLangLabel to all altLabels
+                altLabels = row["altLabel"].split("|")
+                if len(altLabels) == 0:
+                    altLabels = [row["altLabel"]]
+                altLabels = [x.strip()+"@"+baseLanguageLabel for x in altLabels]
+                # join changed altLabels with seperator "|" at row altLabel
+                df.at[index, "altLabel"] = "|".join(altLabels)
+
+            # integrate translation column into pref and alt labels
+            if row["translation"] and isinstance(row["translation"], str):
+
+                labels = row["translation"].split("|")
+                labels = [x.strip() for x in labels]
+                langDict = {}
+                for label in labels:
+                    try:
+                        term, lang = label.split("@")
+                    except:
+                        print(label)
+                        raise Exception
+                    if lang in langDict:
+                        langDict[lang].append(term)
+                    else:
+                        langDict[lang] = [term]
+                for language in langDict:
+                    for i in range(len(langDict[language])):
+                        if i == 0:
+                            # add term to prefLabel
+                            df.at[index, "prefLabel"] += "|" + langDict[language][i] + "@"+ language
+                        else:
+                            # add term to altLabel
+                            if not isinstance(row["altLabel"], float):
+                                df.at[index, "altLabel"] += "|" + langDict[language][i] + "@"+ language
+                            else:
+                                df.at[index, "altLabel"] = langDict[language][i] + "@"+ language
+    # write data as csv
+    #df.to_csv('integratedTranslation.csv', index=False)
+    df = df.drop(columns=["translation"])
+    return df
+
+def useSemanticAatUris(df):
+    for index, row in df.iterrows():
+        if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
+            # in columns "closeMatch" and "relatedMatch" replace "vocab.getty.edu/page/aat/" with vocab.getty.edu/aat/
+            oldRelatedMatch = row["relatedMatch"]
+            oldCloseMatch = row["closeMatch"]
+            if oldRelatedMatch and isinstance(oldRelatedMatch, str):
+                df.at[index, "relatedMatch"] = oldRelatedMatch.replace("vocab.getty.edu/page/aat/", "vocab.getty.edu/aat/")
+            if oldCloseMatch and isinstance(oldCloseMatch, str):
+                df.at[index, "closeMatch"] = oldCloseMatch.replace("vocab.getty.edu/page/aat/", "vocab.getty.edu/aat/")
+    return df
+
 def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus):
     i = i.strip()
     if i == "":
@@ -94,7 +159,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
                     "Leslie Pluntke",
                     "Markus Wittköpper",
                     "Marlene Schmucker",
-                    "Dr. Roland Schwab",
+                    "Prof. Dr. Roland Schwab",
                     "Rüdiger Lehnert",
                     "Ulrike Lehnert",
                     "Stephan Patscher",
@@ -131,6 +196,8 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
 def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     df = csv2Df(link, propertyMatchDict)
+    df = integrateTranslationInLabels(df)
+    df = useSemanticAatUris(df)
     text = df.to_csv(index=False)
     with open('polishedData.csv', 'w', encoding="utf-8") as f:
         f.write(text)
@@ -139,9 +206,9 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     graph.serialize(destination='thesaurus.ttl', format='turtle')   
     graph.serialize(destination='thesaurus.json-ld', format='json-ld')
 
-link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
+link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJV7qC1QYCAYghp8SX09EatvnXPurJ9ZMAsGE1iUrPIxL4nLiyXlYBtKBi1Zf1xTG10AXzUp3pZcxx/pub?gid=0&single=true&output=csv" # "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "https://www.lassemempel.github.io/terminologies/conservationthesaurus"  #"https://www.w3id.org/archlink/terms/conservationthesaurus" # "https://www.lassemempel.github.io/terminologies/conservationthesaurus" # "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"   # "http://data.archaeology.link/terminology/archeologicalconservation"
+baseUri = "https://www.w3id.org/archlink/terms/conservationthesaurus" # "https://www.lassemempel.github.io/terminologies/conservationthesaurus"  # # "https://www.lassemempel.github.io/terminologies/conservationthesaurus" # "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"   # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader"}
