@@ -4,12 +4,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F37PBQ> a skos:Concept ;
-    skos:definition "punktartige Eindrücke in die Oberfläche des Materials, oft regelmäßig angeordnet (Dekoelement)."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:notation "F37PBQ" ;
-    skos:prefLabel "Punktierung"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A14228> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
     skos:definition "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz"@de ;
@@ -4012,6 +4006,13 @@ Technologie. München 2000, S. 93."""@de ;
     skos:notation "F3684F" ;
     skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 393- 395."@de ;
     skos:prefLabel "Abreichungsvergoldung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F37PBQ> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C78A4B> ;
+    skos:definition "punktartige Eindrücke in die Oberfläche des Materials, oft regelmäßig angeordnet (Dekoelement)."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "F37PBQ" ;
+    skos:prefLabel "Punktierung"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F3DB41> a skos:Concept ;
     skos:altLabel "Holzöl"@de ;
@@ -8479,19 +8480,6 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:prefLabel "Schleifkörper"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C78A4B> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C3648A> ;
-    skos:definition "Auf dem Objekt ist eine (oder mehrere) nicht durch das gesamte Material durchgehende Einsenkung zu erkennen, die auf die verwendete Technik zur Herstellung des Objektes zurück zu führen ist."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BA8FG7>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD952B>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D8F8A8>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F22388>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB641>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G87689> ;
-    skos:notation "C78A4B" ;
-    skos:prefLabel "Vertiefung"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> a skos:Concept ;
     skos:definition "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten"@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
@@ -8616,6 +8604,20 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     skos:note "DIN EN ISO 472/A1:2019-03, Kunststoffe - Fachwörterverzeichnis - Änderung 1: Weitere Einträge (ISO 472:2013/Amd.1:2018); Dreisprachige Fassung EN ISO 472:2013/A1:2018, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Füllstoff"@de,
         "filler"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C78A4B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C3648A> ;
+    skos:definition "Auf dem Objekt ist eine (oder mehrere) nicht durch das gesamte Material durchgehende Einsenkung zu erkennen, die auf die verwendete Technik zur Herstellung des Objektes zurück zu führen ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BA8FG7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD952B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D8F8A8>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F22388>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F37PBQ>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB641>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G87689> ;
+    skos:notation "C78A4B" ;
+    skos:prefLabel "Vertiefung"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> a skos:Concept ;
     skos:altLabel "Beschädigungsart"@de,
@@ -9079,7 +9081,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         "epoxy resin"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> a skos:Concept ;
-    skos:altLabel "conservationmaterial"@en ;
+    skos:altLabel "conservation material"@en ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
     skos:closeMatch <http://terminology.lido-schema.org/lido00132>,
         <http://www.wikidata.org/entity/Q214609> ;
@@ -9101,7 +9103,7 @@ Technologie. München 2000, S. 92 - 97."""@de ;
         <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> ;
     skos:notation "C364G1" ;
     skos:prefLabel "Konservierungs- und Restaurierungsmaterialien"@de,
-        "restorationmaterial"@en .
+        "restoration material"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> a skos:Concept ;
     rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.65." ;
