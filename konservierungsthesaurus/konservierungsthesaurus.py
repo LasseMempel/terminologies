@@ -205,6 +205,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     graph = df2Skos(df, baseLanguageLabel, baseUri, seperator)
     graph.serialize(destination='thesaurus.ttl', format='turtle')   
     graph.serialize(destination='thesaurus.json-ld', format='json-ld')
+    graph.serialize(destination='thesaurus.rdf', format='xml')
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJV7qC1QYCAYghp8SX09EatvnXPurJ9ZMAsGE1iUrPIxL4nLiyXlYBtKBi1Zf1xTG10AXzUp3pZcxx/pub?gid=0&single=true&output=csv" # "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
