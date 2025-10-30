@@ -4,6 +4,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C4A59C> a skos:Concept ;
+    skos:altLabel "gewölbt"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "C4A59C" ;
+    skos:prefLabel "ausgebeult"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A14228> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
     skos:definition "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz"@de ;
@@ -360,7 +366,8 @@
     skos:prefLabel "Archäocoll 2000 N"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A5D63G> a skos:Concept ;
-    skos:altLabel "vorbehandelt"@de ;
+    skos:altLabel "frühere Maßnahme"@de,
+        "vorbehandelt"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> ;
     skos:definition "An dem Objekt sind Spuren der Veränderung festzustellen, die auf eine (oder mehrere) vorherige Konservierungs- bzw. Restaurierungsmaßnahme hindeuten."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
@@ -578,13 +585,6 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "A8B581" ;
     skos:prefLabel "gedengelt"@de .
-
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A8C236> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3> ;
-    skos:definition "Das Material liegt ganz oder teilweise in feiner, staubartiger Form vor oder zerfällt bei mechanischer Belastung in diese. Der innere Zusammenhalt ist nahezu vollständig verloren."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:notation "A8C236" ;
-    skos:prefLabel "pulvrig"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A8C667> a skos:Concept ;
     skos:altLabel "Prägen"@de,
@@ -3189,6 +3189,12 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:notation "D4B599" ;
     skos:prefLabel "gebläut"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D4BG7C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A8C236> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "D4BG7C" ;
+    skos:prefLabel "roter Zerfall"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D4FC62> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BFCF37> ;
     skos:definition "Produktname eines Schadstoff- bzw Sauerstoffabsorbers bestehend aus Kieselgur, Polyethylen, Ca(OH)2 sowie Graphit der Firma Mitsubishi Gas Chemical Europe GmbH, speziell für die Konservierung von hygroskopischen Materialien entwickelt. RP-K absorbiert Luftsauerstoff, ohne Einfluss auf die relative Luftfeuchtigkeit zu nehmen."@de ;
@@ -3832,6 +3838,12 @@ Fertigungsverfahren Spanen - Teil 1: Drehen; Einordnung, Unterteilung, Begriffe,
     skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 308/309."@de ;
     skos:prefLabel "Speckstein"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DF2DFG> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A4G8FA> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "DF2DFG" ;
+    skos:prefLabel "verschwärzt"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7759> a skos:Concept ;
     skos:altLabel "Gravierung"@de,
         "Gravur"@de ;
@@ -4463,7 +4475,8 @@ Technologie. München 2000, S. 93."""@de ;
     skos:prefLabel "Schmelzofen"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/FA9B73> a skos:Concept ;
-    skos:altLabel "Schichtentrennung"@de ;
+    skos:altLabel "Schichtentrennung"@de,
+        "Spaltung"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3> ;
     skos:definition "Das Materialgefüge des Objektes weist eine Ablösung in mehr oder weniger klar definierten Schichten auf."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
@@ -5380,6 +5393,7 @@ Technologie. München 2000, S. 86."""@de ;
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GA2C4A> a skos:Concept ;
     skos:altLabel "Glanzverlust"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300065241> ;
     skos:definition "Die vormals glänzende Oberfläche eines Objektes geht zunehmend in ein mattes Erscheinungsbild über."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "GA2C4A" ;
@@ -5407,7 +5421,8 @@ Technologie. München 2000, S. 86."""@de ;
         "laser-induced breakdown spectroscopy"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GAC37B> a skos:Concept ;
-    skos:altLabel "eingedellt"@de ;
+    skos:altLabel "Abdruck"@de,
+        "eingedellt"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A8D9GF> ;
     skos:definition "Die Deformation des Objektes weist eine nach innen gerichtete Form auf."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
@@ -5609,11 +5624,13 @@ Technologie. München 2000, S. 95."""@de ;
     skos:prefLabel "Druckluft"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GF41DG> a skos:Concept ;
+    skos:altLabel "Überzug aufbringen"@de,
+        "überziehen"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
     skos:definition "Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials"@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "GF41DG" ;
-    skos:prefLabel "Schutzüberzug"@de ;
+    skos:prefLabel "Schutzüberzug aufbringen"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/D2G12A>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
 
@@ -5752,6 +5769,16 @@ Technologie. München 2000, S. 95."""@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "A4G4G1" ;
     skos:prefLabel "Heißluftföhn"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A8C236> a skos:Concept ;
+    skos:altLabel "pudernde Oberfläche"@de,
+        "pulverisierte Oberfläche"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3> ;
+    skos:definition "Das Material liegt ganz oder teilweise in feiner, staubartiger Form vor oder zerfällt bei mechanischer Belastung in diese. Der innere Zusammenhalt ist nahezu vollständig verloren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D4BG7C> ;
+    skos:notation "A8C236" ;
+    skos:prefLabel "pulvrig"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D41661> ;
@@ -7563,19 +7590,6 @@ Technologie. München 2000, S. 93."""@de ;
         "bonding"@en ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A4G8FA> a skos:Concept ;
-    skos:altLabel "Verfärbung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6> ;
-    skos:definition "Das Objekt zeigt in seiner Farbigkeit eine Änderung, die mindestend eine der drei Farbparameter Ton, Helligkeit oder Sättigung betrifft."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/ABCF99>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F4D633>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8GAA6>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GDCD91> ;
-    skos:notation "A4G8FA" ;
-    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
-    skos:prefLabel "farbverändert"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
     skos:definition "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten"@de ;
@@ -8045,6 +8059,20 @@ Technologie. München 2000, S. 93."""@de ;
     skos:prefLabel "Konservierungskonzept"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8> ;
     skos:topConceptOf <https://www.w3id.org/archlink/terms/conservationthesaurus> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A4G8FA> a skos:Concept ;
+    skos:altLabel "Verfärbung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6> ;
+    skos:definition "Das Objekt zeigt in seiner Farbigkeit eine Änderung, die mindestend eine der drei Farbparameter Ton, Helligkeit oder Sättigung betrifft."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/ABCF99>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF2DFG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F4D633>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8GAA6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GDCD91> ;
+    skos:notation "A4G8FA" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "farbverändert"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A7C8CB> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1> ;
